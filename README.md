@@ -4,7 +4,7 @@ The emoji epic conversion library
 
 [![StyleCI](https://styleci.io/repos/95678703/shield?branch=master)](https://styleci.io/repos/95678703)
 [![Build Status](https://travis-ci.org/emanci/epic-emoji.svg?branch=master)](https://travis-ci.org/emanci/epic-emoji)
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://packagist.org/packages/emanci/epic-emoji)
 
 ## Usage
 
