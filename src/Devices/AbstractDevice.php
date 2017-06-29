@@ -3,9 +3,9 @@
 namespace Emanci\EpicEmoji\Devices;
 
 use Closure;
-use InvalidArgumentException;
 use Emanci\EpicEmoji\Dictionary;
 use Emanci\EpicEmoji\FileNotFoundException;
+use InvalidArgumentException;
 
 /**
  * 提示: emoji 表情有很多种版本, 其中包括Unified, DoCoMo, KDDI, Softbank和Google, 并且不同版本用于表示同一符号表情的 unicode 代码也不相同.

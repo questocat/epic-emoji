@@ -41,7 +41,7 @@ function format_string($raw)
     $out = '';
     for ($i = 0; $i < strlen($raw); ++$i) {
         $c = ord(substr($raw, $i, 1));
-        if ($c >= 0x20 && $c < 0x80 && !in_array($c, array(34, 39, 92))) {
+        if ($c >= 0x20 && $c < 0x80 && !in_array($c, array(34, 39, 92), true)) {
             $out .= chr($c);
         } else {
             $out .= sprintf('\\x%02x', $c);

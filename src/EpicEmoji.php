@@ -2,8 +2,8 @@
 
 namespace Emanci\EpicEmoji;
 
-use InvalidArgumentException;
 use Emanci\EpicEmoji\Devices\AbstractDevice;
+use InvalidArgumentException;
 
 class EpicEmoji
 {
