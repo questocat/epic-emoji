@@ -1,0 +1,10 @@
+preset: symfony
+
+linting: true
+
+enabled:
+  - newline_after_open_tag
+  - no_closing_tag
+  - strict
+  - strict_param
+  - ordered_use
