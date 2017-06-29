@@ -6,6 +6,6 @@ trait KDDITrait
 {
     public function kddi()
     {
-        return $this->deviceExchange('kddi');
+        return $this->deviceExchange('KDDI');
     }
 }

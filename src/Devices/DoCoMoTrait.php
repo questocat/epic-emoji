@@ -6,6 +6,6 @@ trait DoCoMoTrait
 {
     public function docomo()
     {
-        return $this->deviceExchange('docomo');
+        return $this->deviceExchange('DoCoMo');
     }
 }
