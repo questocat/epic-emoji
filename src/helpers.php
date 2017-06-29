@@ -1,12 +1,12 @@
 <?php
 
 /**
- * @param mixed   $value
- * @param Closure $callback
+ * @param mixed    $value
+ * @param callable $callback
  *
  * @return mixed
  */
-function map($value, \Closure $callback)
+function map($value, callable $callback)
 {
     return $callback($value);
 }

@@ -2,7 +2,6 @@
 
 namespace Emanci\EpicEmoji\Devices;
 
-use Closure;
 use Emanci\EpicEmoji\Dictionary;
 use Emanci\EpicEmoji\FileNotFoundException;
 use InvalidArgumentException;
@@ -219,11 +218,11 @@ abstract class AbstractDevice
     }
 
     /**
-     * @param Closure $callback
+     * @param callable $callback
      *
      * @return mixed
      */
-    protected function emojiWasCalled($identifier, Closure $callback)
+    protected function emojiWasCalled($identifier, callable $callback)
     {
         $path = dirname(dirname(__DIR__)).'/data/'.$identifier;
 
