@@ -1,7 +1,7 @@
 {
     "name": "emanci/epic-emoji",
-    "description": "",
-    "keywords": ["emoji", "emoji-php"],
+    "description": "The emoji epic conversion library",
+    "keywords": ["emoji", "php-emoji"],
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [{
