@@ -6,6 +6,6 @@ trait GoogleTrait
 {
     public function google()
     {
-        return $this->deviceExchange('Google');
+        return $this->deviceExchange('google');
     }
 }

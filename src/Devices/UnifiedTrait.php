@@ -6,6 +6,6 @@ trait UnifiedTrait
 {
     public function unified()
     {
-        return $this->deviceExchange('Unified');
+        return $this->deviceExchange('unified');
     }
 }

@@ -185,7 +185,7 @@ abstract class AbstractDevice
             }
 
             $search = array_keys($map);
-            $replace = array_column(array_column($map, 'unicode'), $device);
+            $replace = array_column(array_column($map, 'unicode'), strtolower($device));
             $replacement = $this->convert($search, $replace, $this->text);
 
             return new $deviceName($replacement);

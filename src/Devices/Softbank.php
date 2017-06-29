@@ -4,7 +4,7 @@ namespace Emanci\EpicEmoji\Devices;
 
 class Softbank extends AbstractDevice
 {
-    use DoCoMoTrait, GoogleTrait, KDDITrait, UnifiedTrait;
+    use DocomoTrait, GoogleTrait, KddiTrait, UnifiedTrait;
 
     /**
      * {@inheritdoc}

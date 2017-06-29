@@ -2,9 +2,9 @@
 
 namespace Tests;
 
-use Emanci\EpicEmoji\Devices\DoCoMo;
+use Emanci\EpicEmoji\Devices\Docomo;
 use Emanci\EpicEmoji\Devices\Google;
-use Emanci\EpicEmoji\Devices\KDDI;
+use Emanci\EpicEmoji\Devices\Kddi;
 use Emanci\EpicEmoji\Devices\Softbank;
 use Emanci\EpicEmoji\Devices\Unified;
 
@@ -64,7 +64,7 @@ class UnifiedTest extends TestCase
     public function testConvertKDDI()
     {
         $kddi = $this->unified->kddi();
-        $this->assertInstanceOf(get_class($kddi), new KDDI());
+        $this->assertInstanceOf(get_class($kddi), new Kddi());
     }
 
     public function testConvertGoogle()
@@ -76,7 +76,7 @@ class UnifiedTest extends TestCase
     public function testConvertDoCoMo()
     {
         $docomo = $this->unified->docomo();
-        $this->assertInstanceOf(get_class($docomo), new DoCoMo());
+        $this->assertInstanceOf(get_class($docomo), new Docomo());
     }
 }
 

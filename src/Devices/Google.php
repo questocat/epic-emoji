@@ -4,7 +4,7 @@ namespace Emanci\EpicEmoji\Devices;
 
 class Google extends AbstractDevice
 {
-    use DoCoMoTrait, KDDITrait, SoftbankTrait, UnifiedTrait;
+    use DocomoTrait, KddiTrait, SoftbankTrait, UnifiedTrait;
 
     /**
      * {@inheritdoc}

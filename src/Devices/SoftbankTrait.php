@@ -6,6 +6,6 @@ trait SoftbankTrait
 {
     public function softbank()
     {
-        return $this->deviceExchange('Softbank');
+        return $this->deviceExchange('softbank');
     }
 }
