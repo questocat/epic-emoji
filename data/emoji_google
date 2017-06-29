@@ -1,0 +1,6474 @@
+<?php
+return array(
+	"\xf3\xbe\xac\xa9" => array(
+		"codepoint"=>"U+FEB29",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb1",
+			"softbank"=>"\xee\x89\x8e",
+			"unified"=>"\xc2\xa9",
+			"kddi"=>"\xee\x95\x98",
+		),
+	),
+	"\xf3\xbe\xac\xad" => array(
+		"codepoint"=>"U+FEB2D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb6",
+			"softbank"=>"\xee\x89\x8f",
+			"unified"=>"\xc2\xae",
+			"kddi"=>"\xee\x95\x99",
+		),
+	),
+	"\xf3\xbe\xac\x86" => array(
+		"codepoint"=>"U+FEB06",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x84",
+			"softbank"=>"",
+			"unified"=>"\xe2\x80\xbc",
+			"kddi"=>"\xee\xac\xb0",
+		),
+	),
+	"\xf3\xbe\xac\x85" => array(
+		"codepoint"=>"U+FEB05",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x83",
+			"softbank"=>"",
+			"unified"=>"\xe2\x81\x89",
+			"kddi"=>"\xee\xac\xaf",
+		),
+	),
+	"\xf3\xbe\xac\xaa" => array(
+		"codepoint"=>"U+FEB2A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb2",
+			"softbank"=>"\xee\x94\xb7",
+			"unified"=>"\xe2\x84\xa2",
+			"kddi"=>"\xee\x95\x8e",
+		),
+	),
+	"\xf3\xbe\xad\x87" => array(
+		"codepoint"=>"U+FEB47",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x84\xb9",
+			"kddi"=>"\xee\x94\xb3",
+		),
+	),
+	"\xf3\xbe\xab\xb6" => array(
+		"codepoint"=>"U+FEAF6",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xbc",
+			"softbank"=>"",
+			"unified"=>"\xe2\x86\x94",
+			"kddi"=>"\xee\xad\xba",
+		),
+	),
+	"\xf3\xbe\xab\xb7" => array(
+		"codepoint"=>"U+FEAF7",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xbd",
+			"softbank"=>"",
+			"unified"=>"\xe2\x86\x95",
+			"kddi"=>"\xee\xad\xbb",
+		),
+	),
+	"\xf3\xbe\xab\xb2" => array(
+		"codepoint"=>"U+FEAF2",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x97",
+			"softbank"=>"\xee\x88\xb7",
+			"unified"=>"\xe2\x86\x96",
+			"kddi"=>"\xee\x95\x8c",
+		),
+	),
+	"\xf3\xbe\xab\xb0" => array(
+		"codepoint"=>"U+FEAF0",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb8",
+			"softbank"=>"\xee\x88\xb6",
+			"unified"=>"\xe2\x86\x97",
+			"kddi"=>"\xee\x95\x95",
+		),
+	),
+	"\xf3\xbe\xab\xb1" => array(
+		"codepoint"=>"U+FEAF1",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x96",
+			"softbank"=>"\xee\x88\xb8",
+			"unified"=>"\xe2\x86\x98",
+			"kddi"=>"\xee\x95\x8d",
+		),
+	),
+	"\xf3\xbe\xab\xb3" => array(
+		"codepoint"=>"U+FEAF3",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa5",
+			"softbank"=>"\xee\x88\xb9",
+			"unified"=>"\xe2\x86\x99",
+			"kddi"=>"\xee\x95\x96",
+		),
+	),
+	"\xf3\xbe\xae\x83" => array(
+		"codepoint"=>"U+FEB83",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x9a",
+			"softbank"=>"",
+			"unified"=>"\xe2\x86\xa9",
+			"kddi"=>"\xee\x95\x9d",
+		),
+	),
+	"\xf3\xbe\xae\x88" => array(
+		"codepoint"=>"U+FEB88",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x86\xaa",
+			"kddi"=>"\xee\x95\x9c",
+		),
+	),
+	"\xf3\xbe\x80\x9d" => array(
+		"codepoint"=>"U+FE01D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9f",
+			"softbank"=>"",
+			"unified"=>"\xe2\x8c\x9a",
+			"kddi"=>"\xee\x95\xba",
+		),
+	),
+	"\xf3\xbe\x80\x9c" => array(
+		"codepoint"=>"U+FE01C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9c",
+			"softbank"=>"",
+			"unified"=>"\xe2\x8c\x9b",
+			"kddi"=>"\xee\x95\xbb",
+		),
+	),
+	"\xf3\xbe\xab\xbe" => array(
+		"codepoint"=>"U+FEAFE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xbc",
+			"unified"=>"\xe2\x8f\xa9",
+			"kddi"=>"\xee\x94\xb0",
+		),
+	),
+	"\xf3\xbe\xab\xbf" => array(
+		"codepoint"=>"U+FEAFF",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xbd",
+			"unified"=>"\xe2\x8f\xaa",
+			"kddi"=>"\xee\x94\xaf",
+		),
+	),
+	"\xf3\xbe\xac\x83" => array(
+		"codepoint"=>"U+FEB03",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x8f\xab",
+			"kddi"=>"\xee\x95\x85",
+		),
+	),
+	"\xf3\xbe\xac\x82" => array(
+		"codepoint"=>"U+FEB02",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x8f\xac",
+			"kddi"=>"\xee\x95\x84",
+		),
+	),
+	"\xf3\xbe\x80\xaa" => array(
+		"codepoint"=>"U+FE02A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xad",
+			"unified"=>"\xe2\x8f\xb0",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\x9b" => array(
+		"codepoint"=>"U+FE01B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9c",
+			"softbank"=>"",
+			"unified"=>"\xe2\x8f\xb3",
+			"kddi"=>"\xee\x91\xbc",
+		),
+	),
+	"\xf3\xbe\x9f\xa1" => array(
+		"codepoint"=>"U+FE7E1",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9c",
+			"softbank"=>"\xee\x90\xb4",
+			"unified"=>"\xe2\x93\x82",
+			"kddi"=>"\xee\x96\xbc",
+		),
+	),
+	"\xf3\xbe\xad\xae" => array(
+		"codepoint"=>"U+FEB6E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9a",
+			"unified"=>"\xe2\x96\xaa",
+			"kddi"=>"\xee\x94\xb2",
+		),
+	),
+	"\xf3\xbe\xad\xad" => array(
+		"codepoint"=>"U+FEB6D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xe2\x96\xab",
+			"kddi"=>"\xee\x94\xb1",
+		),
+	),
+	"\xf3\xbe\xab\xbc" => array(
+		"codepoint"=>"U+FEAFC",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xba",
+			"unified"=>"\xe2\x96\xb6",
+			"kddi"=>"\xee\x94\xae",
+		),
+	),
+	"\xf3\xbe\xab\xbd" => array(
+		"codepoint"=>"U+FEAFD",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xbb",
+			"unified"=>"\xe2\x97\x80",
+			"kddi"=>"\xee\x94\xad",
+		),
+	),
+	"\xf3\xbe\xad\xb1" => array(
+		"codepoint"=>"U+FEB71",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xe2\x97\xbb",
+			"kddi"=>"\xee\x94\xb8",
+		),
+	),
+	"\xf3\xbe\xad\xb2" => array(
+		"codepoint"=>"U+FEB72",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9a",
+			"unified"=>"\xe2\x97\xbc",
+			"kddi"=>"\xee\x94\xb9",
+		),
+	),
+	"\xf3\xbe\xad\xaf" => array(
+		"codepoint"=>"U+FEB6F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xe2\x97\xbd",
+			"kddi"=>"\xee\x94\xb4",
+		),
+	),
+	"\xf3\xbe\xad\xb0" => array(
+		"codepoint"=>"U+FEB70",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9a",
+			"unified"=>"\xe2\x97\xbe",
+			"kddi"=>"\xee\x94\xb5",
+		),
+	),
+	"\xf3\xbe\x80\x80" => array(
+		"codepoint"=>"U+FE000",
+		"unicode" => array(
+			"docomo"=>"\xee\x98\xbe",
+			"softbank"=>"\xee\x81\x8a",
+			"unified"=>"\xe2\x98\x80",
+			"kddi"=>"\xee\x92\x88",
+		),
+	),
+	"\xf3\xbe\x80\x81" => array(
+		"codepoint"=>"U+FE001",
+		"unicode" => array(
+			"docomo"=>"\xee\x98\xbf",
+			"softbank"=>"\xee\x81\x89",
+			"unified"=>"\xe2\x98\x81",
+			"kddi"=>"\xee\x92\x8d",
+		),
+	),
+	"\xf3\xbe\x94\xa3" => array(
+		"codepoint"=>"U+FE523",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x87",
+			"softbank"=>"\xee\x80\x89",
+			"unified"=>"\xe2\x98\x8e",
+			"kddi"=>"\xee\x96\x96",
+		),
+	),
+	"\xf3\xbe\xae\x8b" => array(
+		"codepoint"=>"U+FEB8B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x98\x91",
+			"kddi"=>"\xee\xac\x82",
+		),
+	),
+	"\xf3\xbe\x80\x82" => array(
+		"codepoint"=>"U+FE002",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x80",
+			"softbank"=>"\xee\x81\x8b",
+			"unified"=>"\xe2\x98\x94",
+			"kddi"=>"\xee\x92\x8c",
+		),
+	),
+	"\xf3\xbe\xa6\x81" => array(
+		"codepoint"=>"U+FE981",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb0",
+			"softbank"=>"\xee\x81\x85",
+			"unified"=>"\xe2\x98\x95",
+			"kddi"=>"\xee\x96\x97",
+		),
+	),
+	"\xf3\xbe\xae\x98" => array(
+		"codepoint"=>"U+FEB98",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x80\x8f",
+			"unified"=>"\xe2\x98\x9d",
+			"kddi"=>"\xee\x93\xb6",
+		),
+	),
+	"\xf3\xbe\x8c\xb6" => array(
+		"codepoint"=>"U+FE336",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x90\x94",
+			"unified"=>"\xe2\x98\xba",
+			"kddi"=>"\xee\x93\xbb",
+		),
+	),
+	"\xf3\xbe\x80\xab" => array(
+		"codepoint"=>"U+FE02B",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x86",
+			"softbank"=>"\xee\x88\xbf",
+			"unified"=>"\xe2\x99\x88",
+			"kddi"=>"\xee\x92\x8f",
+		),
+	),
+	"\xf3\xbe\x80\xac" => array(
+		"codepoint"=>"U+FE02C",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x87",
+			"softbank"=>"\xee\x89\x80",
+			"unified"=>"\xe2\x99\x89",
+			"kddi"=>"\xee\x92\x90",
+		),
+	),
+	"\xf3\xbe\x80\xad" => array(
+		"codepoint"=>"U+FE02D",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x88",
+			"softbank"=>"\xee\x89\x81",
+			"unified"=>"\xe2\x99\x8a",
+			"kddi"=>"\xee\x92\x91",
+		),
+	),
+	"\xf3\xbe\x80\xae" => array(
+		"codepoint"=>"U+FE02E",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x89",
+			"softbank"=>"\xee\x89\x82",
+			"unified"=>"\xe2\x99\x8b",
+			"kddi"=>"\xee\x92\x92",
+		),
+	),
+	"\xf3\xbe\x80\xaf" => array(
+		"codepoint"=>"U+FE02F",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x8a",
+			"softbank"=>"\xee\x89\x83",
+			"unified"=>"\xe2\x99\x8c",
+			"kddi"=>"\xee\x92\x93",
+		),
+	),
+	"\xf3\xbe\x80\xb0" => array(
+		"codepoint"=>"U+FE030",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x8b",
+			"softbank"=>"\xee\x89\x84",
+			"unified"=>"\xe2\x99\x8d",
+			"kddi"=>"\xee\x92\x94",
+		),
+	),
+	"\xf3\xbe\x80\xb1" => array(
+		"codepoint"=>"U+FE031",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x8c",
+			"softbank"=>"\xee\x89\x85",
+			"unified"=>"\xe2\x99\x8e",
+			"kddi"=>"\xee\x92\x95",
+		),
+	),
+	"\xf3\xbe\x80\xb2" => array(
+		"codepoint"=>"U+FE032",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x8d",
+			"softbank"=>"\xee\x89\x86",
+			"unified"=>"\xe2\x99\x8f",
+			"kddi"=>"\xee\x92\x96",
+		),
+	),
+	"\xf3\xbe\x80\xb3" => array(
+		"codepoint"=>"U+FE033",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x8e",
+			"softbank"=>"\xee\x89\x87",
+			"unified"=>"\xe2\x99\x90",
+			"kddi"=>"\xee\x92\x97",
+		),
+	),
+	"\xf3\xbe\x80\xb4" => array(
+		"codepoint"=>"U+FE034",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x8f",
+			"softbank"=>"\xee\x89\x88",
+			"unified"=>"\xe2\x99\x91",
+			"kddi"=>"\xee\x92\x98",
+		),
+	),
+	"\xf3\xbe\x80\xb5" => array(
+		"codepoint"=>"U+FE035",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x90",
+			"softbank"=>"\xee\x89\x89",
+			"unified"=>"\xe2\x99\x92",
+			"kddi"=>"\xee\x92\x99",
+		),
+	),
+	"\xf3\xbe\x80\xb6" => array(
+		"codepoint"=>"U+FE036",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x91",
+			"softbank"=>"\xee\x89\x8a",
+			"unified"=>"\xe2\x99\x93",
+			"kddi"=>"\xee\x92\x9a",
+		),
+	),
+	"\xf3\xbe\xac\x9b" => array(
+		"codepoint"=>"U+FEB1B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x8e",
+			"softbank"=>"\xee\x88\x8e",
+			"unified"=>"\xe2\x99\xa0",
+			"kddi"=>"\xee\x96\xa1",
+		),
+	),
+	"\xf3\xbe\xac\x9d" => array(
+		"codepoint"=>"U+FEB1D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x90",
+			"softbank"=>"\xee\x88\x8f",
+			"unified"=>"\xe2\x99\xa3",
+			"kddi"=>"\xee\x96\xa3",
+		),
+	),
+	"\xf3\xbe\xac\x9a" => array(
+		"codepoint"=>"U+FEB1A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x8d",
+			"softbank"=>"\xee\x88\x8c",
+			"unified"=>"\xe2\x99\xa5",
+			"kddi"=>"\xee\xaa\xa5",
+		),
+	),
+	"\xf3\xbe\xac\x9c" => array(
+		"codepoint"=>"U+FEB1C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x8f",
+			"softbank"=>"\xee\x88\x8d",
+			"unified"=>"\xe2\x99\xa6",
+			"kddi"=>"\xee\x96\xa2",
+		),
+	),
+	"\xf3\xbe\x9f\xba" => array(
+		"codepoint"=>"U+FE7FA",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb7",
+			"softbank"=>"\xee\x84\xa3",
+			"unified"=>"\xe2\x99\xa8",
+			"kddi"=>"\xee\x92\xbc",
+		),
+	),
+	"\xf3\xbe\xac\xac" => array(
+		"codepoint"=>"U+FEB2C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb5",
+			"softbank"=>"",
+			"unified"=>"\xe2\x99\xbb",
+			"kddi"=>"\xee\xad\xb9",
+		),
+	),
+	"\xf3\xbe\xac\xa0" => array(
+		"codepoint"=>"U+FEB20",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9b",
+			"softbank"=>"\xee\x88\x8a",
+			"unified"=>"\xe2\x99\xbf",
+			"kddi"=>"\xee\x91\xbf",
+		),
+	),
+	"\xf3\xbe\x93\x81" => array(
+		"codepoint"=>"U+FE4C1",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa1",
+			"softbank"=>"\xee\x88\x82",
+			"unified"=>"\xe2\x9a\x93",
+			"kddi"=>"\xee\x92\xa9",
+		),
+	),
+	"\xf3\xbe\xac\xa3" => array(
+		"codepoint"=>"U+FEB23",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb7",
+			"softbank"=>"\xee\x89\x92",
+			"unified"=>"\xe2\x9a\xa0",
+			"kddi"=>"\xee\x92\x81",
+		),
+	),
+	"\xf3\xbe\x80\x84" => array(
+		"codepoint"=>"U+FE004",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x82",
+			"softbank"=>"\xee\x84\xbd",
+			"unified"=>"\xe2\x9a\xa1",
+			"kddi"=>"\xee\x92\x87",
+		),
+	),
+	"\xf3\xbe\xad\xa5" => array(
+		"codepoint"=>"U+FEB65",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9c",
+			"softbank"=>"\xee\x88\x99",
+			"unified"=>"\xe2\x9a\xaa",
+			"kddi"=>"\xee\x94\xba",
+		),
+	),
+	"\xf3\xbe\xad\xa6" => array(
+		"codepoint"=>"U+FEB66",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9c",
+			"softbank"=>"\xee\x88\x99",
+			"unified"=>"\xe2\x9a\xab",
+			"kddi"=>"\xee\x94\xbb",
+		),
+	),
+	"\xf3\xbe\x9f\x94" => array(
+		"codepoint"=>"U+FE7D4",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x96",
+			"softbank"=>"\xee\x80\x98",
+			"unified"=>"\xe2\x9a\xbd",
+			"kddi"=>"\xee\x92\xb6",
+		),
+	),
+	"\xf3\xbe\x9f\x91" => array(
+		"codepoint"=>"U+FE7D1",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x93",
+			"softbank"=>"\xee\x80\x96",
+			"unified"=>"\xe2\x9a\xbe",
+			"kddi"=>"\xee\x92\xba",
+		),
+	),
+	"\xf3\xbe\x80\x83" => array(
+		"codepoint"=>"U+FE003",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x81",
+			"softbank"=>"\xee\x81\x88",
+			"unified"=>"\xe2\x9b\x84",
+			"kddi"=>"\xee\x92\x85",
+		),
+	),
+	"\xf3\xbe\x80\x8f" => array(
+		"codepoint"=>"U+FE00F",
+		"unicode" => array(
+			"docomo"=>"\xee\x98\xbe\xee\x98\xbf",
+			"softbank"=>"\xee\x81\x8a\xee\x81\x89",
+			"unified"=>"\xe2\x9b\x85",
+			"kddi"=>"\xee\x92\x8e",
+		),
+	),
+	"\xf3\xbe\x80\xb7" => array(
+		"codepoint"=>"U+FE037",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x89\x8b",
+			"unified"=>"\xe2\x9b\x8e",
+			"kddi"=>"\xee\x92\x9b",
+		),
+	),
+	"\xf3\xbe\xac\xa6" => array(
+		"codepoint"=>"U+FEB26",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xaf",
+			"softbank"=>"\xee\x84\xb7",
+			"unified"=>"\xe2\x9b\x94",
+			"kddi"=>"\xee\x92\x84",
+		),
+	),
+	"\xf3\xbe\x92\xbb" => array(
+		"codepoint"=>"U+FE4BB",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x80\xb7",
+			"unified"=>"\xe2\x9b\xaa",
+			"kddi"=>"\xee\x96\xbb",
+		),
+	),
+	"\xf3\xbe\x92\xbc" => array(
+		"codepoint"=>"U+FE4BC",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xa1",
+			"unified"=>"\xe2\x9b\xb2",
+			"kddi"=>"\xee\x97\x8f",
+		),
+	),
+	"\xf3\xbe\x9f\x92" => array(
+		"codepoint"=>"U+FE7D2",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x94",
+			"softbank"=>"\xee\x80\x94",
+			"unified"=>"\xe2\x9b\xb3",
+			"kddi"=>"\xee\x96\x99",
+		),
+	),
+	"\xf3\xbe\x9f\xaa" => array(
+		"codepoint"=>"U+FE7EA",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa3",
+			"softbank"=>"\xee\x80\x9c",
+			"unified"=>"\xe2\x9b\xb5",
+			"kddi"=>"\xee\x92\xb4",
+		),
+	),
+	"\xf3\xbe\x9f\xbb" => array(
+		"codepoint"=>"U+FE7FB",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xa2",
+			"unified"=>"\xe2\x9b\xba",
+			"kddi"=>"\xee\x97\x90",
+		),
+	),
+	"\xf3\xbe\x9f\xb5" => array(
+		"codepoint"=>"U+FE7F5",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xab",
+			"softbank"=>"\xee\x80\xba",
+			"unified"=>"\xe2\x9b\xbd",
+			"kddi"=>"\xee\x95\xb1",
+		),
+	),
+	"\xf3\xbe\x94\xbe" => array(
+		"codepoint"=>"U+FE53E",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb5",
+			"softbank"=>"\xee\x8c\x93",
+			"unified"=>"\xe2\x9c\x82",
+			"kddi"=>"\xee\x94\x96",
+		),
+	),
+	"\xf3\xbe\xad\x8a" => array(
+		"codepoint"=>"U+FEB4A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x9c\x85",
+			"kddi"=>"\xee\x95\x9e",
+		),
+	),
+	"\xf3\xbe\x9f\xa9" => array(
+		"codepoint"=>"U+FE7E9",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa2",
+			"softbank"=>"\xee\x80\x9d",
+			"unified"=>"\xe2\x9c\x88",
+			"kddi"=>"\xee\x92\xb3",
+		),
+	),
+	"\xf3\xbe\x94\xa9" => array(
+		"codepoint"=>"U+FE529",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x93",
+			"softbank"=>"\xee\x84\x83",
+			"unified"=>"\xe2\x9c\x89",
+			"kddi"=>"\xee\x94\xa1",
+		),
+	),
+	"\xf3\xbe\xae\x93" => array(
+		"codepoint"=>"U+FEB93",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x93",
+			"softbank"=>"\xee\x80\x90",
+			"unified"=>"\xe2\x9c\x8a",
+			"kddi"=>"\xee\xae\x83",
+		),
+	),
+	"\xf3\xbe\xae\x95" => array(
+		"codepoint"=>"U+FEB95",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x95",
+			"softbank"=>"\xee\x80\x92",
+			"unified"=>"\xe2\x9c\x8b",
+			"kddi"=>"\xee\x96\xa7",
+		),
+	),
+	"\xf3\xbe\xae\x94" => array(
+		"codepoint"=>"U+FEB94",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x94",
+			"softbank"=>"\xee\x80\x91",
+			"unified"=>"\xe2\x9c\x8c",
+			"kddi"=>"\xee\x96\xa6",
+		),
+	),
+	"\xf3\xbe\x94\xb9" => array(
+		"codepoint"=>"U+FE539",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x99",
+			"softbank"=>"\xee\x8c\x81",
+			"unified"=>"\xe2\x9c\x8f",
+			"kddi"=>"\xee\x92\xa1",
+		),
+	),
+	"\xf3\xbe\x94\xb6" => array(
+		"codepoint"=>"U+FE536",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xae",
+			"softbank"=>"",
+			"unified"=>"\xe2\x9c\x92",
+			"kddi"=>"\xee\xac\x83",
+		),
+	),
+	"\xf3\xbe\xad\x89" => array(
+		"codepoint"=>"U+FEB49",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x9c\x94",
+			"kddi"=>"\xee\x95\x97",
+		),
+	),
+	"\xf3\xbe\xad\x93" => array(
+		"codepoint"=>"U+FEB53",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xb3",
+			"unified"=>"\xe2\x9c\x96",
+			"kddi"=>"\xee\x95\x8f",
+		),
+	),
+	"\xf3\xbe\xad\xa0" => array(
+		"codepoint"=>"U+FEB60",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xba",
+			"softbank"=>"\xee\x8c\xae",
+			"unified"=>"\xe2\x9c\xa8",
+			"kddi"=>"\xee\xaa\xab",
+		),
+	),
+	"\xf3\xbe\xad\xa2" => array(
+		"codepoint"=>"U+FEB62",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb8",
+			"softbank"=>"\xee\x88\x86",
+			"unified"=>"\xe2\x9c\xb3",
+			"kddi"=>"\xee\x94\xbe",
+		),
+	),
+	"\xf3\xbe\xad\xa1" => array(
+		"codepoint"=>"U+FEB61",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb8",
+			"softbank"=>"\xee\x88\x85",
+			"unified"=>"\xe2\x9c\xb4",
+			"kddi"=>"\xee\x91\xb9",
+		),
+	),
+	"\xf3\xbe\x80\x8e" => array(
+		"codepoint"=>"U+FE00E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x9d\x84",
+			"kddi"=>"\xee\x92\x8a",
+		),
+	),
+	"\xf3\xbe\xad\xb7" => array(
+		"codepoint"=>"U+FEB77",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xba",
+			"softbank"=>"\xee\x8c\xae",
+			"unified"=>"\xe2\x9d\x87",
+			"kddi"=>"\xee\x91\xac",
+		),
+	),
+	"\xf3\xbe\xad\x85" => array(
+		"codepoint"=>"U+FEB45",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xb3",
+			"unified"=>"\xe2\x9d\x8c",
+			"kddi"=>"\xee\x95\x90",
+		),
+	),
+	"\xf3\xbe\xad\x86" => array(
+		"codepoint"=>"U+FEB46",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xb3",
+			"unified"=>"\xe2\x9d\x8e",
+			"kddi"=>"\xee\x95\x91",
+		),
+	),
+	"\xf3\xbe\xac\x89" => array(
+		"codepoint"=>"U+FEB09",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x80\xa0",
+			"unified"=>"\xe2\x9d\x93",
+			"kddi"=>"\xee\x92\x83",
+		),
+	),
+	"\xf3\xbe\xac\x8a" => array(
+		"codepoint"=>"U+FEB0A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xb6",
+			"unified"=>"\xe2\x9d\x94",
+			"kddi"=>"\xee\x92\x83",
+		),
+	),
+	"\xf3\xbe\xac\x8b" => array(
+		"codepoint"=>"U+FEB0B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x82",
+			"softbank"=>"\xee\x8c\xb7",
+			"unified"=>"\xe2\x9d\x95",
+			"kddi"=>"\xee\x92\x82",
+		),
+	),
+	"\xf3\xbe\xac\x84" => array(
+		"codepoint"=>"U+FEB04",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x82",
+			"softbank"=>"\xee\x80\xa1",
+			"unified"=>"\xe2\x9d\x97",
+			"kddi"=>"\xee\x92\x82",
+		),
+	),
+	"\xf3\xbe\xac\x8c" => array(
+		"codepoint"=>"U+FEB0C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xac",
+			"softbank"=>"\xee\x80\xa2",
+			"unified"=>"\xe2\x9d\xa4",
+			"kddi"=>"\xee\x96\x95",
+		),
+	),
+	"\xf3\xbe\xad\x91" => array(
+		"codepoint"=>"U+FEB51",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x9e\x95",
+			"kddi"=>"\xee\x94\xbc",
+		),
+	),
+	"\xf3\xbe\xad\x92" => array(
+		"codepoint"=>"U+FEB52",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x9e\x96",
+			"kddi"=>"\xee\x94\xbd",
+		),
+	),
+	"\xf3\xbe\xad\x94" => array(
+		"codepoint"=>"U+FEB54",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xe2\x9e\x97",
+			"kddi"=>"\xee\x95\x94",
+		),
+	),
+	"\xf3\xbe\xab\xba" => array(
+		"codepoint"=>"U+FEAFA",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xb4",
+			"unified"=>"\xe2\x9e\xa1",
+			"kddi"=>"\xee\x95\x92",
+		),
+	),
+	"\xf3\xbe\xac\x88" => array(
+		"codepoint"=>"U+FEB08",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x8a",
+			"softbank"=>"",
+			"unified"=>"\xe2\x9e\xb0",
+			"kddi"=>"\xee\xac\xb1",
+		),
+	),
+	"\xf3\xbe\xa0\xab" => array(
+		"codepoint"=>"U+FE82B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x9f",
+			"softbank"=>"\xee\x88\x91",
+			"unified"=>"\xe2\x9e\xbf",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xab\xb4" => array(
+		"codepoint"=>"U+FEAF4",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb5",
+			"softbank"=>"\xee\x88\xb6",
+			"unified"=>"\xe2\xa4\xb4",
+			"kddi"=>"\xee\xac\xad",
+		),
+	),
+	"\xf3\xbe\xab\xb5" => array(
+		"codepoint"=>"U+FEAF5",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x80",
+			"softbank"=>"\xee\x88\xb8",
+			"unified"=>"\xe2\xa4\xb5",
+			"kddi"=>"\xee\xac\xae",
+		),
+	),
+	"\xf3\xbe\xab\xbb" => array(
+		"codepoint"=>"U+FEAFB",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xb5",
+			"unified"=>"\xe2\xac\x85",
+			"kddi"=>"\xee\x95\x93",
+		),
+	),
+	"\xf3\xbe\xab\xb8" => array(
+		"codepoint"=>"U+FEAF8",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xb2",
+			"unified"=>"\xe2\xac\x86",
+			"kddi"=>"\xee\x94\xbf",
+		),
+	),
+	"\xf3\xbe\xab\xb9" => array(
+		"codepoint"=>"U+FEAF9",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xb3",
+			"unified"=>"\xe2\xac\x87",
+			"kddi"=>"\xee\x95\x80",
+		),
+	),
+	"\xf3\xbe\xad\xac" => array(
+		"codepoint"=>"U+FEB6C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9a",
+			"unified"=>"\xe2\xac\x9b",
+			"kddi"=>"\xee\x95\x89",
+		),
+	),
+	"\xf3\xbe\xad\xab" => array(
+		"codepoint"=>"U+FEB6B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xe2\xac\x9c",
+			"kddi"=>"\xee\x95\x88",
+		),
+	),
+	"\xf3\xbe\xad\xa8" => array(
+		"codepoint"=>"U+FEB68",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xaf",
+			"unified"=>"\xe2\xad\x90",
+			"kddi"=>"\xee\x92\x8b",
+		),
+	),
+	"\xf3\xbe\xad\x84" => array(
+		"codepoint"=>"U+FEB44",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa0",
+			"softbank"=>"\xee\x8c\xb2",
+			"unified"=>"\xe2\xad\x95",
+			"kddi"=>"\xee\xaa\xad",
+		),
+	),
+	"\xf3\xbe\xac\x87" => array(
+		"codepoint"=>"U+FEB07",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x89",
+			"softbank"=>"",
+			"unified"=>"\xe3\x80\xb0",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xa0\x9b" => array(
+		"codepoint"=>"U+FE81B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xac",
+			"unified"=>"\xe3\x80\xbd",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xad\x83" => array(
+		"codepoint"=>"U+FEB43",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x8d",
+			"unified"=>"\xe3\x8a\x97",
+			"kddi"=>"\xee\xaa\x99",
+		),
+	),
+	"\xf3\xbe\xac\xab" => array(
+		"codepoint"=>"U+FEB2B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb4",
+			"softbank"=>"\xee\x8c\x95",
+			"unified"=>"\xe3\x8a\x99",
+			"kddi"=>"\xee\x93\xb1",
+		),
+	),
+	"\xf3\xbe\xa0\x8b" => array(
+		"codepoint"=>"U+FE80B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xad",
+			"unified"=>"\xf0\x9f\x80\x84",
+			"kddi"=>"\xee\x97\x91",
+		),
+	),
+	"\xf3\xbe\xa0\x92" => array(
+		"codepoint"=>"U+FE812",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x83\x8f",
+			"kddi"=>"\xee\xad\xaf",
+		),
+	),
+	"\xf3\xbe\x94\x8b" => array(
+		"codepoint"=>"U+FE50B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xb2",
+			"unified"=>"\xf0\x9f\x85\xb0",
+			"kddi"=>"\xee\xac\xa6",
+		),
+	),
+	"\xf3\xbe\x94\x8c" => array(
+		"codepoint"=>"U+FE50C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xb3",
+			"unified"=>"\xf0\x9f\x85\xb1",
+			"kddi"=>"\xee\xac\xa7",
+		),
+	),
+	"\xf3\xbe\x94\x8e" => array(
+		"codepoint"=>"U+FE50E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xb5",
+			"unified"=>"\xf0\x9f\x85\xbe",
+			"kddi"=>"\xee\xac\xa8",
+		),
+	),
+	"\xf3\xbe\x9f\xb6" => array(
+		"codepoint"=>"U+FE7F6",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xac",
+			"softbank"=>"\xee\x85\x8f",
+			"unified"=>"\xf0\x9f\x85\xbf",
+			"kddi"=>"\xee\x92\xa6",
+		),
+	),
+	"\xf3\xbe\x94\x8d" => array(
+		"codepoint"=>"U+FE50D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xb4",
+			"unified"=>"\xf0\x9f\x86\x8e",
+			"kddi"=>"\xee\xac\xa9",
+		),
+	),
+	"\xf3\xbe\xae\x84" => array(
+		"codepoint"=>"U+FEB84",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x9b",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x86\x91",
+			"kddi"=>"\xee\x96\xab",
+		),
+	),
+	"\xf3\xbe\xac\xb8" => array(
+		"codepoint"=>"U+FEB38",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x94",
+			"unified"=>"\xf0\x9f\x86\x92",
+			"kddi"=>"\xee\xaa\x85",
+		),
+	),
+	"\xf3\xbe\xac\xa1" => array(
+		"codepoint"=>"U+FEB21",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x97",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x86\x93",
+			"kddi"=>"\xee\x95\xb8",
+		),
+	),
+	"\xf3\xbe\xae\x81" => array(
+		"codepoint"=>"U+FEB81",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x98",
+			"softbank"=>"\xee\x88\xa9",
+			"unified"=>"\xf0\x9f\x86\x94",
+			"kddi"=>"\xee\xaa\x88",
+		),
+	),
+	"\xf3\xbe\xac\xb6" => array(
+		"codepoint"=>"U+FEB36",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x9d",
+			"softbank"=>"\xee\x88\x92",
+			"unified"=>"\xf0\x9f\x86\x95",
+			"kddi"=>"\xee\x96\xb5",
+		),
+	),
+	"\xf3\xbe\xac\xa8" => array(
+		"codepoint"=>"U+FEB28",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xaf",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x86\x96",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xa7" => array(
+		"codepoint"=>"U+FEB27",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x8b",
+			"softbank"=>"\xee\x89\x8d",
+			"unified"=>"\xf0\x9f\x86\x97",
+			"kddi"=>"\xee\x96\xad",
+		),
+	),
+	"\xf3\xbe\xad\x8f" => array(
+		"codepoint"=>"U+FEB4F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x86\x98",
+			"kddi"=>"\xee\x93\xa8",
+		),
+	),
+	"\xf3\xbe\xac\xb7" => array(
+		"codepoint"=>"U+FEB37",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x93",
+			"unified"=>"\xf0\x9f\x86\x99",
+			"kddi"=>"\xee\x94\x8f",
+		),
+	),
+	"\xf3\xbe\xac\xb2" => array(
+		"codepoint"=>"U+FEB32",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xae",
+			"unified"=>"\xf0\x9f\x86\x9a",
+			"kddi"=>"\xee\x97\x92",
+		),
+	),
+	"\xf3\xbe\xac\xa4" => array(
+		"codepoint"=>"U+FEB24",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x83",
+			"unified"=>"\xf0\x9f\x88\x81",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xbf" => array(
+		"codepoint"=>"U+FEB3F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xa8",
+			"unified"=>"\xf0\x9f\x88\x82",
+			"kddi"=>"\xee\xaa\x87",
+		),
+	),
+	"\xf3\xbe\xac\xba" => array(
+		"codepoint"=>"U+FEB3A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x96",
+			"unified"=>"\xf0\x9f\x88\x9a",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xad\x80" => array(
+		"codepoint"=>"U+FEB40",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xac",
+			"unified"=>"\xf0\x9f\x88\xaf",
+			"kddi"=>"\xee\xaa\x8b",
+		),
+	),
+	"\xf3\xbe\xac\xae" => array(
+		"codepoint"=>"U+FEB2E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb8",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x88\xb2",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xaf" => array(
+		"codepoint"=>"U+FEB2F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb9",
+			"softbank"=>"\xee\x88\xab",
+			"unified"=>"\xf0\x9f\x88\xb3",
+			"kddi"=>"\xee\xaa\x8a",
+		),
+	),
+	"\xf3\xbe\xac\xb0" => array(
+		"codepoint"=>"U+FEB30",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xba",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x88\xb4",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xb1" => array(
+		"codepoint"=>"U+FEB31",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xbb",
+			"softbank"=>"\xee\x88\xaa",
+			"unified"=>"\xf0\x9f\x88\xb5",
+			"kddi"=>"\xee\xaa\x89",
+		),
+	),
+	"\xf3\xbe\xac\xb9" => array(
+		"codepoint"=>"U+FEB39",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x95",
+			"unified"=>"\xf0\x9f\x88\xb6",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xbb" => array(
+		"codepoint"=>"U+FEB3B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x97",
+			"unified"=>"\xf0\x9f\x88\xb7",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xbc" => array(
+		"codepoint"=>"U+FEB3C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x98",
+			"unified"=>"\xf0\x9f\x88\xb8",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xbe" => array(
+		"codepoint"=>"U+FEB3E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xa7",
+			"unified"=>"\xf0\x9f\x88\xb9",
+			"kddi"=>"\xee\xaa\x86",
+		),
+	),
+	"\xf3\xbe\xad\x81" => array(
+		"codepoint"=>"U+FEB41",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xad",
+			"unified"=>"\xf0\x9f\x88\xba",
+			"kddi"=>"\xee\xaa\x8c",
+		),
+	),
+	"\xf3\xbe\xac\xbd" => array(
+		"codepoint"=>"U+FEB3D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xa6",
+			"unified"=>"\xf0\x9f\x89\x90",
+			"kddi"=>"\xee\x93\xb7",
+		),
+	),
+	"\xf3\xbe\xad\x90" => array(
+		"codepoint"=>"U+FEB50",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x89\x91",
+			"kddi"=>"\xee\xac\x81",
+		),
+	),
+	"\xf3\xbe\x80\x85" => array(
+		"codepoint"=>"U+FE005",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x83",
+			"softbank"=>"\xee\x91\x83",
+			"unified"=>"\xf0\x9f\x8c\x80",
+			"kddi"=>"\xee\x91\xa9",
+		),
+	),
+	"\xf3\xbe\x80\x86" => array(
+		"codepoint"=>"U+FE006",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x84",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8c\x81",
+			"kddi"=>"\xee\x96\x98",
+		),
+	),
+	"\xf3\xbe\x80\x87" => array(
+		"codepoint"=>"U+FE007",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x85",
+			"softbank"=>"\xee\x90\xbc",
+			"unified"=>"\xf0\x9f\x8c\x82",
+			"kddi"=>"\xee\xab\xa8",
+		),
+	),
+	"\xf3\xbe\x80\x88" => array(
+		"codepoint"=>"U+FE008",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xb3",
+			"softbank"=>"\xee\x91\x8b",
+			"unified"=>"\xf0\x9f\x8c\x83",
+			"kddi"=>"\xee\xab\xb1",
+		),
+	),
+	"\xf3\xbe\x80\x89" => array(
+		"codepoint"=>"U+FE009",
+		"unicode" => array(
+			"docomo"=>"\xee\x98\xbe",
+			"softbank"=>"\xee\x81\x8d",
+			"unified"=>"\xf0\x9f\x8c\x84",
+			"kddi"=>"\xee\xab\xb4",
+		),
+	),
+	"\xf3\xbe\x80\x8a" => array(
+		"codepoint"=>"U+FE00A",
+		"unicode" => array(
+			"docomo"=>"\xee\x98\xbe",
+			"softbank"=>"\xee\x91\x89",
+			"unified"=>"\xf0\x9f\x8c\x85",
+			"kddi"=>"\xee\xab\xb4",
+		),
+	),
+	"\xf3\xbe\x80\x8b" => array(
+		"codepoint"=>"U+FE00B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x86",
+			"unified"=>"\xf0\x9f\x8c\x86",
+			"kddi"=>"\xee\x97\x9a",
+		),
+	),
+	"\xf3\xbe\x80\x8c" => array(
+		"codepoint"=>"U+FE00C",
+		"unicode" => array(
+			"docomo"=>"\xee\x98\xbe",
+			"softbank"=>"\xee\x91\x8a",
+			"unified"=>"\xf0\x9f\x8c\x87",
+			"kddi"=>"\xee\x97\x9a",
+		),
+	),
+	"\xf3\xbe\x80\x8d" => array(
+		"codepoint"=>"U+FE00D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x8c",
+			"unified"=>"\xf0\x9f\x8c\x88",
+			"kddi"=>"\xee\xab\xb2",
+		),
+	),
+	"\xf3\xbe\x80\x90" => array(
+		"codepoint"=>"U+FE010",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xb3",
+			"softbank"=>"\xee\x91\x8b",
+			"unified"=>"\xf0\x9f\x8c\x89",
+			"kddi"=>"\xee\x92\xbf",
+		),
+	),
+	"\xf3\xbe\x80\xb8" => array(
+		"codepoint"=>"U+FE038",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xbf",
+			"softbank"=>"\xee\x90\xbe",
+			"unified"=>"\xf0\x9f\x8c\x8a",
+			"kddi"=>"\xee\xad\xbc",
+		),
+	),
+	"\xf3\xbe\x80\xba" => array(
+		"codepoint"=>"U+FE03A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8c\x8b",
+			"kddi"=>"\xee\xad\x93",
+		),
+	),
+	"\xf3\xbe\x80\xbb" => array(
+		"codepoint"=>"U+FE03B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xb3",
+			"softbank"=>"\xee\x91\x8b",
+			"unified"=>"\xf0\x9f\x8c\x8c",
+			"kddi"=>"\xee\xad\x9f",
+		),
+	),
+	"\xf3\xbe\x80\xb9" => array(
+		"codepoint"=>"U+FE039",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8c\x8f",
+			"kddi"=>"\xee\x96\xb3",
+		),
+	),
+	"\xf3\xbe\x80\x91" => array(
+		"codepoint"=>"U+FE011",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9c",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8c\x91",
+			"kddi"=>"\xee\x96\xa8",
+		),
+	),
+	"\xf3\xbe\x80\x93" => array(
+		"codepoint"=>"U+FE013",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9e",
+			"softbank"=>"\xee\x81\x8c",
+			"unified"=>"\xf0\x9f\x8c\x93",
+			"kddi"=>"\xee\x96\xaa",
+		),
+	),
+	"\xf3\xbe\x80\x92" => array(
+		"codepoint"=>"U+FE012",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9d",
+			"softbank"=>"\xee\x81\x8c",
+			"unified"=>"\xf0\x9f\x8c\x94",
+			"kddi"=>"\xee\x96\xa9",
+		),
+	),
+	"\xf3\xbe\x80\x95" => array(
+		"codepoint"=>"U+FE015",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa0",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8c\x95",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x80\x94" => array(
+		"codepoint"=>"U+FE014",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9f",
+			"softbank"=>"\xee\x81\x8c",
+			"unified"=>"\xf0\x9f\x8c\x99",
+			"kddi"=>"\xee\x92\x86",
+		),
+	),
+	"\xf3\xbe\x80\x96" => array(
+		"codepoint"=>"U+FE016",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9e",
+			"softbank"=>"\xee\x81\x8c",
+			"unified"=>"\xf0\x9f\x8c\x9b",
+			"kddi"=>"\xee\x92\x89",
+		),
+	),
+	"\xf3\xbe\xad\xa9" => array(
+		"codepoint"=>"U+FEB69",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xb5",
+			"unified"=>"\xf0\x9f\x8c\x9f",
+			"kddi"=>"\xee\x92\x8b",
+		),
+	),
+	"\xf3\xbe\xad\xaa" => array(
+		"codepoint"=>"U+FEB6A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8c\xa0",
+			"kddi"=>"\xee\x91\xa8",
+		),
+	),
+	"\xf3\xbe\x81\x8c" => array(
+		"codepoint"=>"U+FE04C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8c\xb0",
+			"kddi"=>"\xee\xac\xb8",
+		),
+	),
+	"\xf3\xbe\x80\xbe" => array(
+		"codepoint"=>"U+FE03E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x86",
+			"softbank"=>"\xee\x84\x90",
+			"unified"=>"\xf0\x9f\x8c\xb1",
+			"kddi"=>"\xee\xad\xbd",
+		),
+	),
+	"\xf3\xbe\x81\x87" => array(
+		"codepoint"=>"U+FE047",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x87",
+			"unified"=>"\xf0\x9f\x8c\xb4",
+			"kddi"=>"\xee\x93\xa2",
+		),
+	),
+	"\xf3\xbe\x81\x88" => array(
+		"codepoint"=>"U+FE048",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x88",
+			"unified"=>"\xf0\x9f\x8c\xb5",
+			"kddi"=>"\xee\xaa\x96",
+		),
+	),
+	"\xf3\xbe\x80\xbd" => array(
+		"codepoint"=>"U+FE03D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x83",
+			"softbank"=>"\xee\x8c\x84",
+			"unified"=>"\xf0\x9f\x8c\xb7",
+			"kddi"=>"\xee\x93\xa4",
+		),
+	),
+	"\xf3\xbe\x81\x80" => array(
+		"codepoint"=>"U+FE040",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x88",
+			"softbank"=>"\xee\x80\xb0",
+			"unified"=>"\xf0\x9f\x8c\xb8",
+			"kddi"=>"\xee\x93\x8a",
+		),
+	),
+	"\xf3\xbe\x81\x81" => array(
+		"codepoint"=>"U+FE041",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x80\xb2",
+			"unified"=>"\xf0\x9f\x8c\xb9",
+			"kddi"=>"\xee\x96\xba",
+		),
+	),
+	"\xf3\xbe\x81\x85" => array(
+		"codepoint"=>"U+FE045",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x83",
+			"unified"=>"\xf0\x9f\x8c\xba",
+			"kddi"=>"\xee\xaa\x94",
+		),
+	),
+	"\xf3\xbe\x81\x86" => array(
+		"codepoint"=>"U+FE046",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x85",
+			"unified"=>"\xf0\x9f\x8c\xbb",
+			"kddi"=>"\xee\x93\xa3",
+		),
+	),
+	"\xf3\xbe\x81\x8d" => array(
+		"codepoint"=>"U+FE04D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x85",
+			"unified"=>"\xf0\x9f\x8c\xbc",
+			"kddi"=>"\xee\xad\x89",
+		),
+	),
+	"\xf3\xbe\x81\x8a" => array(
+		"codepoint"=>"U+FE04A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8c\xbd",
+			"kddi"=>"\xee\xac\xb6",
+		),
+	),
+	"\xf3\xbe\x81\x89" => array(
+		"codepoint"=>"U+FE049",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x84",
+			"unified"=>"\xf0\x9f\x8c\xbe",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x81\x8e" => array(
+		"codepoint"=>"U+FE04E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x81",
+			"softbank"=>"\xee\x84\x90",
+			"unified"=>"\xf0\x9f\x8c\xbf",
+			"kddi"=>"\xee\xae\x82",
+		),
+	),
+	"\xf3\xbe\x80\xbc" => array(
+		"codepoint"=>"U+FE03C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x81",
+			"softbank"=>"\xee\x84\x90",
+			"unified"=>"\xf0\x9f\x8d\x80",
+			"kddi"=>"\xee\x94\x93",
+		),
+	),
+	"\xf3\xbe\x80\xbf" => array(
+		"codepoint"=>"U+FE03F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x87",
+			"softbank"=>"\xee\x84\x98",
+			"unified"=>"\xf0\x9f\x8d\x81",
+			"kddi"=>"\xee\x93\x8e",
+		),
+	),
+	"\xf3\xbe\x81\x82" => array(
+		"codepoint"=>"U+FE042",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x87",
+			"softbank"=>"\xee\x84\x99",
+			"unified"=>"\xf0\x9f\x8d\x82",
+			"kddi"=>"\xee\x97\x8d",
+		),
+	),
+	"\xf3\xbe\x81\x83" => array(
+		"codepoint"=>"U+FE043",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x87",
+			"unified"=>"\xf0\x9f\x8d\x83",
+			"kddi"=>"\xee\x97\x8d",
+		),
+	),
+	"\xf3\xbe\x81\x8b" => array(
+		"codepoint"=>"U+FE04B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x84",
+			"kddi"=>"\xee\xac\xb7",
+		),
+	),
+	"\xf3\xbe\x81\x95" => array(
+		"codepoint"=>"U+FE055",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x89",
+			"unified"=>"\xf0\x9f\x8d\x85",
+			"kddi"=>"\xee\xaa\xbb",
+		),
+	),
+	"\xf3\xbe\x81\x96" => array(
+		"codepoint"=>"U+FE056",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x8a",
+			"unified"=>"\xf0\x9f\x8d\x86",
+			"kddi"=>"\xee\xaa\xbc",
+		),
+	),
+	"\xf3\xbe\x81\x99" => array(
+		"codepoint"=>"U+FE059",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x87",
+			"kddi"=>"\xee\xac\xb4",
+		),
+	),
+	"\xf3\xbe\x81\x97" => array(
+		"codepoint"=>"U+FE057",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x88",
+			"kddi"=>"\xee\xac\xb2",
+		),
+	),
+	"\xf3\xbe\x81\x94" => array(
+		"codepoint"=>"U+FE054",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x88",
+			"unified"=>"\xf0\x9f\x8d\x89",
+			"kddi"=>"\xee\x93\x8d",
+		),
+	),
+	"\xf3\xbe\x81\x92" => array(
+		"codepoint"=>"U+FE052",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x86",
+			"unified"=>"\xf0\x9f\x8d\x8a",
+			"kddi"=>"\xee\xaa\xba",
+		),
+	),
+	"\xf3\xbe\x81\x90" => array(
+		"codepoint"=>"U+FE050",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x84",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x8c",
+			"kddi"=>"\xee\xac\xb5",
+		),
+	),
+	"\xf3\xbe\x81\x98" => array(
+		"codepoint"=>"U+FE058",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x8d",
+			"kddi"=>"\xee\xac\xb3",
+		),
+	),
+	"\xf3\xbe\x81\x91" => array(
+		"codepoint"=>"U+FE051",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x85",
+			"softbank"=>"\xee\x8d\x85",
+			"unified"=>"\xf0\x9f\x8d\x8e",
+			"kddi"=>"\xee\xaa\xb9",
+		),
+	),
+	"\xf3\xbe\x81\x9b" => array(
+		"codepoint"=>"U+FE05B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x85",
+			"softbank"=>"\xee\x8d\x85",
+			"unified"=>"\xf0\x9f\x8d\x8f",
+			"kddi"=>"\xee\xad\x9a",
+		),
+	),
+	"\xf3\xbe\x81\x9a" => array(
+		"codepoint"=>"U+FE05A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x91",
+			"kddi"=>"\xee\xac\xb9",
+		),
+	),
+	"\xf3\xbe\x81\x8f" => array(
+		"codepoint"=>"U+FE04F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x82",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x92",
+			"kddi"=>"\xee\x93\x92",
+		),
+	),
+	"\xf3\xbe\x81\x93" => array(
+		"codepoint"=>"U+FE053",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x87",
+			"unified"=>"\xf0\x9f\x8d\x93",
+			"kddi"=>"\xee\x93\x94",
+		),
+	),
+	"\xf3\xbe\xa5\xa0" => array(
+		"codepoint"=>"U+FE960",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb3",
+			"softbank"=>"\xee\x84\xa0",
+			"unified"=>"\xf0\x9f\x8d\x94",
+			"kddi"=>"\xee\x93\x96",
+		),
+	),
+	"\xf3\xbe\xa5\xb5" => array(
+		"codepoint"=>"U+FE975",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x95",
+			"kddi"=>"\xee\xac\xbb",
+		),
+	),
+	"\xf3\xbe\xa5\xb2" => array(
+		"codepoint"=>"U+FE972",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x96",
+			"kddi"=>"\xee\x93\x84",
+		),
+	),
+	"\xf3\xbe\xa5\xb6" => array(
+		"codepoint"=>"U+FE976",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\x97",
+			"kddi"=>"\xee\xac\xbc",
+		),
+	),
+	"\xf3\xbe\xa5\xa9" => array(
+		"codepoint"=>"U+FE969",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xbd",
+			"unified"=>"\xf0\x9f\x8d\x98",
+			"kddi"=>"\xee\xaa\xb3",
+		),
+	),
+	"\xf3\xbe\xa5\xa1" => array(
+		"codepoint"=>"U+FE961",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x89",
+			"softbank"=>"\xee\x8d\x82",
+			"unified"=>"\xf0\x9f\x8d\x99",
+			"kddi"=>"\xee\x93\x95",
+		),
+	),
+	"\xf3\xbe\xa5\xaa" => array(
+		"codepoint"=>"U+FE96A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8c",
+			"softbank"=>"\xee\x8c\xbe",
+			"unified"=>"\xf0\x9f\x8d\x9a",
+			"kddi"=>"\xee\xaa\xb4",
+		),
+	),
+	"\xf3\xbe\xa5\xac" => array(
+		"codepoint"=>"U+FE96C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x81",
+			"unified"=>"\xf0\x9f\x8d\x9b",
+			"kddi"=>"\xee\xaa\xb6",
+		),
+	),
+	"\xf3\xbe\xa5\xa3" => array(
+		"codepoint"=>"U+FE963",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8c",
+			"softbank"=>"\xee\x8d\x80",
+			"unified"=>"\xf0\x9f\x8d\x9c",
+			"kddi"=>"\xee\x96\xb4",
+		),
+	),
+	"\xf3\xbe\xa5\xab" => array(
+		"codepoint"=>"U+FE96B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xbf",
+			"unified"=>"\xf0\x9f\x8d\x9d",
+			"kddi"=>"\xee\xaa\xb5",
+		),
+	),
+	"\xf3\xbe\xa5\xa4" => array(
+		"codepoint"=>"U+FE964",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8d",
+			"softbank"=>"\xee\x8c\xb9",
+			"unified"=>"\xf0\x9f\x8d\x9e",
+			"kddi"=>"\xee\xaa\xaf",
+		),
+	),
+	"\xf3\xbe\xa5\xa7" => array(
+		"codepoint"=>"U+FE967",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xbb",
+			"unified"=>"\xf0\x9f\x8d\x9f",
+			"kddi"=>"\xee\xaa\xb1",
+		),
+	),
+	"\xf3\xbe\xa5\xb4" => array(
+		"codepoint"=>"U+FE974",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xa0",
+			"kddi"=>"\xee\xac\xba",
+		),
+	),
+	"\xf3\xbe\xa5\xa8" => array(
+		"codepoint"=>"U+FE968",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xbc",
+			"unified"=>"\xf0\x9f\x8d\xa1",
+			"kddi"=>"\xee\xaa\xb2",
+		),
+	),
+	"\xf3\xbe\xa5\xad" => array(
+		"codepoint"=>"U+FE96D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x83",
+			"unified"=>"\xf0\x9f\x8d\xa2",
+			"kddi"=>"\xee\xaa\xb7",
+		),
+	),
+	"\xf3\xbe\xa5\xae" => array(
+		"codepoint"=>"U+FE96E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x84",
+			"unified"=>"\xf0\x9f\x8d\xa3",
+			"kddi"=>"\xee\xaa\xb8",
+		),
+	),
+	"\xf3\xbe\xa5\xbf" => array(
+		"codepoint"=>"U+FE97F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xa4",
+			"kddi"=>"\xee\xad\xb0",
+		),
+	),
+	"\xf3\xbe\xa5\xb3" => array(
+		"codepoint"=>"U+FE973",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x83",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xa5",
+			"kddi"=>"\xee\x93\xad",
+		),
+	),
+	"\xf3\xbe\xa5\xa6" => array(
+		"codepoint"=>"U+FE966",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xba",
+			"unified"=>"\xf0\x9f\x8d\xa6",
+			"kddi"=>"\xee\xaa\xb0",
+		),
+	),
+	"\xf3\xbe\xa5\xb1" => array(
+		"codepoint"=>"U+FE971",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xbf",
+			"unified"=>"\xf0\x9f\x8d\xa7",
+			"kddi"=>"\xee\xab\xaa",
+		),
+	),
+	"\xf3\xbe\xa5\xb7" => array(
+		"codepoint"=>"U+FE977",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xa8",
+			"kddi"=>"\xee\xad\x8a",
+		),
+	),
+	"\xf3\xbe\xa5\xb8" => array(
+		"codepoint"=>"U+FE978",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xa9",
+			"kddi"=>"\xee\xad\x8b",
+		),
+	),
+	"\xf3\xbe\xa5\xb9" => array(
+		"codepoint"=>"U+FE979",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xaa",
+			"kddi"=>"\xee\xad\x8c",
+		),
+	),
+	"\xf3\xbe\xa5\xba" => array(
+		"codepoint"=>"U+FE97A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xab",
+			"kddi"=>"\xee\xad\x8d",
+		),
+	),
+	"\xf3\xbe\xa5\xbb" => array(
+		"codepoint"=>"U+FE97B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xac",
+			"kddi"=>"\xee\xad\x8e",
+		),
+	),
+	"\xf3\xbe\xa5\xbc" => array(
+		"codepoint"=>"U+FE97C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xad",
+			"kddi"=>"\xee\xad\x8f",
+		),
+	),
+	"\xf3\xbe\xa5\xbd" => array(
+		"codepoint"=>"U+FE97D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xae",
+			"kddi"=>"\xee\xad\x96",
+		),
+	),
+	"\xf3\xbe\xa5\xbe" => array(
+		"codepoint"=>"U+FE97E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8d\xaf",
+			"kddi"=>"\xee\xad\x99",
+		),
+	),
+	"\xf3\xbe\xa5\xa2" => array(
+		"codepoint"=>"U+FE962",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8a",
+			"softbank"=>"\xee\x81\x86",
+			"unified"=>"\xf0\x9f\x8d\xb0",
+			"kddi"=>"\xee\x93\x90",
+		),
+	),
+	"\xf3\xbe\xa5\xaf" => array(
+		"codepoint"=>"U+FE96F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x8c",
+			"unified"=>"\xf0\x9f\x8d\xb1",
+			"kddi"=>"\xee\xaa\xbd",
+		),
+	),
+	"\xf3\xbe\xa5\xb0" => array(
+		"codepoint"=>"U+FE970",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8d\x8d",
+			"unified"=>"\xf0\x9f\x8d\xb2",
+			"kddi"=>"\xee\xaa\xbe",
+		),
+	),
+	"\xf3\xbe\xa5\xa5" => array(
+		"codepoint"=>"U+FE965",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x87",
+			"unified"=>"\xf0\x9f\x8d\xb3",
+			"kddi"=>"\xee\x93\x91",
+		),
+	),
+	"\xf3\xbe\xa6\x80" => array(
+		"codepoint"=>"U+FE980",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xaf",
+			"softbank"=>"\xee\x81\x83",
+			"unified"=>"\xf0\x9f\x8d\xb4",
+			"kddi"=>"\xee\x92\xac",
+		),
+	),
+	"\xf3\xbe\xa6\x84" => array(
+		"codepoint"=>"U+FE984",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9e",
+			"softbank"=>"\xee\x8c\xb8",
+			"unified"=>"\xf0\x9f\x8d\xb5",
+			"kddi"=>"\xee\xaa\xae",
+		),
+	),
+	"\xf3\xbe\xa6\x85" => array(
+		"codepoint"=>"U+FE985",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8b",
+			"softbank"=>"\xee\x8c\x8b",
+			"unified"=>"\xf0\x9f\x8d\xb6",
+			"kddi"=>"\xee\xaa\x97",
+		),
+	),
+	"\xf3\xbe\xa6\x86" => array(
+		"codepoint"=>"U+FE986",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x96",
+			"softbank"=>"\xee\x81\x84",
+			"unified"=>"\xf0\x9f\x8d\xb7",
+			"kddi"=>"\xee\x93\x81",
+		),
+	),
+	"\xf3\xbe\xa6\x82" => array(
+		"codepoint"=>"U+FE982",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb1",
+			"softbank"=>"\xee\x81\x84",
+			"unified"=>"\xf0\x9f\x8d\xb8",
+			"kddi"=>"\xee\x93\x82",
+		),
+	),
+	"\xf3\xbe\xa6\x88" => array(
+		"codepoint"=>"U+FE988",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb1",
+			"softbank"=>"\xee\x81\x84",
+			"unified"=>"\xf0\x9f\x8d\xb9",
+			"kddi"=>"\xee\xac\xbe",
+		),
+	),
+	"\xf3\xbe\xa6\x83" => array(
+		"codepoint"=>"U+FE983",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb2",
+			"softbank"=>"\xee\x81\x87",
+			"unified"=>"\xf0\x9f\x8d\xba",
+			"kddi"=>"\xee\x93\x83",
+		),
+	),
+	"\xf3\xbe\xa6\x87" => array(
+		"codepoint"=>"U+FE987",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb2",
+			"softbank"=>"\xee\x8c\x8c",
+			"unified"=>"\xf0\x9f\x8d\xbb",
+			"kddi"=>"\xee\xaa\x98",
+		),
+	),
+	"\xf3\xbe\x94\x8f" => array(
+		"codepoint"=>"U+FE50F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x84",
+			"softbank"=>"\xee\x8c\x94",
+			"unified"=>"\xf0\x9f\x8e\x80",
+			"kddi"=>"\xee\x96\x9f",
+		),
+	),
+	"\xf3\xbe\x94\x90" => array(
+		"codepoint"=>"U+FE510",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x85",
+			"softbank"=>"\xee\x84\x92",
+			"unified"=>"\xf0\x9f\x8e\x81",
+			"kddi"=>"\xee\x93\x8f",
+		),
+	),
+	"\xf3\xbe\x94\x91" => array(
+		"codepoint"=>"U+FE511",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x86",
+			"softbank"=>"\xee\x8d\x8b",
+			"unified"=>"\xf0\x9f\x8e\x82",
+			"kddi"=>"\xee\x96\xa0",
+		),
+	),
+	"\xf3\xbe\x94\x9f" => array(
+		"codepoint"=>"U+FE51F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x85",
+			"unified"=>"\xf0\x9f\x8e\x83",
+			"kddi"=>"\xee\xab\xae",
+		),
+	),
+	"\xf3\xbe\x94\x92" => array(
+		"codepoint"=>"U+FE512",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa4",
+			"softbank"=>"\xee\x80\xb3",
+			"unified"=>"\xf0\x9f\x8e\x84",
+			"kddi"=>"\xee\x93\x89",
+		),
+	),
+	"\xf3\xbe\x94\x93" => array(
+		"codepoint"=>"U+FE513",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x88",
+			"unified"=>"\xf0\x9f\x8e\x85",
+			"kddi"=>"\xee\xab\xb0",
+		),
+	),
+	"\xf3\xbe\x94\x95" => array(
+		"codepoint"=>"U+FE515",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x97",
+			"unified"=>"\xf0\x9f\x8e\x86",
+			"kddi"=>"\xee\x97\x8c",
+		),
+	),
+	"\xf3\xbe\x94\x9d" => array(
+		"codepoint"=>"U+FE51D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x80",
+			"unified"=>"\xf0\x9f\x8e\x87",
+			"kddi"=>"\xee\xab\xab",
+		),
+	),
+	"\xf3\xbe\x94\x96" => array(
+		"codepoint"=>"U+FE516",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x90",
+			"unified"=>"\xf0\x9f\x8e\x88",
+			"kddi"=>"\xee\xaa\x9b",
+		),
+	),
+	"\xf3\xbe\x94\x97" => array(
+		"codepoint"=>"U+FE517",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x92",
+			"unified"=>"\xf0\x9f\x8e\x89",
+			"kddi"=>"\xee\xaa\x9c",
+		),
+	),
+	"\xf3\xbe\x94\xa0" => array(
+		"codepoint"=>"U+FE520",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\x8a",
+			"kddi"=>"\xee\x91\xaf",
+		),
+	),
+	"\xf3\xbe\x94\xa1" => array(
+		"codepoint"=>"U+FE521",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\x8b",
+			"kddi"=>"\xee\xac\xbd",
+		),
+	),
+	"\xf3\xbe\x94\x94" => array(
+		"codepoint"=>"U+FE514",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x83",
+			"unified"=>"\xf0\x9f\x8e\x8c",
+			"kddi"=>"\xee\x97\x99",
+		),
+	),
+	"\xf3\xbe\x94\x98" => array(
+		"codepoint"=>"U+FE518",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xb6",
+			"unified"=>"\xf0\x9f\x8e\x8d",
+			"kddi"=>"\xee\xab\xa3",
+		),
+	),
+	"\xf3\xbe\x94\x99" => array(
+		"codepoint"=>"U+FE519",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xb8",
+			"unified"=>"\xf0\x9f\x8e\x8e",
+			"kddi"=>"\xee\xab\xa4",
+		),
+	),
+	"\xf3\xbe\x94\x9c" => array(
+		"codepoint"=>"U+FE51C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xbb",
+			"unified"=>"\xf0\x9f\x8e\x8f",
+			"kddi"=>"\xee\xab\xa7",
+		),
+	),
+	"\xf3\xbe\x94\x9e" => array(
+		"codepoint"=>"U+FE51E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x82",
+			"unified"=>"\xf0\x9f\x8e\x90",
+			"kddi"=>"\xee\xab\xad",
+		),
+	),
+	"\xf3\xbe\x80\x97" => array(
+		"codepoint"=>"U+FE017",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x86",
+			"unified"=>"\xf0\x9f\x8e\x91",
+			"kddi"=>"\xee\xab\xaf",
+		),
+	),
+	"\xf3\xbe\x94\x9b" => array(
+		"codepoint"=>"U+FE51B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xba",
+			"unified"=>"\xf0\x9f\x8e\x92",
+			"kddi"=>"\xee\xab\xa6",
+		),
+	),
+	"\xf3\xbe\x94\x9a" => array(
+		"codepoint"=>"U+FE51A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xb9",
+			"unified"=>"\xf0\x9f\x8e\x93",
+			"kddi"=>"\xee\xab\xa5",
+		),
+	),
+	"\xf3\xbe\x9f\xbc" => array(
+		"codepoint"=>"U+FE7FC",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb9",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xa0",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x9f\xbd" => array(
+		"codepoint"=>"U+FE7FD",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xa4",
+			"unified"=>"\xf0\x9f\x8e\xa1",
+			"kddi"=>"\xee\x91\xad",
+		),
+	),
+	"\xf3\xbe\x9f\xbe" => array(
+		"codepoint"=>"U+FE7FE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xb3",
+			"unified"=>"\xf0\x9f\x8e\xa2",
+			"kddi"=>"\xee\xab\xa2",
+		),
+	),
+	"\xf3\xbe\x9f\xbf" => array(
+		"codepoint"=>"U+FE7FF",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x91",
+			"softbank"=>"\xee\x80\x99",
+			"unified"=>"\xf0\x9f\x8e\xa3",
+			"kddi"=>"\xee\xad\x82",
+		),
+	),
+	"\xf3\xbe\xa0\x80" => array(
+		"codepoint"=>"U+FE800",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb6",
+			"softbank"=>"\xee\x80\xbc",
+			"unified"=>"\xf0\x9f\x8e\xa4",
+			"kddi"=>"\xee\x94\x83",
+		),
+	),
+	"\xf3\xbe\xa0\x81" => array(
+		"codepoint"=>"U+FE801",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb7",
+			"softbank"=>"\xee\x80\xbd",
+			"unified"=>"\xf0\x9f\x8e\xa5",
+			"kddi"=>"\xee\x94\x97",
+		),
+	),
+	"\xf3\xbe\xa0\x82" => array(
+		"codepoint"=>"U+FE802",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb7",
+			"softbank"=>"\xee\x94\x87",
+			"unified"=>"\xf0\x9f\x8e\xa6",
+			"kddi"=>"\xee\x94\x97",
+		),
+	),
+	"\xf3\xbe\xa0\x83" => array(
+		"codepoint"=>"U+FE803",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xba",
+			"softbank"=>"\xee\x8c\x8a",
+			"unified"=>"\xf0\x9f\x8e\xa7",
+			"kddi"=>"\xee\x94\x88",
+		),
+	),
+	"\xf3\xbe\xa0\x84" => array(
+		"codepoint"=>"U+FE804",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xbb",
+			"softbank"=>"\xee\x94\x82",
+			"unified"=>"\xf0\x9f\x8e\xa8",
+			"kddi"=>"\xee\x96\x9c",
+		),
+	),
+	"\xf3\xbe\xa0\x85" => array(
+		"codepoint"=>"U+FE805",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xbc",
+			"softbank"=>"\xee\x94\x83",
+			"unified"=>"\xf0\x9f\x8e\xa9",
+			"kddi"=>"\xee\xab\xb5",
+		),
+	),
+	"\xf3\xbe\xa0\x86" => array(
+		"codepoint"=>"U+FE806",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xbd",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xaa",
+			"kddi"=>"\xee\x96\x9e",
+		),
+	),
+	"\xf3\xbe\xa0\x87" => array(
+		"codepoint"=>"U+FE807",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xbe",
+			"softbank"=>"\xee\x84\xa5",
+			"unified"=>"\xf0\x9f\x8e\xab",
+			"kddi"=>"\xee\x92\x9e",
+		),
+	),
+	"\xf3\xbe\xa0\x88" => array(
+		"codepoint"=>"U+FE808",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xac",
+			"softbank"=>"\xee\x8c\xa4",
+			"unified"=>"\xf0\x9f\x8e\xac",
+			"kddi"=>"\xee\x92\xbe",
+		),
+	),
+	"\xf3\xbe\xa0\x89" => array(
+		"codepoint"=>"U+FE809",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x83",
+			"unified"=>"\xf0\x9f\x8e\xad",
+			"kddi"=>"\xee\x96\x9d",
+		),
+	),
+	"\xf3\xbe\xa0\x8a" => array(
+		"codepoint"=>"U+FE80A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x8b",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xae",
+			"kddi"=>"\xee\x93\x86",
+		),
+	),
+	"\xf3\xbe\xa0\x8c" => array(
+		"codepoint"=>"U+FE80C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xb0",
+			"unified"=>"\xf0\x9f\x8e\xaf",
+			"kddi"=>"\xee\x93\x85",
+		),
+	),
+	"\xf3\xbe\xa0\x8d" => array(
+		"codepoint"=>"U+FE80D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xb3",
+			"unified"=>"\xf0\x9f\x8e\xb0",
+			"kddi"=>"\xee\x91\xae",
+		),
+	),
+	"\xf3\xbe\xa0\x8e" => array(
+		"codepoint"=>"U+FE80E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xac",
+			"unified"=>"\xf0\x9f\x8e\xb1",
+			"kddi"=>"\xee\xab\x9d",
+		),
+	),
+	"\xf3\xbe\xa0\x8f" => array(
+		"codepoint"=>"U+FE80F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xb2",
+			"kddi"=>"\xee\x93\x88",
+		),
+	),
+	"\xf3\xbe\xa0\x90" => array(
+		"codepoint"=>"U+FE810",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xb3",
+			"kddi"=>"\xee\xad\x83",
+		),
+	),
+	"\xf3\xbe\xa0\x91" => array(
+		"codepoint"=>"U+FE811",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xb4",
+			"kddi"=>"\xee\xad\xae",
+		),
+	),
+	"\xf3\xbe\xa0\x93" => array(
+		"codepoint"=>"U+FE813",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb6",
+			"softbank"=>"\xee\x80\xbe",
+			"unified"=>"\xf0\x9f\x8e\xb5",
+			"kddi"=>"\xee\x96\xbe",
+		),
+	),
+	"\xf3\xbe\xa0\x94" => array(
+		"codepoint"=>"U+FE814",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xbf",
+			"softbank"=>"\xee\x8c\xa6",
+			"unified"=>"\xf0\x9f\x8e\xb6",
+			"kddi"=>"\xee\x94\x85",
+		),
+	),
+	"\xf3\xbe\xa0\x95" => array(
+		"codepoint"=>"U+FE815",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x80",
+			"unified"=>"\xf0\x9f\x8e\xb7",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xa0\x96" => array(
+		"codepoint"=>"U+FE816",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x81",
+			"unified"=>"\xf0\x9f\x8e\xb8",
+			"kddi"=>"\xee\x94\x86",
+		),
+	),
+	"\xf3\xbe\xa0\x97" => array(
+		"codepoint"=>"U+FE817",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xb9",
+			"kddi"=>"\xee\xad\x80",
+		),
+	),
+	"\xf3\xbe\xa0\x98" => array(
+		"codepoint"=>"U+FE818",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x82",
+			"unified"=>"\xf0\x9f\x8e\xba",
+			"kddi"=>"\xee\xab\x9c",
+		),
+	),
+	"\xf3\xbe\xa0\x99" => array(
+		"codepoint"=>"U+FE819",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xbb",
+			"kddi"=>"\xee\x94\x87",
+		),
+	),
+	"\xf3\xbe\xa0\x9a" => array(
+		"codepoint"=>"U+FE81A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xbf",
+			"softbank"=>"\xee\x8c\xa6",
+			"unified"=>"\xf0\x9f\x8e\xbc",
+			"kddi"=>"\xee\xab\x8c",
+		),
+	),
+	"\xf3\xbe\x9f\x90" => array(
+		"codepoint"=>"U+FE7D0",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x92",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8e\xbd",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x9f\x93" => array(
+		"codepoint"=>"U+FE7D3",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x95",
+			"softbank"=>"\xee\x80\x95",
+			"unified"=>"\xf0\x9f\x8e\xbe",
+			"kddi"=>"\xee\x92\xb7",
+		),
+	),
+	"\xf3\xbe\x9f\x95" => array(
+		"codepoint"=>"U+FE7D5",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x97",
+			"softbank"=>"\xee\x80\x93",
+			"unified"=>"\xf0\x9f\x8e\xbf",
+			"kddi"=>"\xee\xaa\xac",
+		),
+	),
+	"\xf3\xbe\x9f\x96" => array(
+		"codepoint"=>"U+FE7D6",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x98",
+			"softbank"=>"\xee\x90\xaa",
+			"unified"=>"\xf0\x9f\x8f\x80",
+			"kddi"=>"\xee\x96\x9a",
+		),
+	),
+	"\xf3\xbe\x9f\x97" => array(
+		"codepoint"=>"U+FE7D7",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x99",
+			"softbank"=>"\xee\x84\xb2",
+			"unified"=>"\xf0\x9f\x8f\x81",
+			"kddi"=>"\xee\x92\xb9",
+		),
+	),
+	"\xf3\xbe\x9f\x98" => array(
+		"codepoint"=>"U+FE7D8",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x92",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x8f\x82",
+			"kddi"=>"\xee\x92\xb8",
+		),
+	),
+	"\xf3\xbe\x9f\x99" => array(
+		"codepoint"=>"U+FE7D9",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb3",
+			"softbank"=>"\xee\x84\x95",
+			"unified"=>"\xf0\x9f\x8f\x83",
+			"kddi"=>"\xee\x91\xab",
+		),
+	),
+	"\xf3\xbe\x9f\x9a" => array(
+		"codepoint"=>"U+FE7DA",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x92",
+			"softbank"=>"\xee\x80\x97",
+			"unified"=>"\xf0\x9f\x8f\x84",
+			"kddi"=>"\xee\xad\x81",
+		),
+	),
+	"\xf3\xbe\x9f\x9b" => array(
+		"codepoint"=>"U+FE7DB",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xb1",
+			"unified"=>"\xf0\x9f\x8f\x86",
+			"kddi"=>"\xee\x97\x93",
+		),
+	),
+	"\xf3\xbe\x9f\x9d" => array(
+		"codepoint"=>"U+FE7DD",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xab",
+			"unified"=>"\xf0\x9f\x8f\x88",
+			"kddi"=>"\xee\x92\xbb",
+		),
+	),
+	"\xf3\xbe\x9f\x9e" => array(
+		"codepoint"=>"U+FE7DE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xad",
+			"unified"=>"\xf0\x9f\x8f\x8a",
+			"kddi"=>"\xee\xab\x9e",
+		),
+	),
+	"\xf3\xbe\x92\xb0" => array(
+		"codepoint"=>"U+FE4B0",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa3",
+			"softbank"=>"\xee\x80\xb6",
+			"unified"=>"\xf0\x9f\x8f\xa0",
+			"kddi"=>"\xee\x92\xab",
+		),
+	),
+	"\xf3\xbe\x92\xb1" => array(
+		"codepoint"=>"U+FE4B1",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa3",
+			"softbank"=>"\xee\x80\xb6",
+			"unified"=>"\xf0\x9f\x8f\xa1",
+			"kddi"=>"\xee\xac\x89",
+		),
+	),
+	"\xf3\xbe\x92\xb2" => array(
+		"codepoint"=>"U+FE4B2",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa4",
+			"softbank"=>"\xee\x80\xb8",
+			"unified"=>"\xf0\x9f\x8f\xa2",
+			"kddi"=>"\xee\x92\xad",
+		),
+	),
+	"\xf3\xbe\x92\xb3" => array(
+		"codepoint"=>"U+FE4B3",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa5",
+			"softbank"=>"\xee\x85\x93",
+			"unified"=>"\xf0\x9f\x8f\xa3",
+			"kddi"=>"\xee\x97\x9e",
+		),
+	),
+	"\xf3\xbe\x92\xb4" => array(
+		"codepoint"=>"U+FE4B4",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa6",
+			"softbank"=>"\xee\x85\x95",
+			"unified"=>"\xf0\x9f\x8f\xa5",
+			"kddi"=>"\xee\x97\x9f",
+		),
+	),
+	"\xf3\xbe\x92\xb5" => array(
+		"codepoint"=>"U+FE4B5",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa7",
+			"softbank"=>"\xee\x85\x8d",
+			"unified"=>"\xf0\x9f\x8f\xa6",
+			"kddi"=>"\xee\x92\xaa",
+		),
+	),
+	"\xf3\xbe\x92\xb6" => array(
+		"codepoint"=>"U+FE4B6",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa8",
+			"softbank"=>"\xee\x85\x94",
+			"unified"=>"\xf0\x9f\x8f\xa7",
+			"kddi"=>"\xee\x92\xa3",
+		),
+	),
+	"\xf3\xbe\x92\xb7" => array(
+		"codepoint"=>"U+FE4B7",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa9",
+			"softbank"=>"\xee\x85\x98",
+			"unified"=>"\xf0\x9f\x8f\xa8",
+			"kddi"=>"\xee\xaa\x81",
+		),
+	),
+	"\xf3\xbe\x92\xb8" => array(
+		"codepoint"=>"U+FE4B8",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa9\xee\x9b\xaf",
+			"softbank"=>"\xee\x94\x81",
+			"unified"=>"\xf0\x9f\x8f\xa9",
+			"kddi"=>"\xee\xab\xb3",
+		),
+	),
+	"\xf3\xbe\x92\xb9" => array(
+		"codepoint"=>"U+FE4B9",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xaa",
+			"softbank"=>"\xee\x85\x96",
+			"unified"=>"\xf0\x9f\x8f\xaa",
+			"kddi"=>"\xee\x92\xa4",
+		),
+	),
+	"\xf3\xbe\x92\xba" => array(
+		"codepoint"=>"U+FE4BA",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xbe",
+			"softbank"=>"\xee\x85\x97",
+			"unified"=>"\xf0\x9f\x8f\xab",
+			"kddi"=>"\xee\xaa\x80",
+		),
+	),
+	"\xf3\xbe\x92\xbd" => array(
+		"codepoint"=>"U+FE4BD",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x84",
+			"unified"=>"\xf0\x9f\x8f\xac",
+			"kddi"=>"\xee\xab\xb6",
+		),
+	),
+	"\xf3\xbe\x93\x80" => array(
+		"codepoint"=>"U+FE4C0",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x88",
+			"unified"=>"\xf0\x9f\x8f\xad",
+			"kddi"=>"\xee\xab\xb9",
+		),
+	),
+	"\xf3\xbe\x93\x82" => array(
+		"codepoint"=>"U+FE4C2",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8b",
+			"softbank"=>"\xee\x8c\x8b",
+			"unified"=>"\xf0\x9f\x8f\xae",
+			"kddi"=>"\xee\x92\xbd",
+		),
+	),
+	"\xf3\xbe\x92\xbe" => array(
+		"codepoint"=>"U+FE4BE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x85",
+			"unified"=>"\xf0\x9f\x8f\xaf",
+			"kddi"=>"\xee\xab\xb7",
+		),
+	),
+	"\xf3\xbe\x92\xbf" => array(
+		"codepoint"=>"U+FE4BF",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x86",
+			"unified"=>"\xf0\x9f\x8f\xb0",
+			"kddi"=>"\xee\xab\xb8",
+		),
+	),
+	"\xf3\xbe\x86\xb9" => array(
+		"codepoint"=>"U+FE1B9",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8e",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x90\x8c",
+			"kddi"=>"\xee\xad\xbe",
+		),
+	),
+	"\xf3\xbe\x87\x93" => array(
+		"codepoint"=>"U+FE1D3",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xad",
+			"unified"=>"\xf0\x9f\x90\x8d",
+			"kddi"=>"\xee\xac\xa2",
+		),
+	),
+	"\xf3\xbe\x9f\x9c" => array(
+		"codepoint"=>"U+FE7DC",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x94",
+			"softbank"=>"\xee\x84\xb4",
+			"unified"=>"\xf0\x9f\x90\x8e",
+			"kddi"=>"\xee\x93\x98",
+		),
+	),
+	"\xf3\xbe\x87\x8f" => array(
+		"codepoint"=>"U+FE1CF",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xa9",
+			"unified"=>"\xf0\x9f\x90\x91",
+			"kddi"=>"\xee\x92\x8f",
+		),
+	),
+	"\xf3\xbe\x87\x8e" => array(
+		"codepoint"=>"U+FE1CE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xa8",
+			"unified"=>"\xf0\x9f\x90\x92",
+			"kddi"=>"\xee\x93\x99",
+		),
+	),
+	"\xf3\xbe\x87\x94" => array(
+		"codepoint"=>"U+FE1D4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xae",
+			"unified"=>"\xf0\x9f\x90\x94",
+			"kddi"=>"\xee\xac\xa3",
+		),
+	),
+	"\xf3\xbe\x87\x95" => array(
+		"codepoint"=>"U+FE1D5",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xaf",
+			"unified"=>"\xf0\x9f\x90\x97",
+			"kddi"=>"\xee\xac\xa4",
+		),
+	),
+	"\xf3\xbe\x87\x8c" => array(
+		"codepoint"=>"U+FE1CC",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xa6",
+			"unified"=>"\xf0\x9f\x90\x98",
+			"kddi"=>"\xee\xac\x9f",
+		),
+	),
+	"\xf3\xbe\x87\x85" => array(
+		"codepoint"=>"U+FE1C5",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x8a",
+			"unified"=>"\xf0\x9f\x90\x99",
+			"kddi"=>"\xee\x97\x87",
+		),
+	),
+	"\xf3\xbe\x87\x86" => array(
+		"codepoint"=>"U+FE1C6",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x91\x81",
+			"unified"=>"\xf0\x9f\x90\x9a",
+			"kddi"=>"\xee\xab\xac",
+		),
+	),
+	"\xf3\xbe\x87\x8b" => array(
+		"codepoint"=>"U+FE1CB",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xa5",
+			"unified"=>"\xf0\x9f\x90\x9b",
+			"kddi"=>"\xee\xac\x9e",
+		),
+	),
+	"\xf3\xbe\x87\x9a" => array(
+		"codepoint"=>"U+FE1DA",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x90\x9c",
+			"kddi"=>"\xee\x93\x9d",
+		),
+	),
+	"\xf3\xbe\x87\xa1" => array(
+		"codepoint"=>"U+FE1E1",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x90\x9d",
+			"kddi"=>"\xee\xad\x97",
+		),
+	),
+	"\xf3\xbe\x87\xa2" => array(
+		"codepoint"=>"U+FE1E2",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x90\x9e",
+			"kddi"=>"\xee\xad\x98",
+		),
+	),
+	"\xf3\xbe\x86\xbd" => array(
+		"codepoint"=>"U+FE1BD",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x91",
+			"softbank"=>"\xee\x80\x99",
+			"unified"=>"\xf0\x9f\x90\x9f",
+			"kddi"=>"\xee\x92\x9a",
+		),
+	),
+	"\xf3\xbe\x87\x89" => array(
+		"codepoint"=>"U+FE1C9",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x91",
+			"softbank"=>"\xee\x94\xa2",
+			"unified"=>"\xf0\x9f\x90\xa0",
+			"kddi"=>"\xee\xac\x9d",
+		),
+	),
+	"\xf3\xbe\x87\x99" => array(
+		"codepoint"=>"U+FE1D9",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x91",
+			"softbank"=>"\xee\x80\x99",
+			"unified"=>"\xf0\x9f\x90\xa1",
+			"kddi"=>"\xee\x93\x93",
+		),
+	),
+	"\xf3\xbe\x87\x9c" => array(
+		"codepoint"=>"U+FE1DC",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x90\xa2",
+			"kddi"=>"\xee\x97\x94",
+		),
+	),
+	"\xf3\xbe\x87\x9d" => array(
+		"codepoint"=>"U+FE1DD",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8f",
+			"softbank"=>"\xee\x94\xa3",
+			"unified"=>"\xf0\x9f\x90\xa3",
+			"kddi"=>"\xee\x97\x9b",
+		),
+	),
+	"\xf3\xbe\x86\xba" => array(
+		"codepoint"=>"U+FE1BA",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8f",
+			"softbank"=>"\xee\x94\xa3",
+			"unified"=>"\xf0\x9f\x90\xa4",
+			"kddi"=>"\xee\x93\xa0",
+		),
+	),
+	"\xf3\xbe\x86\xbb" => array(
+		"codepoint"=>"U+FE1BB",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8f",
+			"softbank"=>"\xee\x94\xa3",
+			"unified"=>"\xf0\x9f\x90\xa5",
+			"kddi"=>"\xee\xad\xb6",
+		),
+	),
+	"\xf3\xbe\x87\x88" => array(
+		"codepoint"=>"U+FE1C8",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x8f",
+			"softbank"=>"\xee\x94\xa1",
+			"unified"=>"\xf0\x9f\x90\xa6",
+			"kddi"=>"\xee\x93\xa0",
+		),
+	),
+	"\xf3\xbe\x86\xbc" => array(
+		"codepoint"=>"U+FE1BC",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x90",
+			"softbank"=>"\xee\x81\x95",
+			"unified"=>"\xf0\x9f\x90\xa7",
+			"kddi"=>"\xee\x93\x9c",
+		),
+	),
+	"\xf3\xbe\x87\x8d" => array(
+		"codepoint"=>"U+FE1CD",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xa7",
+			"unified"=>"\xf0\x9f\x90\xa8",
+			"kddi"=>"\xee\xac\xa0",
+		),
+	),
+	"\xf3\xbe\x87\x98" => array(
+		"codepoint"=>"U+FE1D8",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa1",
+			"softbank"=>"\xee\x81\x92",
+			"unified"=>"\xf0\x9f\x90\xa9",
+			"kddi"=>"\xee\x93\x9f",
+		),
+	),
+	"\xf3\xbe\x87\x96" => array(
+		"codepoint"=>"U+FE1D6",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xb0",
+			"unified"=>"\xf0\x9f\x90\xab",
+			"kddi"=>"\xee\xac\xa5",
+		),
+	),
+	"\xf3\xbe\x87\x87" => array(
+		"codepoint"=>"U+FE1C7",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xa0",
+			"unified"=>"\xf0\x9f\x90\xac",
+			"kddi"=>"\xee\xac\x9b",
+		),
+	),
+	"\xf3\xbe\x87\x82" => array(
+		"codepoint"=>"U+FE1C2",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x93",
+			"unified"=>"\xf0\x9f\x90\xad",
+			"kddi"=>"\xee\x97\x82",
+		),
+	),
+	"\xf3\xbe\x87\x91" => array(
+		"codepoint"=>"U+FE1D1",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xab",
+			"unified"=>"\xf0\x9f\x90\xae",
+			"kddi"=>"\xee\xac\xa1",
+		),
+	),
+	"\xf3\xbe\x87\x80" => array(
+		"codepoint"=>"U+FE1C0",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x90",
+			"unified"=>"\xf0\x9f\x90\xaf",
+			"kddi"=>"\xee\x97\x80",
+		),
+	),
+	"\xf3\xbe\x87\x92" => array(
+		"codepoint"=>"U+FE1D2",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xac",
+			"unified"=>"\xf0\x9f\x90\xb0",
+			"kddi"=>"\xee\x93\x97",
+		),
+	),
+	"\xf3\xbe\x86\xb8" => array(
+		"codepoint"=>"U+FE1B8",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa2",
+			"softbank"=>"\xee\x81\x8f",
+			"unified"=>"\xf0\x9f\x90\xb1",
+			"kddi"=>"\xee\x93\x9b",
+		),
+	),
+	"\xf3\xbe\x87\x9e" => array(
+		"codepoint"=>"U+FE1DE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x90\xb2",
+			"kddi"=>"\xee\xac\xbf",
+		),
+	),
+	"\xf3\xbe\x87\x83" => array(
+		"codepoint"=>"U+FE1C3",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x94",
+			"unified"=>"\xf0\x9f\x90\xb3",
+			"kddi"=>"\xee\x91\xb0",
+		),
+	),
+	"\xf3\xbe\x86\xbe" => array(
+		"codepoint"=>"U+FE1BE",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x94",
+			"softbank"=>"\xee\x80\x9a",
+			"unified"=>"\xf0\x9f\x90\xb4",
+			"kddi"=>"\xee\x93\x98",
+		),
+	),
+	"\xf3\xbe\x87\x84" => array(
+		"codepoint"=>"U+FE1C4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x89",
+			"unified"=>"\xf0\x9f\x90\xb5",
+			"kddi"=>"\xee\x93\x99",
+		),
+	),
+	"\xf3\xbe\x86\xb7" => array(
+		"codepoint"=>"U+FE1B7",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa1",
+			"softbank"=>"\xee\x81\x92",
+			"unified"=>"\xf0\x9f\x90\xb6",
+			"kddi"=>"\xee\x93\xa1",
+		),
+	),
+	"\xf3\xbe\x86\xbf" => array(
+		"codepoint"=>"U+FE1BF",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x95",
+			"softbank"=>"\xee\x84\x8b",
+			"unified"=>"\xf0\x9f\x90\xb7",
+			"kddi"=>"\xee\x93\x9e",
+		),
+	),
+	"\xf3\xbe\x87\x97" => array(
+		"codepoint"=>"U+FE1D7",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xb1",
+			"unified"=>"\xf0\x9f\x90\xb8",
+			"kddi"=>"\xee\x93\x9a",
+		),
+	),
+	"\xf3\xbe\x87\x8a" => array(
+		"codepoint"=>"U+FE1CA",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\xa4",
+			"unified"=>"\xf0\x9f\x90\xb9",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x87\x90" => array(
+		"codepoint"=>"U+FE1D0",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa1",
+			"softbank"=>"\xee\x94\xaa",
+			"unified"=>"\xf0\x9f\x90\xba",
+			"kddi"=>"\xee\x93\xa1",
+		),
+	),
+	"\xf3\xbe\x87\x81" => array(
+		"codepoint"=>"U+FE1C1",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x91",
+			"unified"=>"\xf0\x9f\x90\xbb",
+			"kddi"=>"\xee\x97\x81",
+		),
+	),
+	"\xf3\xbe\x87\x9f" => array(
+		"codepoint"=>"U+FE1DF",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x90\xbc",
+			"kddi"=>"\xee\xad\x86",
+		),
+	),
+	"\xf3\xbe\x87\xa0" => array(
+		"codepoint"=>"U+FE1E0",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x95",
+			"softbank"=>"\xee\x84\x8b",
+			"unified"=>"\xf0\x9f\x90\xbd",
+			"kddi"=>"\xee\xad\x88",
+		),
+	),
+	"\xf3\xbe\x87\x9b" => array(
+		"codepoint"=>"U+FE1DB",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x98",
+			"softbank"=>"\xee\x94\xb6",
+			"unified"=>"\xf0\x9f\x90\xbe",
+			"kddi"=>"\xee\x93\xae",
+		),
+	),
+	"\xf3\xbe\x86\x90" => array(
+		"codepoint"=>"U+FE190",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x91",
+			"softbank"=>"\xee\x90\x99",
+			"unified"=>"\xf0\x9f\x91\x80",
+			"kddi"=>"\xee\x96\xa4",
+		),
+	),
+	"\xf3\xbe\x86\x91" => array(
+		"codepoint"=>"U+FE191",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x92",
+			"softbank"=>"\xee\x90\x9b",
+			"unified"=>"\xf0\x9f\x91\x82",
+			"kddi"=>"\xee\x96\xa5",
+		),
+	),
+	"\xf3\xbe\x86\x92" => array(
+		"codepoint"=>"U+FE192",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\x9a",
+			"unified"=>"\xf0\x9f\x91\x83",
+			"kddi"=>"\xee\xab\x90",
+		),
+	),
+	"\xf3\xbe\x86\x93" => array(
+		"codepoint"=>"U+FE193",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb9",
+			"softbank"=>"\xee\x90\x9c",
+			"unified"=>"\xf0\x9f\x91\x84",
+			"kddi"=>"\xee\xab\x91",
+		),
+	),
+	"\xf3\xbe\x86\x94" => array(
+		"codepoint"=>"U+FE194",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa8",
+			"softbank"=>"\xee\x90\x89",
+			"unified"=>"\xf0\x9f\x91\x85",
+			"kddi"=>"\xee\xad\x87",
+		),
+	),
+	"\xf3\xbe\xae\x99" => array(
+		"codepoint"=>"U+FEB99",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xae",
+			"unified"=>"\xf0\x9f\x91\x86",
+			"kddi"=>"\xee\xaa\x8d",
+		),
+	),
+	"\xf3\xbe\xae\x9a" => array(
+		"codepoint"=>"U+FEB9A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xaf",
+			"unified"=>"\xf0\x9f\x91\x87",
+			"kddi"=>"\xee\xaa\x8e",
+		),
+	),
+	"\xf3\xbe\xae\x9b" => array(
+		"codepoint"=>"U+FEB9B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xb0",
+			"unified"=>"\xf0\x9f\x91\x88",
+			"kddi"=>"\xee\x93\xbf",
+		),
+	),
+	"\xf3\xbe\xae\x9c" => array(
+		"codepoint"=>"U+FEB9C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xb1",
+			"unified"=>"\xf0\x9f\x91\x89",
+			"kddi"=>"\xee\x94\x80",
+		),
+	),
+	"\xf3\xbe\xae\x96" => array(
+		"codepoint"=>"U+FEB96",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xbd",
+			"softbank"=>"\xee\x80\x8d",
+			"unified"=>"\xf0\x9f\x91\x8a",
+			"kddi"=>"\xee\x93\xb3",
+		),
+	),
+	"\xf3\xbe\xae\x9d" => array(
+		"codepoint"=>"U+FEB9D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x95",
+			"softbank"=>"\xee\x90\x9e",
+			"unified"=>"\xf0\x9f\x91\x8b",
+			"kddi"=>"\xee\xab\x96",
+		),
+	),
+	"\xf3\xbe\xae\x9f" => array(
+		"codepoint"=>"U+FEB9F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x8b",
+			"softbank"=>"\xee\x90\xa0",
+			"unified"=>"\xf0\x9f\x91\x8c",
+			"kddi"=>"\xee\xab\x94",
+		),
+	),
+	"\xf3\xbe\xae\x97" => array(
+		"codepoint"=>"U+FEB97",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa7",
+			"softbank"=>"\xee\x80\x8e",
+			"unified"=>"\xf0\x9f\x91\x8d",
+			"kddi"=>"\xee\x93\xb9",
+		),
+	),
+	"\xf3\xbe\xae\xa0" => array(
+		"codepoint"=>"U+FEBA0",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x80",
+			"softbank"=>"\xee\x90\xa1",
+			"unified"=>"\xf0\x9f\x91\x8e",
+			"kddi"=>"\xee\xab\x95",
+		),
+	),
+	"\xf3\xbe\xae\x9e" => array(
+		"codepoint"=>"U+FEB9E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\x9f",
+			"unified"=>"\xf0\x9f\x91\x8f",
+			"kddi"=>"\xee\xab\x93",
+		),
+	),
+	"\xf3\xbe\xae\xa1" => array(
+		"codepoint"=>"U+FEBA1",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x95",
+			"softbank"=>"\xee\x90\xa2",
+			"unified"=>"\xf0\x9f\x91\x90",
+			"kddi"=>"\xee\xab\x96",
+		),
+	),
+	"\xf3\xbe\x93\x91" => array(
+		"codepoint"=>"U+FE4D1",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9a",
+			"softbank"=>"\xee\x84\x8e",
+			"unified"=>"\xf0\x9f\x91\x91",
+			"kddi"=>"\xee\x97\x89",
+		),
+	),
+	"\xf3\xbe\x93\x94" => array(
+		"codepoint"=>"U+FE4D4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x98",
+			"unified"=>"\xf0\x9f\x91\x92",
+			"kddi"=>"\xee\xaa\x9e",
+		),
+	),
+	"\xf3\xbe\x93\x8e" => array(
+		"codepoint"=>"U+FE4CE",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9a",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\x93",
+			"kddi"=>"\xee\x93\xbe",
+		),
+	),
+	"\xf3\xbe\x93\x93" => array(
+		"codepoint"=>"U+FE4D3",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x82",
+			"unified"=>"\xf0\x9f\x91\x94",
+			"kddi"=>"\xee\xaa\x93",
+		),
+	),
+	"\xf3\xbe\x93\x8f" => array(
+		"codepoint"=>"U+FE4CF",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x8e",
+			"softbank"=>"\xee\x80\x86",
+			"unified"=>"\xf0\x9f\x91\x95",
+			"kddi"=>"\xee\x96\xb6",
+		),
+	),
+	"\xf3\xbe\x93\x90" => array(
+		"codepoint"=>"U+FE4D0",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x91",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\x96",
+			"kddi"=>"\xee\xad\xb7",
+		),
+	),
+	"\xf3\xbe\x93\x95" => array(
+		"codepoint"=>"U+FE4D5",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x99",
+			"unified"=>"\xf0\x9f\x91\x97",
+			"kddi"=>"\xee\xad\xab",
+		),
+	),
+	"\xf3\xbe\x93\x99" => array(
+		"codepoint"=>"U+FE4D9",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xa1",
+			"unified"=>"\xf0\x9f\x91\x98",
+			"kddi"=>"\xee\xaa\xa3",
+		),
+	),
+	"\xf3\xbe\x93\x9a" => array(
+		"codepoint"=>"U+FE4DA",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xa2",
+			"unified"=>"\xf0\x9f\x91\x99",
+			"kddi"=>"\xee\xaa\xa4",
+		),
+	),
+	"\xf3\xbe\x93\x9b" => array(
+		"codepoint"=>"U+FE4DB",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x8e",
+			"softbank"=>"\xee\x80\x86",
+			"unified"=>"\xf0\x9f\x91\x9a",
+			"kddi"=>"\xee\x94\x8d",
+		),
+	),
+	"\xf3\xbe\x93\x9c" => array(
+		"codepoint"=>"U+FE4DC",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x8f",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\x9b",
+			"kddi"=>"\xee\x94\x84",
+		),
+	),
+	"\xf3\xbe\x93\xb0" => array(
+		"codepoint"=>"U+FE4F0",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x82",
+			"softbank"=>"\xee\x8c\xa3",
+			"unified"=>"\xf0\x9f\x91\x9c",
+			"kddi"=>"\xee\x92\x9c",
+		),
+	),
+	"\xf3\xbe\x93\xb1" => array(
+		"codepoint"=>"U+FE4F1",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xad",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\x9d",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x93\x8c" => array(
+		"codepoint"=>"U+FE4CC",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x99",
+			"softbank"=>"\xee\x80\x87",
+			"unified"=>"\xf0\x9f\x91\x9e",
+			"kddi"=>"\xee\x96\xb7",
+		),
+	),
+	"\xf3\xbe\x93\x8d" => array(
+		"codepoint"=>"U+FE4CD",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x99",
+			"softbank"=>"\xee\x80\x87",
+			"unified"=>"\xf0\x9f\x91\x9f",
+			"kddi"=>"\xee\xac\xab",
+		),
+	),
+	"\xf3\xbe\x93\x96" => array(
+		"codepoint"=>"U+FE4D6",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb4",
+			"softbank"=>"\xee\x84\xbe",
+			"unified"=>"\xf0\x9f\x91\xa0",
+			"kddi"=>"\xee\x94\x9a",
+		),
+	),
+	"\xf3\xbe\x93\x97" => array(
+		"codepoint"=>"U+FE4D7",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb4",
+			"softbank"=>"\xee\x8c\x9a",
+			"unified"=>"\xf0\x9f\x91\xa1",
+			"kddi"=>"\xee\x94\x9a",
+		),
+	),
+	"\xf3\xbe\x93\x98" => array(
+		"codepoint"=>"U+FE4D8",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x9b",
+			"unified"=>"\xf0\x9f\x91\xa2",
+			"kddi"=>"\xee\xaa\x9f",
+		),
+	),
+	"\xf3\xbe\x95\x93" => array(
+		"codepoint"=>"U+FE553",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x98",
+			"softbank"=>"\xee\x94\xb6",
+			"unified"=>"\xf0\x9f\x91\xa3",
+			"kddi"=>"\xee\xac\xaa",
+		),
+	),
+	"\xf3\xbe\x86\x9a" => array(
+		"codepoint"=>"U+FE19A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xb1",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\xa4",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x86\x9b" => array(
+		"codepoint"=>"U+FE19B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x80\x81",
+			"unified"=>"\xf0\x9f\x91\xa6",
+			"kddi"=>"\xee\x93\xbc",
+		),
+	),
+	"\xf3\xbe\x86\x9c" => array(
+		"codepoint"=>"U+FE19C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x80\x82",
+			"unified"=>"\xf0\x9f\x91\xa7",
+			"kddi"=>"\xee\x93\xba",
+		),
+	),
+	"\xf3\xbe\x86\x9d" => array(
+		"codepoint"=>"U+FE19D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x80\x84",
+			"unified"=>"\xf0\x9f\x91\xa8",
+			"kddi"=>"\xee\x93\xbc",
+		),
+	),
+	"\xf3\xbe\x86\x9e" => array(
+		"codepoint"=>"U+FE19E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x80\x85",
+			"unified"=>"\xf0\x9f\x91\xa9",
+			"kddi"=>"\xee\x93\xba",
+		),
+	),
+	"\xf3\xbe\x86\x9f" => array(
+		"codepoint"=>"U+FE19F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\xaa",
+			"kddi"=>"\xee\x94\x81",
+		),
+	),
+	"\xf3\xbe\x86\xa0" => array(
+		"codepoint"=>"U+FE1A0",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xa8",
+			"unified"=>"\xf0\x9f\x91\xab",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x86\xa1" => array(
+		"codepoint"=>"U+FE1A1",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x92",
+			"unified"=>"\xf0\x9f\x91\xae",
+			"kddi"=>"\xee\x97\x9d",
+		),
+	),
+	"\xf3\xbe\x86\xa2" => array(
+		"codepoint"=>"U+FE1A2",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xa9",
+			"unified"=>"\xf0\x9f\x91\xaf",
+			"kddi"=>"\xee\xab\x9b",
+		),
+	),
+	"\xf3\xbe\x86\xa3" => array(
+		"codepoint"=>"U+FE1A3",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\xb0",
+			"kddi"=>"\xee\xab\xa9",
+		),
+	),
+	"\xf3\xbe\x86\xa4" => array(
+		"codepoint"=>"U+FE1A4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x95",
+			"unified"=>"\xf0\x9f\x91\xb1",
+			"kddi"=>"\xee\xac\x93",
+		),
+	),
+	"\xf3\xbe\x86\xa5" => array(
+		"codepoint"=>"U+FE1A5",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x96",
+			"unified"=>"\xf0\x9f\x91\xb2",
+			"kddi"=>"\xee\xac\x94",
+		),
+	),
+	"\xf3\xbe\x86\xa6" => array(
+		"codepoint"=>"U+FE1A6",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x97",
+			"unified"=>"\xf0\x9f\x91\xb3",
+			"kddi"=>"\xee\xac\x95",
+		),
+	),
+	"\xf3\xbe\x86\xa7" => array(
+		"codepoint"=>"U+FE1A7",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x98",
+			"unified"=>"\xf0\x9f\x91\xb4",
+			"kddi"=>"\xee\xac\x96",
+		),
+	),
+	"\xf3\xbe\x86\xa8" => array(
+		"codepoint"=>"U+FE1A8",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x99",
+			"unified"=>"\xf0\x9f\x91\xb5",
+			"kddi"=>"\xee\xac\x97",
+		),
+	),
+	"\xf3\xbe\x86\xa9" => array(
+		"codepoint"=>"U+FE1A9",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x9a",
+			"unified"=>"\xf0\x9f\x91\xb6",
+			"kddi"=>"\xee\xac\x98",
+		),
+	),
+	"\xf3\xbe\x86\xaa" => array(
+		"codepoint"=>"U+FE1AA",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x9b",
+			"unified"=>"\xf0\x9f\x91\xb7",
+			"kddi"=>"\xee\xac\x99",
+		),
+	),
+	"\xf3\xbe\x86\xab" => array(
+		"codepoint"=>"U+FE1AB",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x9c",
+			"unified"=>"\xf0\x9f\x91\xb8",
+			"kddi"=>"\xee\xac\x9a",
+		),
+	),
+	"\xf3\xbe\x86\xac" => array(
+		"codepoint"=>"U+FE1AC",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\xb9",
+			"kddi"=>"\xee\xad\x84",
+		),
+	),
+	"\xf3\xbe\x86\xad" => array(
+		"codepoint"=>"U+FE1AD",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x91\xba",
+			"kddi"=>"\xee\xad\x85",
+		),
+	),
+	"\xf3\xbe\x86\xae" => array(
+		"codepoint"=>"U+FE1AE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x9b",
+			"unified"=>"\xf0\x9f\x91\xbb",
+			"kddi"=>"\xee\x93\x8b",
+		),
+	),
+	"\xf3\xbe\x86\xaf" => array(
+		"codepoint"=>"U+FE1AF",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x8e",
+			"unified"=>"\xf0\x9f\x91\xbc",
+			"kddi"=>"\xee\x96\xbf",
+		),
+	),
+	"\xf3\xbe\x86\xb0" => array(
+		"codepoint"=>"U+FE1B0",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x8c",
+			"unified"=>"\xf0\x9f\x91\xbd",
+			"kddi"=>"\xee\x94\x8e",
+		),
+	),
+	"\xf3\xbe\x86\xb1" => array(
+		"codepoint"=>"U+FE1B1",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xab",
+			"unified"=>"\xf0\x9f\x91\xbe",
+			"kddi"=>"\xee\x93\xac",
+		),
+	),
+	"\xf3\xbe\x86\xb2" => array(
+		"codepoint"=>"U+FE1B2",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x9a",
+			"unified"=>"\xf0\x9f\x91\xbf",
+			"kddi"=>"\xee\x93\xaf",
+		),
+	),
+	"\xf3\xbe\x86\xb3" => array(
+		"codepoint"=>"U+FE1B3",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x9c",
+			"unified"=>"\xf0\x9f\x92\x80",
+			"kddi"=>"\xee\x93\xb8",
+		),
+	),
+	"\xf3\xbe\x86\xb4" => array(
+		"codepoint"=>"U+FE1B4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x89\x93",
+			"unified"=>"\xf0\x9f\x92\x81",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x86\xb5" => array(
+		"codepoint"=>"U+FE1B5",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x9e",
+			"unified"=>"\xf0\x9f\x92\x82",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x86\xb6" => array(
+		"codepoint"=>"U+FE1B6",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x9f",
+			"unified"=>"\xf0\x9f\x92\x83",
+			"kddi"=>"\xee\xac\x9c",
+		),
+	),
+	"\xf3\xbe\x86\x95" => array(
+		"codepoint"=>"U+FE195",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x90",
+			"softbank"=>"\xee\x8c\x9c",
+			"unified"=>"\xf0\x9f\x92\x84",
+			"kddi"=>"\xee\x94\x89",
+		),
+	),
+	"\xf3\xbe\x86\x96" => array(
+		"codepoint"=>"U+FE196",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x9d",
+			"unified"=>"\xf0\x9f\x92\x85",
+			"kddi"=>"\xee\xaa\xa0",
+		),
+	),
+	"\xf3\xbe\x86\x97" => array(
+		"codepoint"=>"U+FE197",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x9e",
+			"unified"=>"\xf0\x9f\x92\x86",
+			"kddi"=>"\xee\x94\x8b",
+		),
+	),
+	"\xf3\xbe\x86\x98" => array(
+		"codepoint"=>"U+FE198",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb5",
+			"softbank"=>"\xee\x8c\x9f",
+			"unified"=>"\xf0\x9f\x92\x87",
+			"kddi"=>"\xee\xaa\xa1",
+		),
+	),
+	"\xf3\xbe\x86\x99" => array(
+		"codepoint"=>"U+FE199",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\xa0",
+			"unified"=>"\xf0\x9f\x92\x88",
+			"kddi"=>"\xee\xaa\xa2",
+		),
+	),
+	"\xf3\xbe\x94\x89" => array(
+		"codepoint"=>"U+FE509",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xbb",
+			"unified"=>"\xf0\x9f\x92\x89",
+			"kddi"=>"\xee\x94\x90",
+		),
+	),
+	"\xf3\xbe\x94\x8a" => array(
+		"codepoint"=>"U+FE50A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x8f",
+			"unified"=>"\xf0\x9f\x92\x8a",
+			"kddi"=>"\xee\xaa\x9a",
+		),
+	),
+	"\xf3\xbe\xa0\xa3" => array(
+		"codepoint"=>"U+FE823",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb9",
+			"softbank"=>"\xee\x80\x83",
+			"unified"=>"\xf0\x9f\x92\x8b",
+			"kddi"=>"\xee\x93\xab",
+		),
+	),
+	"\xf3\xbe\xa0\xa4" => array(
+		"codepoint"=>"U+FE824",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x97",
+			"softbank"=>"\xee\x84\x83\xee\x8c\xa8",
+			"unified"=>"\xf0\x9f\x92\x8c",
+			"kddi"=>"\xee\xad\xb8",
+		),
+	),
+	"\xf3\xbe\xa0\xa5" => array(
+		"codepoint"=>"U+FE825",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9b",
+			"softbank"=>"\xee\x80\xb4",
+			"unified"=>"\xf0\x9f\x92\x8d",
+			"kddi"=>"\xee\x94\x94",
+		),
+	),
+	"\xf3\xbe\xa0\xa6" => array(
+		"codepoint"=>"U+FE826",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9b",
+			"softbank"=>"\xee\x80\xb5",
+			"unified"=>"\xf0\x9f\x92\x8e",
+			"kddi"=>"\xee\x94\x94",
+		),
+	),
+	"\xf3\xbe\xa0\xa7" => array(
+		"codepoint"=>"U+FE827",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb9",
+			"softbank"=>"\xee\x84\x91",
+			"unified"=>"\xf0\x9f\x92\x8f",
+			"kddi"=>"\xee\x97\x8a",
+		),
+	),
+	"\xf3\xbe\xa0\xa8" => array(
+		"codepoint"=>"U+FE828",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x86",
+			"unified"=>"\xf0\x9f\x92\x90",
+			"kddi"=>"\xee\xaa\x95",
+		),
+	),
+	"\xf3\xbe\xa0\xa9" => array(
+		"codepoint"=>"U+FE829",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xad",
+			"softbank"=>"\xee\x90\xa5",
+			"unified"=>"\xf0\x9f\x92\x91",
+			"kddi"=>"\xee\xab\x9a",
+		),
+	),
+	"\xf3\xbe\xa0\xaa" => array(
+		"codepoint"=>"U+FE82A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xbd",
+			"unified"=>"\xf0\x9f\x92\x92",
+			"kddi"=>"\xee\x96\xbb",
+		),
+	),
+	"\xf3\xbe\xac\x8d" => array(
+		"codepoint"=>"U+FEB0D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xad",
+			"softbank"=>"\xee\x8c\xa7",
+			"unified"=>"\xf0\x9f\x92\x93",
+			"kddi"=>"\xee\xad\xb5",
+		),
+	),
+	"\xf3\xbe\xac\x8e" => array(
+		"codepoint"=>"U+FEB0E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xae",
+			"softbank"=>"\xee\x80\xa3",
+			"unified"=>"\xf0\x9f\x92\x94",
+			"kddi"=>"\xee\x91\xb7",
+		),
+	),
+	"\xf3\xbe\xac\x8f" => array(
+		"codepoint"=>"U+FEB0F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xaf",
+			"softbank"=>"\xee\x8c\xa7",
+			"unified"=>"\xf0\x9f\x92\x95",
+			"kddi"=>"\xee\x91\xb8",
+		),
+	),
+	"\xf3\xbe\xac\x90" => array(
+		"codepoint"=>"U+FEB10",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xac",
+			"softbank"=>"\xee\x8c\xa7",
+			"unified"=>"\xf0\x9f\x92\x96",
+			"kddi"=>"\xee\xaa\xa6",
+		),
+	),
+	"\xf3\xbe\xac\x91" => array(
+		"codepoint"=>"U+FEB11",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xad",
+			"softbank"=>"\xee\x8c\xa8",
+			"unified"=>"\xf0\x9f\x92\x97",
+			"kddi"=>"\xee\xad\xb5",
+		),
+	),
+	"\xf3\xbe\xac\x92" => array(
+		"codepoint"=>"U+FEB12",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xac",
+			"softbank"=>"\xee\x8c\xa9",
+			"unified"=>"\xf0\x9f\x92\x98",
+			"kddi"=>"\xee\x93\xaa",
+		),
+	),
+	"\xf3\xbe\xac\x93" => array(
+		"codepoint"=>"U+FEB13",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xac",
+			"softbank"=>"\xee\x8c\xaa",
+			"unified"=>"\xf0\x9f\x92\x99",
+			"kddi"=>"\xee\xaa\xa7",
+		),
+	),
+	"\xf3\xbe\xac\x94" => array(
+		"codepoint"=>"U+FEB14",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xac",
+			"softbank"=>"\xee\x8c\xab",
+			"unified"=>"\xf0\x9f\x92\x9a",
+			"kddi"=>"\xee\xaa\xa8",
+		),
+	),
+	"\xf3\xbe\xac\x95" => array(
+		"codepoint"=>"U+FEB15",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xac",
+			"softbank"=>"\xee\x8c\xac",
+			"unified"=>"\xf0\x9f\x92\x9b",
+			"kddi"=>"\xee\xaa\xa9",
+		),
+	),
+	"\xf3\xbe\xac\x96" => array(
+		"codepoint"=>"U+FEB16",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xac",
+			"softbank"=>"\xee\x8c\xad",
+			"unified"=>"\xf0\x9f\x92\x9c",
+			"kddi"=>"\xee\xaa\xaa",
+		),
+	),
+	"\xf3\xbe\xac\x97" => array(
+		"codepoint"=>"U+FEB17",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xac",
+			"softbank"=>"\xee\x90\xb7",
+			"unified"=>"\xf0\x9f\x92\x9d",
+			"kddi"=>"\xee\xad\x94",
+		),
+	),
+	"\xf3\xbe\xac\x98" => array(
+		"codepoint"=>"U+FEB18",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xad",
+			"softbank"=>"\xee\x8c\xa7",
+			"unified"=>"\xf0\x9f\x92\x9e",
+			"kddi"=>"\xee\x96\xaf",
+		),
+	),
+	"\xf3\xbe\xac\x99" => array(
+		"codepoint"=>"U+FEB19",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb8",
+			"softbank"=>"\xee\x88\x84",
+			"unified"=>"\xf0\x9f\x92\x9f",
+			"kddi"=>"\xee\x96\x95",
+		),
+	),
+	"\xf3\xbe\xad\x95" => array(
+		"codepoint"=>"U+FEB55",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb8",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x92\xa0",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xad\x96" => array(
+		"codepoint"=>"U+FEB56",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xbb",
+			"softbank"=>"\xee\x84\x8f",
+			"unified"=>"\xf0\x9f\x92\xa1",
+			"kddi"=>"\xee\x91\xb6",
+		),
+	),
+	"\xf3\xbe\xad\x97" => array(
+		"codepoint"=>"U+FEB57",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xbc",
+			"softbank"=>"\xee\x8c\xb4",
+			"unified"=>"\xf0\x9f\x92\xa2",
+			"kddi"=>"\xee\x93\xa5",
+		),
+	),
+	"\xf3\xbe\xad\x98" => array(
+		"codepoint"=>"U+FEB58",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xbe",
+			"softbank"=>"\xee\x8c\x91",
+			"unified"=>"\xf0\x9f\x92\xa3",
+			"kddi"=>"\xee\x91\xba",
+		),
+	),
+	"\xf3\xbe\xad\x99" => array(
+		"codepoint"=>"U+FEB59",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x81",
+			"softbank"=>"\xee\x84\xbc",
+			"unified"=>"\xf0\x9f\x92\xa4",
+			"kddi"=>"\xee\x91\xb5",
+		),
+	),
+	"\xf3\xbe\xad\x9a" => array(
+		"codepoint"=>"U+FEB5A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x85",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x92\xa5",
+			"kddi"=>"\xee\x96\xb0",
+		),
+	),
+	"\xf3\xbe\xad\x9b" => array(
+		"codepoint"=>"U+FEB5B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x86",
+			"softbank"=>"\xee\x8c\xb1",
+			"unified"=>"\xf0\x9f\x92\xa6",
+			"kddi"=>"\xee\x96\xb1",
+		),
+	),
+	"\xf3\xbe\xad\x9c" => array(
+		"codepoint"=>"U+FEB5C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x87",
+			"softbank"=>"\xee\x8c\xb1",
+			"unified"=>"\xf0\x9f\x92\xa7",
+			"kddi"=>"\xee\x93\xa6",
+		),
+	),
+	"\xf3\xbe\xad\x9d" => array(
+		"codepoint"=>"U+FEB5D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x88",
+			"softbank"=>"\xee\x8c\xb0",
+			"unified"=>"\xf0\x9f\x92\xa8",
+			"kddi"=>"\xee\x93\xb4",
+		),
+	),
+	"\xf3\xbe\x93\xb4" => array(
+		"codepoint"=>"U+FE4F4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x81\x9a",
+			"unified"=>"\xf0\x9f\x92\xa9",
+			"kddi"=>"\xee\x93\xb5",
+		),
+	),
+	"\xf3\xbe\xad\x9e" => array(
+		"codepoint"=>"U+FEB5E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x8c",
+			"unified"=>"\xf0\x9f\x92\xaa",
+			"kddi"=>"\xee\x93\xa9",
+		),
+	),
+	"\xf3\xbe\xad\x9f" => array(
+		"codepoint"=>"U+FEB5F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\x87",
+			"unified"=>"\xf0\x9f\x92\xab",
+			"kddi"=>"\xee\xad\x9c",
+		),
+	),
+	"\xf3\xbe\x94\xb2" => array(
+		"codepoint"=>"U+FE532",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x92\xac",
+			"kddi"=>"\xee\x93\xbd",
+		),
+	),
+	"\xf3\xbe\xad\xba" => array(
+		"codepoint"=>"U+FEB7A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x92\xae",
+			"kddi"=>"\xee\x93\xb0",
+		),
+	),
+	"\xf3\xbe\xad\xbb" => array(
+		"codepoint"=>"U+FEB7B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x92\xaf",
+			"kddi"=>"\xee\x93\xb2",
+		),
+	),
+	"\xf3\xbe\x93\x9d" => array(
+		"codepoint"=>"U+FE4DD",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x95",
+			"softbank"=>"\xee\x84\xaf",
+			"unified"=>"\xf0\x9f\x92\xb0",
+			"kddi"=>"\xee\x93\x87",
+		),
+	),
+	"\xf3\xbe\x93\x9e" => array(
+		"codepoint"=>"U+FE4DE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x89",
+			"unified"=>"\xf0\x9f\x92\xb1",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x93\xa0" => array(
+		"codepoint"=>"U+FE4E0",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x95",
+			"softbank"=>"\xee\x84\xaf",
+			"unified"=>"\xf0\x9f\x92\xb2",
+			"kddi"=>"\xee\x95\xb9",
+		),
+	),
+	"\xf3\xbe\x93\xa1" => array(
+		"codepoint"=>"U+FE4E1",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x92\xb3",
+			"kddi"=>"\xee\x95\xbc",
+		),
+	),
+	"\xf3\xbe\x93\xa2" => array(
+		"codepoint"=>"U+FE4E2",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x96",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x92\xb4",
+			"kddi"=>"\xee\x95\xbd",
+		),
+	),
+	"\xf3\xbe\x93\xa3" => array(
+		"codepoint"=>"U+FE4E3",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x95",
+			"softbank"=>"\xee\x84\xaf",
+			"unified"=>"\xf0\x9f\x92\xb5",
+			"kddi"=>"\xee\x96\x85",
+		),
+	),
+	"\xf3\xbe\x93\xa4" => array(
+		"codepoint"=>"U+FE4E4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x92\xb8",
+			"kddi"=>"\xee\xad\x9b",
+		),
+	),
+	"\xf3\xbe\x93\x9f" => array(
+		"codepoint"=>"U+FE4DF",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x8a",
+			"unified"=>"\xf0\x9f\x92\xb9",
+			"kddi"=>"\xee\x97\x9c",
+		),
+	),
+	"\xf3\xbe\x94\xb7" => array(
+		"codepoint"=>"U+FE537",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xb2",
+			"softbank"=>"\xee\x84\x9f",
+			"unified"=>"\xf0\x9f\x92\xba",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x94\xb8" => array(
+		"codepoint"=>"U+FE538",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x96",
+			"softbank"=>"\xee\x80\x8c",
+			"unified"=>"\xf0\x9f\x92\xbb",
+			"kddi"=>"\xee\x96\xb8",
+		),
+	),
+	"\xf3\xbe\x94\xbb" => array(
+		"codepoint"=>"U+FE53B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x82",
+			"softbank"=>"\xee\x84\x9e",
+			"unified"=>"\xf0\x9f\x92\xbc",
+			"kddi"=>"\xee\x97\x8e",
+		),
+	),
+	"\xf3\xbe\x94\xbc" => array(
+		"codepoint"=>"U+FE53C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x96",
+			"unified"=>"\xf0\x9f\x92\xbd",
+			"kddi"=>"\xee\x96\x82",
+		),
+	),
+	"\xf3\xbe\x94\xbd" => array(
+		"codepoint"=>"U+FE53D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x96",
+			"unified"=>"\xf0\x9f\x92\xbe",
+			"kddi"=>"\xee\x95\xa2",
+		),
+	),
+	"\xf3\xbe\xa0\x9d" => array(
+		"codepoint"=>"U+FE81D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x8c",
+			"softbank"=>"\xee\x84\xa6",
+			"unified"=>"\xf0\x9f\x92\xbf",
+			"kddi"=>"\xee\x94\x8c",
+		),
+	),
+	"\xf3\xbe\xa0\x9e" => array(
+		"codepoint"=>"U+FE81E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x8c",
+			"softbank"=>"\xee\x84\xa7",
+			"unified"=>"\xf0\x9f\x93\x80",
+			"kddi"=>"\xee\x94\x8c",
+		),
+	),
+	"\xf3\xbe\x95\x83" => array(
+		"codepoint"=>"U+FE543",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x81",
+			"kddi"=>"\xee\x96\x8f",
+		),
+	),
+	"\xf3\xbe\x95\x84" => array(
+		"codepoint"=>"U+FE544",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x82",
+			"kddi"=>"\xee\x96\x90",
+		),
+	),
+	"\xf3\xbe\x95\x80" => array(
+		"codepoint"=>"U+FE540",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x89",
+			"softbank"=>"\xee\x8c\x81",
+			"unified"=>"\xf0\x9f\x93\x83",
+			"kddi"=>"\xee\x95\xa1",
+		),
+	),
+	"\xf3\xbe\x95\x81" => array(
+		"codepoint"=>"U+FE541",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x89",
+			"softbank"=>"\xee\x8c\x81",
+			"unified"=>"\xf0\x9f\x93\x84",
+			"kddi"=>"\xee\x95\xa9",
+		),
+	),
+	"\xf3\xbe\x95\x82" => array(
+		"codepoint"=>"U+FE542",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x85",
+			"kddi"=>"\xee\x95\xa3",
+		),
+	),
+	"\xf3\xbe\x95\x89" => array(
+		"codepoint"=>"U+FE549",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x86",
+			"kddi"=>"\xee\x95\xaa",
+		),
+	),
+	"\xf3\xbe\x95\x8d" => array(
+		"codepoint"=>"U+FE54D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x87",
+			"kddi"=>"\xee\x95\xac",
+		),
+	),
+	"\xf3\xbe\x95\x8b" => array(
+		"codepoint"=>"U+FE54B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x8a",
+			"unified"=>"\xf0\x9f\x93\x88",
+			"kddi"=>"\xee\x95\xb5",
+		),
+	),
+	"\xf3\xbe\x95\x8c" => array(
+		"codepoint"=>"U+FE54C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x89",
+			"kddi"=>"\xee\x95\xb6",
+		),
+	),
+	"\xf3\xbe\x95\x8a" => array(
+		"codepoint"=>"U+FE54A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x8a",
+			"unified"=>"\xf0\x9f\x93\x8a",
+			"kddi"=>"\xee\x95\xb4",
+		),
+	),
+	"\xf3\xbe\x95\x88" => array(
+		"codepoint"=>"U+FE548",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x89",
+			"softbank"=>"\xee\x8c\x81",
+			"unified"=>"\xf0\x9f\x93\x8b",
+			"kddi"=>"\xee\x95\xa4",
+		),
+	),
+	"\xf3\xbe\x95\x8e" => array(
+		"codepoint"=>"U+FE54E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x8c",
+			"kddi"=>"\xee\x95\xad",
+		),
+	),
+	"\xf3\xbe\x94\xbf" => array(
+		"codepoint"=>"U+FE53F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x8d",
+			"kddi"=>"\xee\x95\xa0",
+		),
+	),
+	"\xf3\xbe\x94\xba" => array(
+		"codepoint"=>"U+FE53A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb0",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x8e",
+			"kddi"=>"\xee\x92\xa0",
+		),
+	),
+	"\xf3\xbe\x95\x90" => array(
+		"codepoint"=>"U+FE550",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x8f",
+			"kddi"=>"\xee\x95\xb0",
+		),
+	),
+	"\xf3\xbe\x95\x91" => array(
+		"codepoint"=>"U+FE551",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x90",
+			"kddi"=>"\xee\x92\xa2",
+		),
+	),
+	"\xf3\xbe\x95\x92" => array(
+		"codepoint"=>"U+FE552",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x89",
+			"softbank"=>"\xee\x8c\x81",
+			"unified"=>"\xf0\x9f\x93\x91",
+			"kddi"=>"\xee\xac\x8b",
+		),
+	),
+	"\xf3\xbe\x95\x8f" => array(
+		"codepoint"=>"U+FE54F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x92",
+			"kddi"=>"\xee\x95\xae",
+		),
+	),
+	"\xf3\xbe\x95\x85" => array(
+		"codepoint"=>"U+FE545",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x93",
+			"kddi"=>"\xee\x95\xab",
+		),
+	),
+	"\xf3\xbe\x95\x87" => array(
+		"codepoint"=>"U+FE547",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x94",
+			"kddi"=>"\xee\x92\x9d",
+		),
+	),
+	"\xf3\xbe\x94\x82" => array(
+		"codepoint"=>"U+FE502",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x95",
+			"kddi"=>"\xee\x95\xa8",
+		),
+	),
+	"\xf3\xbe\x95\x86" => array(
+		"codepoint"=>"U+FE546",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x96",
+			"kddi"=>"\xee\x92\x9f",
+		),
+	),
+	"\xf3\xbe\x93\xbf" => array(
+		"codepoint"=>"U+FE4FF",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x97",
+			"kddi"=>"\xee\x95\xa5",
+		),
+	),
+	"\xf3\xbe\x94\x80" => array(
+		"codepoint"=>"U+FE500",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x98",
+			"kddi"=>"\xee\x95\xa6",
+		),
+	),
+	"\xf3\xbe\x94\x81" => array(
+		"codepoint"=>"U+FE501",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x99",
+			"kddi"=>"\xee\x95\xa7",
+		),
+	),
+	"\xf3\xbe\x94\x83" => array(
+		"codepoint"=>"U+FE503",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x83",
+			"softbank"=>"\xee\x85\x88",
+			"unified"=>"\xf0\x9f\x93\x9a",
+			"kddi"=>"\xee\x95\xaf",
+		),
+	),
+	"\xf3\xbe\x94\x84" => array(
+		"codepoint"=>"U+FE504",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x9b",
+			"kddi"=>"\xee\x94\x9d",
+		),
+	),
+	"\xf3\xbe\x93\xbd" => array(
+		"codepoint"=>"U+FE4FD",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x8a",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x9c",
+			"kddi"=>"\xee\x95\x9f",
+		),
+	),
+	"\xf3\xbe\x94\xa7" => array(
+		"codepoint"=>"U+FE527",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x89",
+			"softbank"=>"\xee\x8c\x81",
+			"unified"=>"\xf0\x9f\x93\x9d",
+			"kddi"=>"\xee\xaa\x92",
+		),
+	),
+	"\xf3\xbe\x94\xa4" => array(
+		"codepoint"=>"U+FE524",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x87",
+			"softbank"=>"\xee\x80\x89",
+			"unified"=>"\xf0\x9f\x93\x9e",
+			"kddi"=>"\xee\x94\x9e",
+		),
+	),
+	"\xf3\xbe\x94\xa2" => array(
+		"codepoint"=>"U+FE522",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9a",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\x9f",
+			"kddi"=>"\xee\x96\x9b",
+		),
+	),
+	"\xf3\xbe\x94\xa8" => array(
+		"codepoint"=>"U+FE528",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x90",
+			"softbank"=>"\xee\x80\x8b",
+			"unified"=>"\xf0\x9f\x93\xa0",
+			"kddi"=>"\xee\x94\xa0",
+		),
+	),
+	"\xf3\xbe\x94\xb1" => array(
+		"codepoint"=>"U+FE531",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x8b",
+			"unified"=>"\xf0\x9f\x93\xa1",
+			"kddi"=>"\xee\x92\xa8",
+		),
+	),
+	"\xf3\xbe\x94\xaf" => array(
+		"codepoint"=>"U+FE52F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x82",
+			"unified"=>"\xf0\x9f\x93\xa2",
+			"kddi"=>"\xee\x94\x91",
+		),
+	),
+	"\xf3\xbe\x94\xb0" => array(
+		"codepoint"=>"U+FE530",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x8c\x97",
+			"unified"=>"\xf0\x9f\x93\xa3",
+			"kddi"=>"\xee\x94\x91",
+		),
+	),
+	"\xf3\xbe\x94\xb3" => array(
+		"codepoint"=>"U+FE533",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\xa4",
+			"kddi"=>"\xee\x96\x92",
+		),
+	),
+	"\xf3\xbe\x94\xb4" => array(
+		"codepoint"=>"U+FE534",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\xa5",
+			"kddi"=>"\xee\x96\x93",
+		),
+	),
+	"\xf3\xbe\x94\xb5" => array(
+		"codepoint"=>"U+FE535",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x85",
+			"softbank"=>"\xee\x84\x92",
+			"unified"=>"\xf0\x9f\x93\xa6",
+			"kddi"=>"\xee\x94\x9f",
+		),
+	),
+	"\xf3\xbe\xae\x92" => array(
+		"codepoint"=>"U+FEB92",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x93",
+			"softbank"=>"\xee\x84\x83",
+			"unified"=>"\xf0\x9f\x93\xa7",
+			"kddi"=>"\xee\xad\xb1",
+		),
+	),
+	"\xf3\xbe\x94\xaa" => array(
+		"codepoint"=>"U+FE52A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x8f",
+			"softbank"=>"\xee\x84\x83",
+			"unified"=>"\xf0\x9f\x93\xa8",
+			"kddi"=>"\xee\x96\x91",
+		),
+	),
+	"\xf3\xbe\x94\xab" => array(
+		"codepoint"=>"U+FE52B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x8f",
+			"softbank"=>"\xee\x84\x83",
+			"unified"=>"\xf0\x9f\x93\xa9",
+			"kddi"=>"\xee\xad\xa2",
+		),
+	),
+	"\xf3\xbe\x94\xac" => array(
+		"codepoint"=>"U+FE52C",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa5",
+			"softbank"=>"\xee\x84\x81",
+			"unified"=>"\xf0\x9f\x93\xaa",
+			"kddi"=>"\xee\x94\x9b",
+		),
+	),
+	"\xf3\xbe\x94\xad" => array(
+		"codepoint"=>"U+FE52D",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa5",
+			"softbank"=>"\xee\x84\x81",
+			"unified"=>"\xf0\x9f\x93\xab",
+			"kddi"=>"\xee\xac\x8a",
+		),
+	),
+	"\xf3\xbe\x94\xae" => array(
+		"codepoint"=>"U+FE52E",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa5",
+			"softbank"=>"\xee\x84\x82",
+			"unified"=>"\xf0\x9f\x93\xae",
+			"kddi"=>"\xee\x94\x9b",
+		),
+	),
+	"\xf3\xbe\xa0\xa2" => array(
+		"codepoint"=>"U+FE822",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x93\xb0",
+			"kddi"=>"\xee\x96\x8b",
+		),
+	),
+	"\xf3\xbe\x94\xa5" => array(
+		"codepoint"=>"U+FE525",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x88",
+			"softbank"=>"\xee\x80\x8a",
+			"unified"=>"\xf0\x9f\x93\xb1",
+			"kddi"=>"\xee\x96\x88",
+		),
+	),
+	"\xf3\xbe\x94\xa6" => array(
+		"codepoint"=>"U+FE526",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x8e",
+			"softbank"=>"\xee\x84\x84",
+			"unified"=>"\xf0\x9f\x93\xb2",
+			"kddi"=>"\xee\xac\x88",
+		),
+	),
+	"\xf3\xbe\xa0\xb9" => array(
+		"codepoint"=>"U+FE839",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x89\x90",
+			"unified"=>"\xf0\x9f\x93\xb3",
+			"kddi"=>"\xee\xaa\x90",
+		),
+	),
+	"\xf3\xbe\xa0\xba" => array(
+		"codepoint"=>"U+FE83A",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x89\x91",
+			"unified"=>"\xf0\x9f\x93\xb4",
+			"kddi"=>"\xee\xaa\x91",
+		),
+	),
+	"\xf3\xbe\xa0\xb8" => array(
+		"codepoint"=>"U+FE838",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x8b",
+			"unified"=>"\xf0\x9f\x93\xb6",
+			"kddi"=>"\xee\xaa\x84",
+		),
+	),
+	"\xf3\xbe\x93\xaf" => array(
+		"codepoint"=>"U+FE4EF",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x81",
+			"softbank"=>"\xee\x80\x88",
+			"unified"=>"\xf0\x9f\x93\xb7",
+			"kddi"=>"\xee\x94\x95",
+		),
+	),
+	"\xf3\xbe\x93\xb9" => array(
+		"codepoint"=>"U+FE4F9",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xb7",
+			"softbank"=>"\xee\x80\xbd",
+			"unified"=>"\xf0\x9f\x93\xb9",
+			"kddi"=>"\xee\x95\xbe",
+		),
+	),
+	"\xf3\xbe\xa0\x9c" => array(
+		"codepoint"=>"U+FE81C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x8a",
+			"softbank"=>"\xee\x84\xaa",
+			"unified"=>"\xf0\x9f\x93\xba",
+			"kddi"=>"\xee\x94\x82",
+		),
+	),
+	"\xf3\xbe\xa0\x9f" => array(
+		"codepoint"=>"U+FE81F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xa8",
+			"unified"=>"\xf0\x9f\x93\xbb",
+			"kddi"=>"\xee\x96\xb9",
+		),
+	),
+	"\xf3\xbe\xa0\xa0" => array(
+		"codepoint"=>"U+FE820",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xa9",
+			"unified"=>"\xf0\x9f\x93\xbc",
+			"kddi"=>"\xee\x96\x80",
+		),
+	),
+	"\xf3\xbe\xae\x91" => array(
+		"codepoint"=>"U+FEB91",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb5",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x83",
+			"kddi"=>"\xee\xac\x8d",
+		),
+	),
+	"\xf3\xbe\xa0\xa1" => array(
+		"codepoint"=>"U+FE821",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x81",
+			"unified"=>"\xf0\x9f\x94\x8a",
+			"kddi"=>"\xee\x94\x91",
+		),
+	),
+	"\xf3\xbe\x93\xbc" => array(
+		"codepoint"=>"U+FE4FC",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x8b",
+			"kddi"=>"\xee\x96\x84",
+		),
+	),
+	"\xf3\xbe\x93\xbe" => array(
+		"codepoint"=>"U+FE4FE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x8c",
+			"kddi"=>"\xee\x96\x89",
+		),
+	),
+	"\xf3\xbe\xae\x85" => array(
+		"codepoint"=>"U+FEB85",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x9c",
+			"softbank"=>"\xee\x84\x94",
+			"unified"=>"\xf0\x9f\x94\x8d",
+			"kddi"=>"\xee\x94\x98",
+		),
+	),
+	"\xf3\xbe\xae\x8d" => array(
+		"codepoint"=>"U+FEB8D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x9c",
+			"softbank"=>"\xee\x84\x94",
+			"unified"=>"\xf0\x9f\x94\x8e",
+			"kddi"=>"\xee\xac\x85",
+		),
+	),
+	"\xf3\xbe\xae\x90" => array(
+		"codepoint"=>"U+FEB90",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x99",
+			"softbank"=>"\xee\x85\x84",
+			"unified"=>"\xf0\x9f\x94\x8f",
+			"kddi"=>"\xee\xac\x8c",
+		),
+	),
+	"\xf3\xbe\xae\x8a" => array(
+		"codepoint"=>"U+FEB8A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x99",
+			"softbank"=>"\xee\x85\x84",
+			"unified"=>"\xf0\x9f\x94\x90",
+			"kddi"=>"\xee\xab\xbc",
+		),
+	),
+	"\xf3\xbe\xae\x82" => array(
+		"codepoint"=>"U+FEB82",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x99",
+			"softbank"=>"\xee\x80\xbf",
+			"unified"=>"\xf0\x9f\x94\x91",
+			"kddi"=>"\xee\x94\x99",
+		),
+	),
+	"\xf3\xbe\xae\x86" => array(
+		"codepoint"=>"U+FEB86",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x99",
+			"softbank"=>"\xee\x85\x84",
+			"unified"=>"\xf0\x9f\x94\x92",
+			"kddi"=>"\xee\x94\x9c",
+		),
+	),
+	"\xf3\xbe\xae\x87" => array(
+		"codepoint"=>"U+FEB87",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x99",
+			"softbank"=>"\xee\x85\x85",
+			"unified"=>"\xf0\x9f\x94\x93",
+			"kddi"=>"\xee\x94\x9c",
+		),
+	),
+	"\xf3\xbe\x93\xb2" => array(
+		"codepoint"=>"U+FE4F2",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x93",
+			"softbank"=>"\xee\x8c\xa5",
+			"unified"=>"\xf0\x9f\x94\x94",
+			"kddi"=>"\xee\x94\x92",
+		),
+	),
+	"\xf3\xbe\xae\x8f" => array(
+		"codepoint"=>"U+FEB8F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x96",
+			"kddi"=>"\xee\xac\x87",
+		),
+	),
+	"\xf3\xbe\xad\x8b" => array(
+		"codepoint"=>"U+FEB4B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x97",
+			"kddi"=>"\xee\x96\x8a",
+		),
+	),
+	"\xf3\xbe\xae\x8c" => array(
+		"codepoint"=>"U+FEB8C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x98",
+			"kddi"=>"\xee\xac\x84",
+		),
+	),
+	"\xf3\xbe\xae\x8e" => array(
+		"codepoint"=>"U+FEB8E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xb5",
+			"unified"=>"\xf0\x9f\x94\x99",
+			"kddi"=>"\xee\xac\x86",
+		),
+	),
+	"\xf3\xbe\x80\x9a" => array(
+		"codepoint"=>"U+FE01A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xb9",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x9a",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x80\x99" => array(
+		"codepoint"=>"U+FE019",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xb8",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x9b",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x80\x98" => array(
+		"codepoint"=>"U+FE018",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xb7",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x9c",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xad\x82" => array(
+		"codepoint"=>"U+FEB42",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x89\x8c",
+			"unified"=>"\xf0\x9f\x94\x9d",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xa5" => array(
+		"codepoint"=>"U+FEB25",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x87",
+			"unified"=>"\xf0\x9f\x94\x9e",
+			"kddi"=>"\xee\xaa\x83",
+		),
+	),
+	"\xf3\xbe\xa0\xbb" => array(
+		"codepoint"=>"U+FE83B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\x9f",
+			"kddi"=>"\xee\x94\xab",
+		),
+	),
+	"\xf3\xbe\xad\xbc" => array(
+		"codepoint"=>"U+FEB7C",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xa0",
+			"kddi"=>"\xee\xab\xbd",
+		),
+	),
+	"\xf3\xbe\xad\xbd" => array(
+		"codepoint"=>"U+FEB7D",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xa1",
+			"kddi"=>"\xee\xab\xbe",
+		),
+	),
+	"\xf3\xbe\xad\xbe" => array(
+		"codepoint"=>"U+FEB7E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xa2",
+			"kddi"=>"\xee\xab\xbf",
+		),
+	),
+	"\xf3\xbe\xad\xbf" => array(
+		"codepoint"=>"U+FEB7F",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xa3",
+			"kddi"=>"\xee\xac\x80",
+		),
+	),
+	"\xf3\xbe\xae\x80" => array(
+		"codepoint"=>"U+FEB80",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xa4",
+			"kddi"=>"\xee\xad\x95",
+		),
+	),
+	"\xf3\xbe\x93\xb6" => array(
+		"codepoint"=>"U+FE4F6",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x9d",
+			"unified"=>"\xf0\x9f\x94\xa5",
+			"kddi"=>"\xee\x91\xbb",
+		),
+	),
+	"\xf3\xbe\x93\xbb" => array(
+		"codepoint"=>"U+FE4FB",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xbb",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xa6",
+			"kddi"=>"\xee\x96\x83",
+		),
+	),
+	"\xf3\xbe\x93\x89" => array(
+		"codepoint"=>"U+FE4C9",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x98",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xa7",
+			"kddi"=>"\xee\x96\x87",
+		),
+	),
+	"\xf3\xbe\x93\x8a" => array(
+		"codepoint"=>"U+FE4CA",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x96",
+			"unified"=>"\xf0\x9f\x94\xa8",
+			"kddi"=>"\xee\x97\x8b",
+		),
+	),
+	"\xf3\xbe\x93\x8b" => array(
+		"codepoint"=>"U+FE4CB",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xa9",
+			"kddi"=>"\xee\x96\x81",
+		),
+	),
+	"\xf3\xbe\x93\xba" => array(
+		"codepoint"=>"U+FE4FA",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xaa",
+			"kddi"=>"\xee\x95\xbf",
+		),
+	),
+	"\xf3\xbe\x93\xb5" => array(
+		"codepoint"=>"U+FE4F5",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x93",
+			"unified"=>"\xf0\x9f\x94\xab",
+			"kddi"=>"\xee\x94\x8a",
+		),
+	),
+	"\xf3\xbe\x93\xb7" => array(
+		"codepoint"=>"U+FE4F7",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xbe",
+			"unified"=>"\xf0\x9f\x94\xae",
+			"kddi"=>"\xee\xaa\x8f",
+		),
+	),
+	"\xf3\xbe\x93\xb8" => array(
+		"codepoint"=>"U+FE4F8",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\xbe",
+			"unified"=>"\xf0\x9f\x94\xaf",
+			"kddi"=>"\xee\xaa\x8f",
+		),
+	),
+	"\xf3\xbe\x81\x84" => array(
+		"codepoint"=>"U+FE044",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x89",
+			"unified"=>"\xf0\x9f\x94\xb0",
+			"kddi"=>"\xee\x92\x80",
+		),
+	),
+	"\xf3\xbe\x93\x92" => array(
+		"codepoint"=>"U+FE4D2",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9a",
+			"softbank"=>"\xee\x80\xb1",
+			"unified"=>"\xf0\x9f\x94\xb1",
+			"kddi"=>"\xee\x97\x89",
+		),
+	),
+	"\xf3\xbe\xad\xa4" => array(
+		"codepoint"=>"U+FEB64",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9c",
+			"softbank"=>"\xee\x88\x9a",
+			"unified"=>"\xf0\x9f\x94\xb5",
+			"kddi"=>"\xee\x95\x8b",
+		),
+	),
+	"\xf3\xbe\xad\xa7" => array(
+		"codepoint"=>"U+FEB67",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9c",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xf0\x9f\x94\xb3",
+			"kddi"=>"\xee\x95\x8b",
+		),
+	),
+	"\xf3\xbe\xad\xa3" => array(
+		"codepoint"=>"U+FEB63",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x9c",
+			"softbank"=>"\xee\x88\x99",
+			"unified"=>"\xf0\x9f\x94\xb4",
+			"kddi"=>"\xee\x95\x8a",
+		),
+	),
+	"\xf3\xbe\xad\xb3" => array(
+		"codepoint"=>"U+FEB73",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xf0\x9f\x94\xb6",
+			"kddi"=>"\xee\x95\x86",
+		),
+	),
+	"\xf3\xbe\xad\xb4" => array(
+		"codepoint"=>"U+FEB74",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xf0\x9f\x94\xb7",
+			"kddi"=>"\xee\x95\x87",
+		),
+	),
+	"\xf3\xbe\xad\xb5" => array(
+		"codepoint"=>"U+FEB75",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xf0\x9f\x94\xb8",
+			"kddi"=>"\xee\x94\xb6",
+		),
+	),
+	"\xf3\xbe\xad\xb6" => array(
+		"codepoint"=>"U+FEB76",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x88\x9b",
+			"unified"=>"\xf0\x9f\x94\xb9",
+			"kddi"=>"\xee\x94\xb7",
+		),
+	),
+	"\xf3\xbe\xad\xb8" => array(
+		"codepoint"=>"U+FEB78",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xba",
+			"kddi"=>"\xee\x95\x9a",
+		),
+	),
+	"\xf3\xbe\xad\xb9" => array(
+		"codepoint"=>"U+FEB79",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xbb",
+			"kddi"=>"\xee\x95\x9b",
+		),
+	),
+	"\xf3\xbe\xac\x81" => array(
+		"codepoint"=>"U+FEB01",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xbc",
+			"kddi"=>"\xee\x95\x83",
+		),
+	),
+	"\xf3\xbe\xac\x80" => array(
+		"codepoint"=>"U+FEB00",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x94\xbd",
+			"kddi"=>"\xee\x95\x82",
+		),
+	),
+	"\xf3\xbe\x80\x9e" => array(
+		"codepoint"=>"U+FE01E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xa4",
+			"unified"=>"\xf0\x9f\x95\x90",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\x9f" => array(
+		"codepoint"=>"U+FE01F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xa5",
+			"unified"=>"\xf0\x9f\x95\x91",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa0" => array(
+		"codepoint"=>"U+FE020",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xa6",
+			"unified"=>"\xf0\x9f\x95\x92",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa1" => array(
+		"codepoint"=>"U+FE021",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xa7",
+			"unified"=>"\xf0\x9f\x95\x93",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa2" => array(
+		"codepoint"=>"U+FE022",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xa8",
+			"unified"=>"\xf0\x9f\x95\x94",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa3" => array(
+		"codepoint"=>"U+FE023",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xa9",
+			"unified"=>"\xf0\x9f\x95\x95",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa4" => array(
+		"codepoint"=>"U+FE024",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xaa",
+			"unified"=>"\xf0\x9f\x95\x96",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa5" => array(
+		"codepoint"=>"U+FE025",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xab",
+			"unified"=>"\xf0\x9f\x95\x97",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa6" => array(
+		"codepoint"=>"U+FE026",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xac",
+			"unified"=>"\xf0\x9f\x95\x98",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa7" => array(
+		"codepoint"=>"U+FE027",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xad",
+			"unified"=>"\xf0\x9f\x95\x99",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa8" => array(
+		"codepoint"=>"U+FE028",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xae",
+			"unified"=>"\xf0\x9f\x95\x9a",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x80\xa9" => array(
+		"codepoint"=>"U+FE029",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xba",
+			"softbank"=>"\xee\x80\xaf",
+			"unified"=>"\xf0\x9f\x95\x9b",
+			"kddi"=>"\xee\x96\x94",
+		),
+	),
+	"\xf3\xbe\x93\x83" => array(
+		"codepoint"=>"U+FE4C3",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x80",
+			"softbank"=>"\xee\x80\xbb",
+			"unified"=>"\xf0\x9f\x97\xbb",
+			"kddi"=>"\xee\x96\xbd",
+		),
+	),
+	"\xf3\xbe\x93\x84" => array(
+		"codepoint"=>"U+FE4C4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x89",
+			"unified"=>"\xf0\x9f\x97\xbc",
+			"kddi"=>"\xee\x93\x80",
+		),
+	),
+	"\xf3\xbe\x93\x86" => array(
+		"codepoint"=>"U+FE4C6",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x9d",
+			"unified"=>"\xf0\x9f\x97\xbd",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x93\x87" => array(
+		"codepoint"=>"U+FE4C7",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x97\xbe",
+			"kddi"=>"\xee\x95\xb2",
+		),
+	),
+	"\xf3\xbe\x93\x88" => array(
+		"codepoint"=>"U+FE4C8",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x97\xbf",
+			"kddi"=>"\xee\xad\xac",
+		),
+	),
+	"\xf3\xbe\x8c\xb3" => array(
+		"codepoint"=>"U+FE333",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x93",
+			"softbank"=>"\xee\x90\x84",
+			"unified"=>"\xf0\x9f\x98\x81",
+			"kddi"=>"\xee\xae\x80",
+		),
+	),
+	"\xf3\xbe\x8c\xb4" => array(
+		"codepoint"=>"U+FE334",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xaa",
+			"softbank"=>"\xee\x90\x92",
+			"unified"=>"\xf0\x9f\x98\x82",
+			"kddi"=>"\xee\xad\xa4",
+		),
+	),
+	"\xf3\xbe\x8c\xb0" => array(
+		"codepoint"=>"U+FE330",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x81\x97",
+			"unified"=>"\xf0\x9f\x98\x83",
+			"kddi"=>"\xee\x91\xb1",
+		),
+	),
+	"\xf3\xbe\x8c\xb8" => array(
+		"codepoint"=>"U+FE338",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x90\x95",
+			"unified"=>"\xf0\x9f\x98\x84",
+			"kddi"=>"\xee\x91\xb1",
+		),
+	),
+	"\xf3\xbe\x8c\xb1" => array(
+		"codepoint"=>"U+FE331",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa2",
+			"softbank"=>"\xee\x90\x95\xee\x8c\xb1",
+			"unified"=>"\xf0\x9f\x98\x85",
+			"kddi"=>"\xee\x91\xb1\xee\x96\xb1",
+		),
+	),
+	"\xf3\xbe\x8c\xb2" => array(
+		"codepoint"=>"U+FE332",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xaa",
+			"softbank"=>"\xee\x90\x8a",
+			"unified"=>"\xf0\x9f\x98\x86",
+			"kddi"=>"\xee\xab\x85",
+		),
+	),
+	"\xf3\xbe\x8d\x87" => array(
+		"codepoint"=>"U+FE347",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa9",
+			"softbank"=>"\xee\x90\x85",
+			"unified"=>"\xf0\x9f\x98\x89",
+			"kddi"=>"\xee\x97\x83",
+		),
+	),
+	"\xf3\xbe\x8c\xb5" => array(
+		"codepoint"=>"U+FE335",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x81\x96",
+			"unified"=>"\xf0\x9f\x98\x8a",
+			"kddi"=>"\xee\xab\x8d",
+		),
+	),
+	"\xf3\xbe\x8c\xab" => array(
+		"codepoint"=>"U+FE32B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x92",
+			"softbank"=>"\xee\x81\x96",
+			"unified"=>"\xf0\x9f\x98\x8b",
+			"kddi"=>"\xee\xab\x8d",
+		),
+	),
+	"\xf3\xbe\x8c\xbe" => array(
+		"codepoint"=>"U+FE33E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa1",
+			"softbank"=>"\xee\x90\x8a",
+			"unified"=>"\xf0\x9f\x98\x8c",
+			"kddi"=>"\xee\xab\x85",
+		),
+	),
+	"\xf3\xbe\x8c\xa7" => array(
+		"codepoint"=>"U+FE327",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa6",
+			"softbank"=>"\xee\x84\x86",
+			"unified"=>"\xf0\x9f\x98\x8d",
+			"kddi"=>"\xee\x97\x84",
+		),
+	),
+	"\xf3\xbe\x8d\x83" => array(
+		"codepoint"=>"U+FE343",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xac",
+			"softbank"=>"\xee\x90\x82",
+			"unified"=>"\xf0\x9f\x98\x8f",
+			"kddi"=>"\xee\xaa\xbf",
+		),
+	),
+	"\xf3\xbe\x8c\xa6" => array(
+		"codepoint"=>"U+FE326",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa5",
+			"softbank"=>"\xee\x90\x8e",
+			"unified"=>"\xf0\x9f\x98\x92",
+			"kddi"=>"\xee\xab\x89",
+		),
+	),
+	"\xf3\xbe\x8d\x84" => array(
+		"codepoint"=>"U+FE344",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa3",
+			"softbank"=>"\xee\x84\x88",
+			"unified"=>"\xf0\x9f\x98\x93",
+			"kddi"=>"\xee\x97\x86",
+		),
+	),
+	"\xf3\xbe\x8d\x80" => array(
+		"codepoint"=>"U+FE340",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa0",
+			"softbank"=>"\xee\x90\x83",
+			"unified"=>"\xf0\x9f\x98\x94",
+			"kddi"=>"\xee\xab\x80",
+		),
+	),
+	"\xf3\xbe\x8c\xbf" => array(
+		"codepoint"=>"U+FE33F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb3",
+			"softbank"=>"\xee\x90\x87",
+			"unified"=>"\xf0\x9f\x98\x96",
+			"kddi"=>"\xee\xab\x83",
+		),
+	),
+	"\xf3\xbe\x8c\xac" => array(
+		"codepoint"=>"U+FE32C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa6",
+			"softbank"=>"\xee\x90\x98",
+			"unified"=>"\xf0\x9f\x98\x98",
+			"kddi"=>"\xee\xab\x8f",
+		),
+	),
+	"\xf3\xbe\x8c\xad" => array(
+		"codepoint"=>"U+FE32D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa6",
+			"softbank"=>"\xee\x90\x97",
+			"unified"=>"\xf0\x9f\x98\x9a",
+			"kddi"=>"\xee\xab\x8e",
+		),
+	),
+	"\xf3\xbe\x8c\xa9" => array(
+		"codepoint"=>"U+FE329",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa8",
+			"softbank"=>"\xee\x84\x85",
+			"unified"=>"\xf0\x9f\x98\x9c",
+			"kddi"=>"\xee\x93\xa7",
+		),
+	),
+	"\xf3\xbe\x8c\xaa" => array(
+		"codepoint"=>"U+FE32A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa8",
+			"softbank"=>"\xee\x90\x89",
+			"unified"=>"\xf0\x9f\x98\x9d",
+			"kddi"=>"\xee\x93\xa7",
+		),
+	),
+	"\xf3\xbe\x8c\xa3" => array(
+		"codepoint"=>"U+FE323",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb2",
+			"softbank"=>"\xee\x81\x98",
+			"unified"=>"\xf0\x9f\x98\x9e",
+			"kddi"=>"\xee\xab\x80",
+		),
+	),
+	"\xf3\xbe\x8c\xa0" => array(
+		"codepoint"=>"U+FE320",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb1",
+			"softbank"=>"\xee\x81\x99",
+			"unified"=>"\xf0\x9f\x98\xa0",
+			"kddi"=>"\xee\x91\xb2",
+		),
+	),
+	"\xf3\xbe\x8c\xbd" => array(
+		"codepoint"=>"U+FE33D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa4",
+			"softbank"=>"\xee\x90\x96",
+			"unified"=>"\xf0\x9f\x98\xa1",
+			"kddi"=>"\xee\xad\x9d",
+		),
+	),
+	"\xf3\xbe\x8c\xb9" => array(
+		"codepoint"=>"U+FE339",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xae",
+			"softbank"=>"\xee\x90\x93",
+			"unified"=>"\xf0\x9f\x98\xa2",
+			"kddi"=>"\xee\xad\xa9",
+		),
+	),
+	"\xf3\xbe\x8c\xbc" => array(
+		"codepoint"=>"U+FE33C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xab",
+			"softbank"=>"\xee\x90\x86",
+			"unified"=>"\xf0\x9f\x98\xa3",
+			"kddi"=>"\xee\xab\x82",
+		),
+	),
+	"\xf3\xbe\x8c\xa8" => array(
+		"codepoint"=>"U+FE328",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x93",
+			"softbank"=>"\xee\x90\x84",
+			"unified"=>"\xf0\x9f\x98\xa4",
+			"kddi"=>"\xee\xab\x81",
+		),
+	),
+	"\xf3\xbe\x8d\x85" => array(
+		"codepoint"=>"U+FE345",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa3",
+			"softbank"=>"\xee\x90\x81",
+			"unified"=>"\xf0\x9f\x98\xa5",
+			"kddi"=>"\xee\x97\x86",
+		),
+	),
+	"\xf3\xbe\x8c\xbb" => array(
+		"codepoint"=>"U+FE33B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x97",
+			"softbank"=>"\xee\x90\x8b",
+			"unified"=>"\xf0\x9f\x98\xa8",
+			"kddi"=>"\xee\xab\x86",
+		),
+	),
+	"\xf3\xbe\x8c\xa1" => array(
+		"codepoint"=>"U+FE321",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb3",
+			"softbank"=>"\xee\x90\x83",
+			"unified"=>"\xf0\x9f\x98\xa9",
+			"kddi"=>"\xee\xad\xa7",
+		),
+	),
+	"\xf3\xbe\x8d\x82" => array(
+		"codepoint"=>"U+FE342",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x81",
+			"softbank"=>"\xee\x90\x88",
+			"unified"=>"\xf0\x9f\x98\xaa",
+			"kddi"=>"\xee\xab\x84",
+		),
+	),
+	"\xf3\xbe\x8d\x86" => array(
+		"codepoint"=>"U+FE346",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xab",
+			"softbank"=>"\xee\x90\x86",
+			"unified"=>"\xf0\x9f\x98\xab",
+			"kddi"=>"\xee\x91\xb4",
+		),
+	),
+	"\xf3\xbe\x8c\xba" => array(
+		"codepoint"=>"U+FE33A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xad",
+			"softbank"=>"\xee\x90\x91",
+			"unified"=>"\xf0\x9f\x98\xad",
+			"kddi"=>"\xee\x91\xb3",
+		),
+	),
+	"\xf3\xbe\x8c\xa5" => array(
+		"codepoint"=>"U+FE325",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa3",
+			"softbank"=>"\xee\x90\x8f",
+			"unified"=>"\xf0\x9f\x98\xb0",
+			"kddi"=>"\xee\xab\x8b",
+		),
+	),
+	"\xf3\xbe\x8d\x81" => array(
+		"codepoint"=>"U+FE341",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x97",
+			"softbank"=>"\xee\x84\x87",
+			"unified"=>"\xf0\x9f\x98\xb1",
+			"kddi"=>"\xee\x97\x85",
+		),
+	),
+	"\xf3\xbe\x8c\xa2" => array(
+		"codepoint"=>"U+FE322",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb4",
+			"softbank"=>"\xee\x90\x90",
+			"unified"=>"\xf0\x9f\x98\xb2",
+			"kddi"=>"\xee\xab\x8a",
+		),
+	),
+	"\xf3\xbe\x8c\xaf" => array(
+		"codepoint"=>"U+FE32F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xaa",
+			"softbank"=>"\xee\x90\x8d",
+			"unified"=>"\xf0\x9f\x98\xb3",
+			"kddi"=>"\xee\xab\x88",
+		),
+	),
+	"\xf3\xbe\x8c\xa4" => array(
+		"codepoint"=>"U+FE324",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb4",
+			"softbank"=>"\xee\x90\x86",
+			"unified"=>"\xf0\x9f\x98\xb5",
+			"kddi"=>"\xee\x96\xae",
+		),
+	),
+	"\xf3\xbe\x8c\xae" => array(
+		"codepoint"=>"U+FE32E",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\x8c",
+			"unified"=>"\xf0\x9f\x98\xb7",
+			"kddi"=>"\xee\xab\x87",
+		),
+	),
+	"\xf3\xbe\x8d\x89" => array(
+		"codepoint"=>"U+FE349",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x93",
+			"softbank"=>"\xee\x90\x84",
+			"unified"=>"\xf0\x9f\x98\xb8",
+			"kddi"=>"\xee\xad\xbf",
+		),
+	),
+	"\xf3\xbe\x8d\x8a" => array(
+		"codepoint"=>"U+FE34A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xaa",
+			"softbank"=>"\xee\x90\x92",
+			"unified"=>"\xf0\x9f\x98\xb9",
+			"kddi"=>"\xee\xad\xa3",
+		),
+	),
+	"\xf3\xbe\x8d\x88" => array(
+		"codepoint"=>"U+FE348",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb0",
+			"softbank"=>"\xee\x81\x97",
+			"unified"=>"\xf0\x9f\x98\xba",
+			"kddi"=>"\xee\xad\xa1",
+		),
+	),
+	"\xf3\xbe\x8d\x8c" => array(
+		"codepoint"=>"U+FE34C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa6",
+			"softbank"=>"\xee\x84\x86",
+			"unified"=>"\xf0\x9f\x98\xbb",
+			"kddi"=>"\xee\xad\xa5",
+		),
+	),
+	"\xf3\xbe\x8d\x8f" => array(
+		"codepoint"=>"U+FE34F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9d\x93",
+			"softbank"=>"\xee\x90\x84",
+			"unified"=>"\xf0\x9f\x98\xbc",
+			"kddi"=>"\xee\xad\xaa",
+		),
+	),
+	"\xf3\xbe\x8d\x8b" => array(
+		"codepoint"=>"U+FE34B",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa6",
+			"softbank"=>"\xee\x90\x98",
+			"unified"=>"\xf0\x9f\x98\xbd",
+			"kddi"=>"\xee\xad\xa0",
+		),
+	),
+	"\xf3\xbe\x8d\x8e" => array(
+		"codepoint"=>"U+FE34E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xa4",
+			"softbank"=>"\xee\x90\x96",
+			"unified"=>"\xf0\x9f\x98\xbe",
+			"kddi"=>"\xee\xad\x9e",
+		),
+	),
+	"\xf3\xbe\x8d\x8d" => array(
+		"codepoint"=>"U+FE34D",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xae",
+			"softbank"=>"\xee\x90\x93",
+			"unified"=>"\xf0\x9f\x98\xbf",
+			"kddi"=>"\xee\xad\xa8",
+		),
+	),
+	"\xf3\xbe\x8d\x90" => array(
+		"codepoint"=>"U+FE350",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb3",
+			"softbank"=>"\xee\x90\x83",
+			"unified"=>"\xf0\x9f\x99\x80",
+			"kddi"=>"\xee\xad\xa6",
+		),
+	),
+	"\xf3\xbe\x8d\x91" => array(
+		"codepoint"=>"U+FE351",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xaf",
+			"softbank"=>"\xee\x90\xa3",
+			"unified"=>"\xf0\x9f\x99\x85",
+			"kddi"=>"\xee\xab\x97",
+		),
+	),
+	"\xf3\xbe\x8d\x92" => array(
+		"codepoint"=>"U+FE352",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x8b",
+			"softbank"=>"\xee\x90\xa4",
+			"unified"=>"\xf0\x9f\x99\x86",
+			"kddi"=>"\xee\xab\x98",
+		),
+	),
+	"\xf3\xbe\x8d\x93" => array(
+		"codepoint"=>"U+FE353",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xa6",
+			"unified"=>"\xf0\x9f\x99\x87",
+			"kddi"=>"\xee\xab\x99",
+		),
+	),
+	"\xf3\xbe\x8d\x94" => array(
+		"codepoint"=>"U+FE354",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x99\x88",
+			"kddi"=>"\xee\xad\x90",
+		),
+	),
+	"\xf3\xbe\x8d\x96" => array(
+		"codepoint"=>"U+FE356",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x99\x89",
+			"kddi"=>"\xee\xad\x92",
+		),
+	),
+	"\xf3\xbe\x8d\x95" => array(
+		"codepoint"=>"U+FE355",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x99\x8a",
+			"kddi"=>"\xee\xad\x91",
+		),
+	),
+	"\xf3\xbe\x8d\x97" => array(
+		"codepoint"=>"U+FE357",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x80\x92",
+			"unified"=>"\xf0\x9f\x99\x8b",
+			"kddi"=>"\xee\xae\x85",
+		),
+	),
+	"\xf3\xbe\x8d\x98" => array(
+		"codepoint"=>"U+FE358",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xa7",
+			"unified"=>"\xf0\x9f\x99\x8c",
+			"kddi"=>"\xee\xae\x86",
+		),
+	),
+	"\xf3\xbe\x8d\x99" => array(
+		"codepoint"=>"U+FE359",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb3",
+			"softbank"=>"\xee\x90\x83",
+			"unified"=>"\xf0\x9f\x99\x8d",
+			"kddi"=>"\xee\xae\x87",
+		),
+	),
+	"\xf3\xbe\x8d\x9a" => array(
+		"codepoint"=>"U+FE35A",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb1",
+			"softbank"=>"\xee\x90\x96",
+			"unified"=>"\xf0\x9f\x99\x8e",
+			"kddi"=>"\xee\xae\x88",
+		),
+	),
+	"\xf3\xbe\x8d\x9b" => array(
+		"codepoint"=>"U+FE35B",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\x9d",
+			"unified"=>"\xf0\x9f\x99\x8f",
+			"kddi"=>"\xee\xab\x92",
+		),
+	),
+	"\xf3\xbe\x9f\xad" => array(
+		"codepoint"=>"U+FE7ED",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\x8d",
+			"unified"=>"\xf0\x9f\x9a\x80",
+			"kddi"=>"\xee\x97\x88",
+		),
+	),
+	"\xf3\xbe\x9f\x9f" => array(
+		"codepoint"=>"U+FE7DF",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9b",
+			"softbank"=>"\xee\x80\x9e",
+			"unified"=>"\xf0\x9f\x9a\x83",
+			"kddi"=>"\xee\x92\xb5",
+		),
+	),
+	"\xf3\xbe\x9f\xa2" => array(
+		"codepoint"=>"U+FE7E2",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9d",
+			"softbank"=>"\xee\x90\xb5",
+			"unified"=>"\xf0\x9f\x9a\x84",
+			"kddi"=>"\xee\x92\xb0",
+		),
+	),
+	"\xf3\xbe\x9f\xa3" => array(
+		"codepoint"=>"U+FE7E3",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9d",
+			"softbank"=>"\xee\x80\x9f",
+			"unified"=>"\xf0\x9f\x9a\x85",
+			"kddi"=>"\xee\x92\xb0",
+		),
+	),
+	"\xf3\xbe\x9f\xa0" => array(
+		"codepoint"=>"U+FE7E0",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9c",
+			"softbank"=>"\xee\x90\xb4",
+			"unified"=>"\xf0\x9f\x9a\x87",
+			"kddi"=>"\xee\x96\xbc",
+		),
+	),
+	"\xf3\xbe\x9f\xac" => array(
+		"codepoint"=>"U+FE7EC",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x80\xb9",
+			"unified"=>"\xf0\x9f\x9a\x89",
+			"kddi"=>"\xee\xad\xad",
+		),
+	),
+	"\xf3\xbe\x9f\xa6" => array(
+		"codepoint"=>"U+FE7E6",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa0",
+			"softbank"=>"\xee\x85\x99",
+			"unified"=>"\xf0\x9f\x9a\x8c",
+			"kddi"=>"\xee\x92\xaf",
+		),
+	),
+	"\xf3\xbe\x9f\xa7" => array(
+		"codepoint"=>"U+FE7E7",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x85\x90",
+			"unified"=>"\xf0\x9f\x9a\x8f",
+			"kddi"=>"\xee\x92\xa7",
+		),
+	),
+	"\xf3\xbe\x9f\xb3" => array(
+		"codepoint"=>"U+FE7F3",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xb1",
+			"unified"=>"\xf0\x9f\x9a\x91",
+			"kddi"=>"\xee\xab\xa0",
+		),
+	),
+	"\xf3\xbe\x9f\xb2" => array(
+		"codepoint"=>"U+FE7F2",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xb0",
+			"unified"=>"\xf0\x9f\x9a\x92",
+			"kddi"=>"\xee\xab\x9f",
+		),
+	),
+	"\xf3\xbe\x9f\xb4" => array(
+		"codepoint"=>"U+FE7F4",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xb2",
+			"unified"=>"\xf0\x9f\x9a\x93",
+			"kddi"=>"\xee\xab\xa1",
+		),
+	),
+	"\xf3\xbe\x9f\xaf" => array(
+		"codepoint"=>"U+FE7EF",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9e",
+			"softbank"=>"\xee\x85\x9a",
+			"unified"=>"\xf0\x9f\x9a\x95",
+			"kddi"=>"\xee\x92\xb1",
+		),
+	),
+	"\xf3\xbe\x9f\xa4" => array(
+		"codepoint"=>"U+FE7E4",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9e",
+			"softbank"=>"\xee\x80\x9b",
+			"unified"=>"\xf0\x9f\x9a\x97",
+			"kddi"=>"\xee\x92\xb1",
+		),
+	),
+	"\xf3\xbe\x9f\xa5" => array(
+		"codepoint"=>"U+FE7E5",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\x9f",
+			"softbank"=>"\xee\x90\xae",
+			"unified"=>"\xf0\x9f\x9a\x99",
+			"kddi"=>"\xee\x92\xb1",
+		),
+	),
+	"\xf3\xbe\x9f\xb1" => array(
+		"codepoint"=>"U+FE7F1",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xaf",
+			"unified"=>"\xf0\x9f\x9a\x9a",
+			"kddi"=>"\xee\x92\xb2",
+		),
+	),
+	"\xf3\xbe\x9f\xa8" => array(
+		"codepoint"=>"U+FE7E8",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xa1",
+			"softbank"=>"\xee\x88\x82",
+			"unified"=>"\xf0\x9f\x9a\xa2",
+			"kddi"=>"\xee\xaa\x82",
+		),
+	),
+	"\xf3\xbe\x9f\xae" => array(
+		"codepoint"=>"U+FE7EE",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\xa3",
+			"softbank"=>"\xee\x84\xb5",
+			"unified"=>"\xf0\x9f\x9a\xa4",
+			"kddi"=>"\xee\x92\xb4",
+		),
+	),
+	"\xf3\xbe\x9f\xb7" => array(
+		"codepoint"=>"U+FE7F7",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xad",
+			"softbank"=>"\xee\x85\x8e",
+			"unified"=>"\xf0\x9f\x9a\xa5",
+			"kddi"=>"\xee\x91\xaa",
+		),
+	),
+	"\xf3\xbe\x9f\xb8" => array(
+		"codepoint"=>"U+FE7F8",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xb7",
+			"unified"=>"\xf0\x9f\x9a\xa7",
+			"kddi"=>"\xee\x97\x97",
+		),
+	),
+	"\xf3\xbe\x9f\xb9" => array(
+		"codepoint"=>"U+FE7F9",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x90\xb2",
+			"unified"=>"\xf0\x9f\x9a\xa8",
+			"kddi"=>"\xee\xad\xb3",
+		),
+	),
+	"\xf3\xbe\xac\xa2" => array(
+		"codepoint"=>"U+FEB22",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\x9e",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x9a\xa9",
+			"kddi"=>"\xee\xac\xac",
+		),
+	),
+	"\xf3\xbe\x93\xb3" => array(
+		"codepoint"=>"U+FE4F3",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x94",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x9a\xaa",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xad\x88" => array(
+		"codepoint"=>"U+FEB48",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb8",
+			"softbank"=>"",
+			"unified"=>"\xf0\x9f\x9a\xab",
+			"kddi"=>"\xee\x95\x81",
+		),
+	),
+	"\xf3\xbe\xac\x9e" => array(
+		"codepoint"=>"U+FEB1E",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xbf",
+			"softbank"=>"\xee\x8c\x8e",
+			"unified"=>"\xf0\x9f\x9a\xac",
+			"kddi"=>"\xee\x91\xbd",
+		),
+	),
+	"\xf3\xbe\xac\x9f" => array(
+		"codepoint"=>"U+FEB1F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9a\x80",
+			"softbank"=>"\xee\x88\x88",
+			"unified"=>"\xf0\x9f\x9a\xad",
+			"kddi"=>"\xee\x91\xbe",
+		),
+	),
+	"\xf3\xbe\x9f\xab" => array(
+		"codepoint"=>"U+FE7EB",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\x9d",
+			"softbank"=>"\xee\x84\xb6",
+			"unified"=>"\xf0\x9f\x9a\xb2",
+			"kddi"=>"\xee\x92\xae",
+		),
+	),
+	"\xf3\xbe\x9f\xb0" => array(
+		"codepoint"=>"U+FE7F0",
+		"unicode" => array(
+			"docomo"=>"\xee\x9c\xb3",
+			"softbank"=>"\xee\x88\x81",
+			"unified"=>"\xf0\x9f\x9a\xb6",
+			"kddi"=>"\xee\xad\xb2",
+		),
+	),
+	"\xf3\xbe\xac\xb3" => array(
+		"codepoint"=>"U+FEB33",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xb8",
+			"unified"=>"\xf0\x9f\x9a\xb9",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\xac\xb4" => array(
+		"codepoint"=>"U+FEB34",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xb9",
+			"unified"=>"\xf0\x9f\x9a\xba",
+			"kddi"=>"",
+		),
+	),
+	"\xf3\xbe\x94\x86" => array(
+		"codepoint"=>"U+FE506",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xae",
+			"softbank"=>"\xee\x85\x91",
+			"unified"=>"\xf0\x9f\x9a\xbb",
+			"kddi"=>"\xee\x92\xa5",
+		),
+	),
+	"\xf3\xbe\xac\xb5" => array(
+		"codepoint"=>"U+FEB35",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x84\xba",
+			"unified"=>"\xf0\x9f\x9a\xbc",
+			"kddi"=>"\xee\xac\x98",
+		),
+	),
+	"\xf3\xbe\x94\x87" => array(
+		"codepoint"=>"U+FE507",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xae",
+			"softbank"=>"\xee\x85\x80",
+			"unified"=>"\xf0\x9f\x9a\xbd",
+			"kddi"=>"\xee\x92\xa5",
+		),
+	),
+	"\xf3\xbe\x94\x88" => array(
+		"codepoint"=>"U+FE508",
+		"unicode" => array(
+			"docomo"=>"\xee\x99\xae",
+			"softbank"=>"\xee\x8c\x89",
+			"unified"=>"\xf0\x9f\x9a\xbe",
+			"kddi"=>"\xee\x92\xa5",
+		),
+	),
+	"\xf3\xbe\x94\x85" => array(
+		"codepoint"=>"U+FE505",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xb7",
+			"softbank"=>"\xee\x84\xbf",
+			"unified"=>"\xf0\x9f\x9b\x80",
+			"kddi"=>"\xee\x97\x98",
+		),
+	),
+	"\xf3\xbe\xa0\xac" => array(
+		"codepoint"=>"U+FE82C",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa0",
+			"softbank"=>"\xee\x88\x90",
+			"unified"=>"#\xe2\x83\xa3",
+			"kddi"=>"\xee\xae\x84",
+		),
+	),
+	"\xf3\xbe\xa0\xb7" => array(
+		"codepoint"=>"U+FE837",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xab",
+			"softbank"=>"\xee\x88\xa5",
+			"unified"=>"0\xe2\x83\xa3",
+			"kddi"=>"\xee\x96\xac",
+		),
+	),
+	"\xf3\xbe\xa0\xae" => array(
+		"codepoint"=>"U+FE82E",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa2",
+			"softbank"=>"\xee\x88\x9c",
+			"unified"=>"1\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xa2",
+		),
+	),
+	"\xf3\xbe\xa0\xaf" => array(
+		"codepoint"=>"U+FE82F",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa3",
+			"softbank"=>"\xee\x88\x9d",
+			"unified"=>"2\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xa3",
+		),
+	),
+	"\xf3\xbe\xa0\xb0" => array(
+		"codepoint"=>"U+FE830",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa4",
+			"softbank"=>"\xee\x88\x9e",
+			"unified"=>"3\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xa4",
+		),
+	),
+	"\xf3\xbe\xa0\xb1" => array(
+		"codepoint"=>"U+FE831",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa5",
+			"softbank"=>"\xee\x88\x9f",
+			"unified"=>"4\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xa5",
+		),
+	),
+	"\xf3\xbe\xa0\xb2" => array(
+		"codepoint"=>"U+FE832",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa6",
+			"softbank"=>"\xee\x88\xa0",
+			"unified"=>"5\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xa6",
+		),
+	),
+	"\xf3\xbe\xa0\xb3" => array(
+		"codepoint"=>"U+FE833",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa7",
+			"softbank"=>"\xee\x88\xa1",
+			"unified"=>"6\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xa7",
+		),
+	),
+	"\xf3\xbe\xa0\xb4" => array(
+		"codepoint"=>"U+FE834",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa8",
+			"softbank"=>"\xee\x88\xa2",
+			"unified"=>"7\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xa8",
+		),
+	),
+	"\xf3\xbe\xa0\xb5" => array(
+		"codepoint"=>"U+FE835",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xa9",
+			"softbank"=>"\xee\x88\xa3",
+			"unified"=>"8\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xa9",
+		),
+	),
+	"\xf3\xbe\xa0\xb6" => array(
+		"codepoint"=>"U+FE836",
+		"unicode" => array(
+			"docomo"=>"\xee\x9b\xaa",
+			"softbank"=>"\xee\x88\xa4",
+			"unified"=>"9\xe2\x83\xa3",
+			"kddi"=>"\xee\x94\xaa",
+		),
+	),
+	"\xf3\xbe\x93\xad" => array(
+		"codepoint"=>"U+FE4ED",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x93",
+			"unified"=>"\xf0\x9f\x87\xa8\xf0\x9f\x87\xb3",
+			"kddi"=>"\xee\xac\x91",
+		),
+	),
+	"\xf3\xbe\x93\xa8" => array(
+		"codepoint"=>"U+FE4E8",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x8e",
+			"unified"=>"\xf0\x9f\x87\xa9\xf0\x9f\x87\xaa",
+			"kddi"=>"\xee\xac\x8e",
+		),
+	),
+	"\xf3\xbe\x93\xab" => array(
+		"codepoint"=>"U+FE4EB",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x91",
+			"unified"=>"\xf0\x9f\x87\xaa\xf0\x9f\x87\xb8",
+			"kddi"=>"\xee\x97\x95",
+		),
+	),
+	"\xf3\xbe\x93\xa7" => array(
+		"codepoint"=>"U+FE4E7",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x8d",
+			"unified"=>"\xf0\x9f\x87\xab\xf0\x9f\x87\xb7",
+			"kddi"=>"\xee\xab\xba",
+		),
+	),
+	"\xf3\xbe\x93\xaa" => array(
+		"codepoint"=>"U+FE4EA",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x90",
+			"unified"=>"\xf0\x9f\x87\xac\xf0\x9f\x87\xa7",
+			"kddi"=>"\xee\xac\x90",
+		),
+	),
+	"\xf3\xbe\x93\xa9" => array(
+		"codepoint"=>"U+FE4E9",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x8f",
+			"unified"=>"\xf0\x9f\x87\xae\xf0\x9f\x87\xb9",
+			"kddi"=>"\xee\xac\x8f",
+		),
+	),
+	"\xf3\xbe\x93\xa5" => array(
+		"codepoint"=>"U+FE4E5",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x8b",
+			"unified"=>"\xf0\x9f\x87\xaf\xf0\x9f\x87\xb5",
+			"kddi"=>"\xee\x93\x8c",
+		),
+	),
+	"\xf3\xbe\x93\xae" => array(
+		"codepoint"=>"U+FE4EE",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x94",
+			"unified"=>"\xf0\x9f\x87\xb0\xf0\x9f\x87\xb7",
+			"kddi"=>"\xee\xac\x92",
+		),
+	),
+	"\xf3\xbe\x93\xac" => array(
+		"codepoint"=>"U+FE4EC",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x92",
+			"unified"=>"\xf0\x9f\x87\xb7\xf0\x9f\x87\xba",
+			"kddi"=>"\xee\x97\x96",
+		),
+	),
+	"\xf3\xbe\x93\xa6" => array(
+		"codepoint"=>"U+FE4E6",
+		"unicode" => array(
+			"docomo"=>"",
+			"softbank"=>"\xee\x94\x8c",
+			"unified"=>"\xf0\x9f\x87\xba\xf0\x9f\x87\xb8",
+			"kddi"=>"\xee\x95\xb3",
+		),
+	),
+);
