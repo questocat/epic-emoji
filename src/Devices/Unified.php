@@ -9,7 +9,7 @@ class Unified extends AbstractDevice
     /**
      * {@inheritdoc}
      */
-    public function dynamicWithDictName()
+    protected function dynamicWithDictName()
     {
         $this->dict->setAttribute('unicode', 'emoji_unified');
         $this->dict->setAttribute('html', 'images16/unified_html');

@@ -9,7 +9,7 @@ class Docomo extends AbstractDevice
     /**
      * {@inheritdoc}
      */
-    public function dynamicWithDictName()
+    protected function dynamicWithDictName()
     {
         $this->dict->setAttribute('unicode', 'emoji_docomo');
         $this->dict->setAttribute('html', 'images16/docomo_html');

@@ -9,7 +9,7 @@ class Softbank extends AbstractDevice
     /**
      * {@inheritdoc}
      */
-    public function dynamicWithDictName()
+    protected function dynamicWithDictName()
     {
         $this->dict->setAttribute('unicode', 'emoji_softbank');
         $this->dict->setAttribute('html', 'images16/softbank_html');

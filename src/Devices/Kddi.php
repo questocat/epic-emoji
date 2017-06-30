@@ -9,7 +9,7 @@ class Kddi extends AbstractDevice
     /**
      * {@inheritdoc}
      */
-    public function dynamicWithDictName()
+    protected function dynamicWithDictName()
     {
         $this->dict->setAttribute('unicode', 'emoji_kddi');
         $this->dict->setAttribute('html', 'images16/kddi_html');

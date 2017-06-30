@@ -9,7 +9,7 @@ class Google extends AbstractDevice
     /**
      * {@inheritdoc}
      */
-    public function dynamicWithDictName()
+    protected function dynamicWithDictName()
     {
         $this->dict->setAttribute('unicode', 'emoji_google');
         $this->dict->setAttribute('html', 'images16/google_html');
