@@ -16,30 +16,30 @@ $epicEmoji = new EpicEmoji();
 $content = '呜呜，宝宝不开心😔';
 $unified = $epicEmoji->unified($content);
 
-echo $unified->emoji();                         // output emoji
-echo $unified->setText('哇哦👻')->emoji();      // output emoji
-echo $unified->withText('哇哦👻')->emoji();     // output emoji
-echo $unified->shorthand();                     // output shorthand
-echo $unified->codepoint();    // output codepoint
-echo $unified->html();         // output html
-echo $unified->htmlEntity();   // output htmlEntity
+$unified->emoji();        // output emoji
+$unified->setText('哇哦👻')->emoji();   // output emoji
+$unified->withText('哇哦👻')->emoji();  // output emoji
+$unified->shorthand();    // output shorthand
+$unified->codepoint();    // output codepoint
+$unified->html();         // output html
+$unified->htmlEntity();   // output htmlEntity
 
 // convert to DoCoMo devices
-$google = $unified->docomo();
+$docomo = $unified->docomo();
 
 // convert to Softbank & pre-iOS6 Apple devices
-$google = $unified->softbank();
+$softbank = $unified->softbank();
 
 // convert to KDDI & Au devices
-$google = $unified->kddi();
+$kddi = $unified->kddi();
 
 // convert to Google Android devices
 $google = $unified->google();
-echo $google->emoji();         // output emoji
-echo $google->shorthand();     // output shorthand
-echo $google->codepoint();     // output codepoint
-echo $google->html();          // output html
-echo $google->htmlEntity();    // output htmlEntity
+$google->emoji();         // output emoji
+$google->shorthand();     // output shorthand
+$google->codepoint();     // output codepoint
+$google->html();          // output html
+$google->htmlEntity();    // output htmlEntity
 
 ```
 
