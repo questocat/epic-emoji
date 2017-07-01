@@ -72,7 +72,7 @@ abstract class AbstractDevice
     /**
      * Returns the dictionary.
      *
-     * @return array
+     * @return Dictionary
      */
     public function getDictionary()
     {
@@ -198,7 +198,7 @@ abstract class AbstractDevice
      *
      * @param mixed $search
      * @param mixed $replace
-     * @param mixed $text
+     * @param string $text
      *
      * @return mixed
      */
