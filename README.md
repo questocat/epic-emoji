@@ -12,7 +12,7 @@ The emoji epic conversion library
 
 $epicEmoji = new EpicEmoji();
 
-// from apple devices
+// from Apple devices
 $content = '呜呜，宝宝不开心😔';
 $unified = $epicEmoji->unified($content);
 
