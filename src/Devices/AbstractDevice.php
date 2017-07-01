@@ -3,7 +3,7 @@
 namespace Emanci\EpicEmoji\Devices;
 
 use Emanci\EpicEmoji\Dictionary;
-use Emanci\EpicEmoji\FileNotFoundException;
+use Emanci\EpicEmoji\DictionaryInterface;
 use InvalidArgumentException;
 
 /**
@@ -32,17 +32,8 @@ abstract class AbstractDevice
      */
     public function __construct($text = null)
     {
-        if (!is_null($text)) {
-            $this->text = $text;
-        }
-
-        $this->createDictionary();
+        $this->text = $text;
     }
-
-    /**
-     * Dynamically set dictionary name.
-     */
-    abstract protected function dynamicWithDictName();
 
     /**
      * Set the text.
@@ -69,18 +60,28 @@ abstract class AbstractDevice
     }
 
     /**
-     * Create the dictionary.
-     *
-     * @return Dictionary
+     * Set the dictionary.
      */
-    protected function createDictionary()
+    public function setDictionary(DictionaryInterface $dict)
     {
-        $default = [
-            'shorthand' => 'emoji_shorthand',
-        ];
+        $this->dict = $dict;
 
-        $this->dict = new Dictionary($default);
-        $this->dynamicWithDictName();
+        return $this;
+    }
+
+    /**
+     * Returns the dictionary.
+     *
+     * @return array
+     */
+    public function getDictionary()
+    {
+        if (is_null($this->dict)) {
+            $path = dirname(dirname(__DIR__)).'/data/';
+            $this->dict = new Dictionary($path);
+        }
+
+        return $this->dict;
     }
 
     /**
@@ -100,9 +101,9 @@ abstract class AbstractDevice
      */
     public function shorthand()
     {
-        $shorthandDictName = $this->dict->shorthandDictName();
+        $shorthandDict = $this->getDictionary()->shorthandDict();
 
-        return $this->emojiWasCalled($shorthandDictName, function ($map) {
+        return $this->dictWasCalled($shorthandDict, function ($map) {
             $device = $this->getCalledDevices();
             $search = array_column($map, $device);
             $replace = array_keys($map);
@@ -118,9 +119,9 @@ abstract class AbstractDevice
      */
     public function codepoint()
     {
-        $unicodeDictName = $this->dict->unicodeDictName();
+        $unicodeDict = $this->getUnicodeDict();
 
-        return $this->emojiWasCalled($unicodeDictName, function ($map) {
+        return $this->dictWasCalled($unicodeDict, function ($map) {
             $search = array_keys($map);
             $replace = array_column($map, 'codepoint');
 
@@ -135,9 +136,10 @@ abstract class AbstractDevice
      */
     public function html()
     {
-        $htmlDictName = $this->dict->htmlDictName();
+        $calledDevice = $this->getCalledDevices();
+        $htmlDict = $this->getDictionary()->htmlDict($calledDevice);
 
-        return $this->emojiWasCalled($htmlDictName, function ($map) {
+        return $this->dictWasCalled($htmlDict, function ($map) {
             $search = array_keys($map);
 
             return $this->convert($search, $map, $this->text);
@@ -151,9 +153,9 @@ abstract class AbstractDevice
      */
     public function htmlEntity()
     {
-        $unicodeDictName = $this->dict->unicodeDictName();
+        $unicodeDict = $this->getUnicodeDict();
 
-        return $this->emojiWasCalled($unicodeDictName, function ($map) {
+        return $this->dictWasCalled($unicodeDict, function ($map) {
             $search = array_keys($map);
             $replace = array_map(function ($codepoint) {
                 return html_entity($codepoint);
@@ -174,9 +176,9 @@ abstract class AbstractDevice
      */
     protected function deviceExchange($device)
     {
-        $unicodeDictName = $this->dict->unicodeDictName();
+        $unicodeDict = $this->getUnicodeDict();
 
-        return $this->emojiWasCalled($unicodeDictName, function ($map) use ($device) {
+        return $this->dictWasCalled($unicodeDict, function ($map) use ($device) {
             $deviceName = __NAMESPACE__.'\\'.ucfirst($device);
 
             if (!class_exists($deviceName)) {
@@ -218,21 +220,26 @@ abstract class AbstractDevice
     }
 
     /**
+     * Get the unicode dictionart dict.
+     *
+     * @return array
+     */
+    protected function getUnicodeDict()
+    {
+        $calledDevice = $this->getCalledDevices();
+
+        return $this->getDictionary()->unicodeDict($calledDevice);
+    }
+
+    /**
+     * @param array    $dict
      * @param callable $callback
      *
      * @return mixed
      */
-    protected function emojiWasCalled($identifier, callable $callback)
+    protected function dictWasCalled(array $dict, callable $callback)
     {
-        $path = dirname(dirname(__DIR__)).'/data/'.$identifier;
-
-        if (file_exists($path)) {
-            $emojis = (array) include $path;
-
-            return map($emojis, $callback);
-        }
-
-        throw new FileNotFoundException("File does not exist at path {$path}");
+        return map($dict, $callback);
     }
 
     /**

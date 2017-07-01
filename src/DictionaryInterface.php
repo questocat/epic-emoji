@@ -5,23 +5,29 @@ namespace Emanci\EpicEmoji;
 interface DictionaryInterface
 {
     /**
-     * Returns the name of shorthand dictionary.
+     * Returns the name of the shorthand dictionary.
+     *
+     * @param string|null $name
      *
      * @return string
      */
-    public function shorthandDictName();
+    public function shorthandDict($name = null);
 
     /**
-     * Returns the name of unicode dictionary.
+     * Returns the name of the unicode dictionary.
+     *
+     * @param string $name
      *
      * @return string
      */
-    public function unicodeDictName();
+    public function unicodeDict($name);
 
     /**
-     * Returns the name of html dictionary.
+     * Returns the name of the html dictionary.
+     *
+     * @param string $name
      *
      * @return string
      */
-    public function htmlDictName();
+    public function htmlDict($name);
 }

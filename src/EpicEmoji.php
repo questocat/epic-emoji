@@ -57,10 +57,6 @@ class EpicEmoji
             $device = ucfirst($device);
             $deviceClass = __NAMESPACE__.'\\Devices\\'.$device;
 
-            if (!class_exists($deviceClass)) {
-                throw new InvalidArgumentException("$deviceClass doesn't exist.");
-            }
-
             return $this->buildDevice($deviceClass, $text);
         }
 

@@ -5,60 +5,75 @@ namespace Tests;
 use Emanci\EpicEmoji\Devices\Docomo;
 use Emanci\EpicEmoji\Devices\Google;
 use Emanci\EpicEmoji\Devices\Kddi;
-use Emanci\EpicEmoji\Devices\Softbank;
+use Emanci\EpicEmoji\Devices\Softbank as SoftbankDevice;
 use Emanci\EpicEmoji\Devices\Unified;
+use Emanci\EpicEmoji\DictionaryInterface;
+use Emanci\EpicEmoji\EpicEmoji;
 
 class UnifiedTest extends TestCase
 {
     protected $unified;
 
-    protected $text;
+    protected $dict;
 
     public function setUp()
     {
-        $poo = emoji_utf8_bytes(0x1F4A9);      // shorthand: hankey, softbank: 0xE05A
-        $cloud = emoji_utf8_bytes(0x2601);     // shorthand: cloud, softbank: 0xE049
-        $victory = emoji_utf8_bytes(0x270C);   // shorthand: v, softbank: 0xE011
+        $epicEmoji = new EpicEmoji();
+        $text = 'I like to store my aaa in the fff it makes me feel kkk.';
+        $this->unified = $epicEmoji->unified($text);
 
-        $this->text = "I like to store my {$poo} in the {$cloud} it makes me feel {$victory}.";
-        $this->unified = new Unified($this->text);
+        $this->dict = new MockDict();
+        $this->unified->setDictionary($this->dict);
+    }
+
+    public function testDictionary()
+    {
+        $this->assertSame($this->dict, $this->unified->getDictionary());
     }
 
     public function testEmoji()
     {
-        $this->assertEquals($this->text, $this->unified->emoji());
+        $this->assertEquals('I like to store my aaa in the fff it makes me feel kkk.', $this->unified->emoji());
         $this->unified->setText('好害羞');
         $this->assertSame('好害羞', $this->unified->emoji());
         $this->unified->withText('再来一把');
         $this->assertSame('再来一把', $this->unified->emoji());
     }
 
+    public function testToString()
+    {
+        $this->unified->setText('foo bar');
+        $this->assertSame('foo bar', (string) $this->unified);
+    }
+
     public function testShorthand()
     {
         $text = 'I like to store my :hankey: in the :cloud: it makes me feel :v:.';
-        $this->assertEquals($text, $this->unified->shorthand());
+        $this->assertSame($text, $this->unified->shorthand());
     }
 
     public function testCodepoint()
     {
-        $text = 'I like to store my U+1F4A9 in the U+2601 it makes me feel U+270C.';
-        $this->assertEquals($text, $this->unified->codepoint());
+        $text = 'I like to store my U+111 in the U+222 it makes me feel U+333.';
+        $this->assertSame($text, $this->unified->codepoint());
     }
 
     public function testHtmlEntity()
     {
-        $text = 'I like to store my '.html_entity('1F4A9').' in the '.html_entity('2601').' it makes me feel '.html_entity('270C').'.';
-        $this->assertEquals($text, $this->unified->htmlEntity());
+        $text = 'I like to store my '.html_entity('111').' in the '.html_entity('222').' it makes me feel '.html_entity('333').'.';
+        $this->assertSame($text, $this->unified->htmlEntity());
+    }
+
+    public function testHtml()
+    {
+        $text = 'I like to store my html_aaa in the html_fff it makes me feel html_kkk.';
+        $this->assertSame($text, $this->unified->html());
     }
 
     public function testConvertSoftbank()
     {
         $softbank = $this->unified->softbank();
-        $this->assertInstanceOf(get_class($softbank), new Softbank());
-
-        $softbankDevice = new SoftbankDevice();
-        $this->assertEquals($softbank->emoji(), $softbankDevice->emoji());
-        $this->assertEquals($softbank->shorthand(), $softbankDevice->shorthand());
+        $this->assertInstanceOf(get_class($softbank), new SoftbankDevice());
     }
 
     public function testConvertKDDI()
@@ -80,19 +95,95 @@ class UnifiedTest extends TestCase
     }
 }
 
-class SoftbankDevice extends Softbank
+class MockDict implements DictionaryInterface
 {
-    public function emoji()
+    /**
+     * Returns the name of shorthand dictionary.
+     *
+     * @param string|null $name
+     *
+     * @return string
+     */
+    public function shorthandDict($name = null)
     {
-        $poo = emoji_utf8_bytes(0xE05A);       // shorthand: hankey, softbank: 0xE05A
-        $cloud = emoji_utf8_bytes(0xE049);     // shorthand: cloud, softbank: 0xE049
-        $victory = emoji_utf8_bytes(0xE011);   // shorthand: v, softbank: 0xE011
-
-        return "I like to store my {$poo} in the {$cloud} it makes me feel {$victory}.";
+        return [
+            ':hankey:' => [
+                'unified' => 'aaa',
+                'docomo' => 'bbb',
+                'softbank' => 'ccc',
+                'google' => 'ddd',
+                'kddi' => 'eee',
+            ],
+            ':cloud:' => [
+                'unified' => 'fff',
+                'docomo' => 'ggg',
+                'softbank' => 'hhh',
+                'google' => 'iii',
+                'kddi' => 'jjj',
+            ],
+            ':v:' => [
+                'unified' => 'kkk',
+                'docomo' => 'mmm',
+                'softbank' => 'nnn',
+                'google' => 'ppp',
+                'kddi' => 'qqq',
+            ],
+        ];
     }
 
-    public function shorthand()
+    /**
+     * Returns the name of unicode dictionary.
+     *
+     * @param string $name
+     *
+     * @return string
+     */
+    public function unicodeDict($name)
     {
-        return 'I like to store my :hankey: in the :cloud: it makes me feel :v:.';
+        return [
+            'aaa' => [
+                'codepoint' => 'U+111',
+                'unicode' => [
+                    'docomo' => 'bbb',
+                    'softbank' => 'ccc',
+                    'google' => 'ddd',
+                    'kddi' => 'eee',
+                ],
+            ],
+            'fff' => [
+                'codepoint' => 'U+222',
+                'unicode' => [
+                    'docomo' => 'ggg',
+                    'softbank' => 'hhh',
+                    'google' => 'iii',
+                    'kddi' => 'jjj',
+                ],
+            ],
+            'kkk' => [
+                'codepoint' => 'U+333',
+                'unicode' => [
+                    'docomo' => 'mmm',
+                    'softbank' => 'nnn',
+                    'google' => 'ppp',
+                    'kddi' => 'qqq',
+                ],
+            ],
+        ];
+    }
+
+    /**
+     * Returns the name of html dictionary.
+     *
+     * @param string $name
+     *
+     * @return string
+     */
+    public function htmlDict($name)
+    {
+        return [
+            'aaa' => 'html_aaa',
+            'fff' => 'html_fff',
+            'kkk' => 'html_kkk',
+        ];
     }
 }

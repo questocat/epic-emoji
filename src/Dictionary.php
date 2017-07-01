@@ -4,45 +4,84 @@ namespace Emanci\EpicEmoji;
 
 class Dictionary implements DictionaryInterface
 {
-    use HasAttributes;
+    /**
+     * The dictionary path.
+     *
+     * @var string
+     */
+    protected $path;
 
     /**
      * Dictionary constructor.
      *
-     * @param array $attributes
+     * @param string $path
      */
-    public function __construct(array $attributes)
+    public function __construct($path)
     {
-        $this->attributes = $attributes;
+        $this->path = $path;
     }
 
     /**
      * Returns the name of shorthand dictionary.
      *
+     * @param string $name
+     *
      * @return string
      */
-    public function shorthandDictName()
+    public function shorthandDict($name = null)
     {
-        return $this->getAttribute('shorthand');
+        $name = $name ?: 'shorthand';
+
+        return $this->getDictByName($name);
     }
 
     /**
      * Returns the name of unicode dictionary.
      *
+     * @param string $name
+     *
      * @return string
      */
-    public function unicodeDictName()
+    public function unicodeDict($name)
     {
-        return $this->getAttribute('unicode');
+        $name = sprintf('emoji_%s', $name);
+
+        return $this->getDictByName($name);
     }
 
     /**
      * Returns the name of html dictionary.
      *
+     * @param string $name
+     *
      * @return string
      */
-    public function htmlDictName()
+    public function htmlDict($name)
     {
-        return $this->getAttribute('html');
+        $name = sprintf('images16/%s_html', $name);
+
+        return $this->getDictByName($name);
+    }
+
+    /**
+     * Returns the dictionary.
+     *
+     * @param string $name
+     *
+     * @throws FileNotFoundException
+     *
+     * @return array
+     */
+    protected function getDictByName($name)
+    {
+        $path = $this->path.'/'.$name;
+
+        if (file_exists($path)) {
+            $dict = (array) include $path;
+
+            return $dict;
+        }
+
+        throw new FileNotFoundException("Dictionary does not exist at path {$path}");
     }
 }
