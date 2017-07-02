@@ -1,9 +1,4 @@
 <?php
-/**
- * @author: emanci <zhengchaopu@gmail.com>
- *
- * @copyright 2017 moerlong.com
- */
 
 namespace Emanci\EpicEmoji\Devices;
 

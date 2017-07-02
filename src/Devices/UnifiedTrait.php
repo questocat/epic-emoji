@@ -4,8 +4,8 @@ namespace Emanci\EpicEmoji\Devices;
 
 trait UnifiedTrait
 {
-	use DeviceExchangeTrait;
-	
+    use DeviceExchangeTrait;
+
     public function unified()
     {
         return $this->deviceExchange('unified');
