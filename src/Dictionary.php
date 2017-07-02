@@ -28,10 +28,8 @@ class Dictionary implements DictionaryInterface
      *
      * @return array
      */
-    public function shorthandDict($name = null)
+    public function shorthandDict($name)
     {
-        $name = $name ?: 'shorthand';
-
         return $this->getDictByName($name);
     }
 

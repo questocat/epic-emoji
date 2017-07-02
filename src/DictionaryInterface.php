@@ -7,11 +7,11 @@ interface DictionaryInterface
     /**
      * Returns the name of the shorthand dictionary.
      *
-     * @param string|null $name
+     * @param string $name
      *
      * @return array
      */
-    public function shorthandDict($name = null);
+    public function shorthandDict($name);
 
     /**
      * Returns the name of the unicode dictionary.

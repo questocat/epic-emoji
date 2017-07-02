@@ -26,6 +26,13 @@ abstract class AbstractDevice
     protected $dict;
 
     /**
+     * The shorthand dict name.
+     *
+     * @var string
+     */
+    protected $shorthand = 'shorthand';
+
+    /**
      * AbstractUnicode construct.
      *
      * @param string $text
@@ -95,13 +102,13 @@ abstract class AbstractDevice
     }
 
     /**
-     * Returns shorthand of text.
+     * Returns shorthand of the text.
      *
      * @return string
      */
     public function shorthand()
     {
-        $shorthandDict = $this->getDictionary()->shorthandDict();
+        $shorthandDict = $this->getDictionary()->shorthandDict($this->shorthand);
 
         return $this->dictWasCalled($shorthandDict, function ($map) {
             $device = $this->getCalledDevices();
@@ -113,7 +120,7 @@ abstract class AbstractDevice
     }
 
     /**
-     * Returns codepoint of unicode.
+     * Returns codepoint of the unicode.
      *
      * @return string
      */

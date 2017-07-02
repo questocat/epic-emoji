@@ -104,7 +104,7 @@ class MockDict implements DictionaryInterface
      *
      * @return string
      */
-    public function shorthandDict($name = null)
+    public function shorthandDict($name)
     {
         return [
             ':hankey:' => [
