@@ -26,7 +26,7 @@ class Dictionary implements DictionaryInterface
      *
      * @param string $name
      *
-     * @return string
+     * @return array
      */
     public function shorthandDict($name = null)
     {
@@ -40,7 +40,7 @@ class Dictionary implements DictionaryInterface
      *
      * @param string $name
      *
-     * @return string
+     * @return array
      */
     public function unicodeDict($name)
     {
@@ -54,7 +54,7 @@ class Dictionary implements DictionaryInterface
      *
      * @param string $name
      *
-     * @return string
+     * @return array
      */
     public function htmlDict($name)
     {

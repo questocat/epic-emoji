@@ -21,7 +21,7 @@ abstract class AbstractDevice
     /**
      * The dictionary instance.
      *
-     * @var Dictionary
+     * @var DictionaryInterface
      */
     protected $dict;
 
@@ -72,7 +72,7 @@ abstract class AbstractDevice
     /**
      * Returns the dictionary.
      *
-     * @return Dictionary
+     * @return DictionaryInterface
      */
     public function getDictionary()
     {
@@ -196,8 +196,8 @@ abstract class AbstractDevice
     /**
      * Converts text.
      *
-     * @param mixed $search
-     * @param mixed $replace
+     * @param mixed  $search
+     * @param mixed  $replace
      * @param string $text
      *
      * @return mixed

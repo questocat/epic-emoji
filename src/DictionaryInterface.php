@@ -9,7 +9,7 @@ interface DictionaryInterface
      *
      * @param string|null $name
      *
-     * @return string
+     * @return array
      */
     public function shorthandDict($name = null);
 
@@ -18,7 +18,7 @@ interface DictionaryInterface
      *
      * @param string $name
      *
-     * @return string
+     * @return array
      */
     public function unicodeDict($name);
 
@@ -27,7 +27,7 @@ interface DictionaryInterface
      *
      * @param string $name
      *
-     * @return string
+     * @return array
      */
     public function htmlDict($name);
 }
