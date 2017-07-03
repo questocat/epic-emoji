@@ -1,5 +1,14 @@
 <?php
 
+/*
+ * This file is part of Epic Emoji.
+ *
+ * (c) emanci <zhengchaopu@gmail.com>
+ *
+ * This source file is subject to the MIT license that is bundled
+ * with this source code in the file LICENSE.
+ */
+
 namespace Emanci\EpicEmoji\Devices;
 
 use Emanci\EpicEmoji\Dictionary;
@@ -40,6 +49,14 @@ abstract class AbstractDevice
     public function __construct($text = null)
     {
         $this->text = $text;
+    }
+
+    /**
+     * @return string
+     */
+    public function __toString()
+    {
+        return $this->text;
     }
 
     /**
@@ -111,8 +128,7 @@ abstract class AbstractDevice
         $shorthandDict = $this->getDictionary()->shorthandDict($this->shorthand);
 
         return $this->dictWasCalled($shorthandDict, function ($map) {
-            $device = $this->getCalledDevices();
-            $search = array_column($map, $device);
+            $search = array_column($map, $this->getCalledDevices());
             $replace = array_keys($map);
 
             return $this->convert($search, $replace, $this->text);
@@ -247,13 +263,5 @@ abstract class AbstractDevice
     protected function dictWasCalled(array $dict, callable $callback)
     {
         return map($dict, $callback);
-    }
-
-    /**
-     * @return string
-     */
-    public function __toString()
-    {
-        return $this->text;
     }
 }

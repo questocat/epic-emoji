@@ -1,11 +1,14 @@
 <?php
 
-/**
- * @param mixed    $value
- * @param callable $callback
+/*
+ * This file is part of Epic Emoji.
  *
- * @return mixed
+ * (c) emanci <zhengchaopu@gmail.com>
+ *
+ * This source file is subject to the MIT license that is bundled
+ * with this source code in the file LICENSE.
  */
+
 function map($value, callable $callback)
 {
     return $callback($value);
