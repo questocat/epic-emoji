@@ -9,11 +9,6 @@
  * with this source code in the file LICENSE.
  */
 
-function map($value, callable $callback)
-{
-    return $callback($value);
-}
-
 /**
  * 码点转为 HTML 实体形式.
  *

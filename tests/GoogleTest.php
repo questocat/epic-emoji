@@ -34,7 +34,7 @@ class GoogleTest extends TestCase
 
     public function testShorthand()
     {
-        $poo = emoji_utf8_bytes(0xFE4F4);      // shorthand: hankey, google: 0xFE4F4
+        $poo = emoji_utf8_bytes(0xFE4F4);       // shorthand: hankey, google: 0xFE4F4
         $cloud = emoji_utf8_bytes(0xFE001);     // shorthand: cloud, google: 0xFE001
         $victory = emoji_utf8_bytes(0xFEB94);   // shorthand: v, google: 0xFEB94
 
@@ -48,7 +48,7 @@ class GoogleTest extends TestCase
      * @expectedException        \Emanci\EpicEmoji\FileNotFoundException
      * @expectedExceptionMessage does not exist
      */
-    public function testEmojiWasCalledException()
+    public function testUnknowDictException()
     {
         $unknowDict = new UnknowDict();
         $unknowDict->html();
@@ -67,12 +67,9 @@ class UnknowDict extends SoftbankDevice
     public function html()
     {
         $htmlDict = $this->getDictionary()->htmlDict('unknow_dict');
+        $search = array_keys($htmlDict);
 
-        return $this->dictWasCalled($htmlDict, function ($map) {
-            $search = array_keys($map);
-
-            return $this->convert($search, $map, $this->text);
-        });
+        return $this->convert($this->text, $search, $htmlDict);
     }
 }
 

@@ -126,13 +126,10 @@ abstract class AbstractDevice
     public function shorthand()
     {
         $shorthandDict = $this->getDictionary()->shorthandDict($this->shorthand);
+        $search = array_column($shorthandDict, $this->getCalledDevices());
+        $replace = array_keys($shorthandDict);
 
-        return $this->dictWasCalled($shorthandDict, function ($map) {
-            $search = array_column($map, $this->getCalledDevices());
-            $replace = array_keys($map);
-
-            return $this->convert($search, $replace, $this->text);
-        });
+        return $this->convert($this->text, $search, $replace);
     }
 
     /**
@@ -143,13 +140,10 @@ abstract class AbstractDevice
     public function codepoint()
     {
         $unicodeDict = $this->getUnicodeDict();
+        $search = array_keys($unicodeDict);
+        $replace = array_column($unicodeDict, 'codepoint');
 
-        return $this->dictWasCalled($unicodeDict, function ($map) {
-            $search = array_keys($map);
-            $replace = array_column($map, 'codepoint');
-
-            return $this->convert($search, $replace, $this->text);
-        });
+        return $this->convert($this->text, $search, $replace);
     }
 
     /**
@@ -161,12 +155,9 @@ abstract class AbstractDevice
     {
         $calledDevice = $this->getCalledDevices();
         $htmlDict = $this->getDictionary()->htmlDict($calledDevice);
+        $search = array_keys($htmlDict);
 
-        return $this->dictWasCalled($htmlDict, function ($map) {
-            $search = array_keys($map);
-
-            return $this->convert($search, $map, $this->text);
-        });
+        return $this->convert($this->text, $search, $htmlDict);
     }
 
     /**
@@ -177,15 +168,12 @@ abstract class AbstractDevice
     public function htmlEntity()
     {
         $unicodeDict = $this->getUnicodeDict();
+        $search = array_keys($unicodeDict);
+        $replace = array_map(function ($codepoint) {
+            return html_entity($codepoint);
+        }, array_column($unicodeDict, 'codepoint'));
 
-        return $this->dictWasCalled($unicodeDict, function ($map) {
-            $search = array_keys($map);
-            $replace = array_map(function ($codepoint) {
-                return html_entity($codepoint);
-            }, array_column($map, 'codepoint'));
-
-            return $this->convert($search, $replace, $this->text);
-        });
+        return $this->convert($this->text, $search, $replace);
     }
 
     /**
@@ -200,32 +188,29 @@ abstract class AbstractDevice
     protected function deviceExchange($device)
     {
         $unicodeDict = $this->getUnicodeDict();
+        $deviceName = __NAMESPACE__.'\\'.ucfirst($device);
 
-        return $this->dictWasCalled($unicodeDict, function ($map) use ($device) {
-            $deviceName = __NAMESPACE__.'\\'.ucfirst($device);
+        if (!class_exists($deviceName)) {
+            throw new InvalidArgumentException("Device [$deviceName] doesn't exist.");
+        }
 
-            if (!class_exists($deviceName)) {
-                throw new InvalidArgumentException("Device [$deviceName] doesn't exist.");
-            }
+        $search = array_keys($unicodeDict);
+        $replace = array_column(array_column($unicodeDict, 'unicode'), strtolower($device));
+        $replacement = $this->convert($this->text, $search, $replace);
 
-            $search = array_keys($map);
-            $replace = array_column(array_column($map, 'unicode'), strtolower($device));
-            $replacement = $this->convert($search, $replace, $this->text);
-
-            return new $deviceName($replacement);
-        });
+        return new $deviceName($replacement);
     }
 
     /**
      * Converts text.
      *
+     * @param string $text
      * @param mixed  $search
      * @param mixed  $replace
-     * @param string $text
      *
-     * @return mixed
+     * @return string
      */
-    protected function convert($search, $replace, $text)
+    protected function convert($text, $search, $replace)
     {
         return str_replace($search, $replace, $text);
     }
@@ -252,16 +237,5 @@ abstract class AbstractDevice
         $calledDevice = $this->getCalledDevices();
 
         return $this->getDictionary()->unicodeDict($calledDevice);
-    }
-
-    /**
-     * @param array    $dict
-     * @param callable $callback
-     *
-     * @return mixed
-     */
-    protected function dictWasCalled(array $dict, callable $callback)
-    {
-        return map($dict, $callback);
     }
 }
