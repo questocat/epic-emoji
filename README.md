@@ -8,6 +8,14 @@ The emoji epic conversion library
 [![Code Coverage](https://scrutinizer-ci.com/g/emanci/epic-emoji/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/emanci/epic-emoji/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/emanci/epic-emoji/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/emanci/epic-emoji/?branch=master)
 
+## Installation
+
+Using [Composer](https://getcomposer.org) to add the package to your project's dependencies:
+
+```php
+composer require emanci/epic-emoji
+```
+
 ## Usage
 
 ```php
