@@ -133,7 +133,7 @@ abstract class AbstractDevice
     public function shorthand()
     {
         $shorthandDict = $this->getDictionary()->shorthandDict($this->shorthand);
-        $search = array_column($shorthandDict, $this->getCalledDevices());
+        $search = array_column($shorthandDict, $this->getDeviceIdentifier());
         $replace = array_keys($shorthandDict);
 
         return $this->convert($this->text, $search, $replace);
@@ -160,11 +160,10 @@ abstract class AbstractDevice
      */
     public function html()
     {
-        $calledDevice = $this->getCalledDevices();
-        $htmlDict = $this->getDictionary()->htmlDict($calledDevice);
-        $search = array_keys($htmlDict);
+        $calledDevice = $this->getDeviceIdentifier();
+        $dictionary = $this->getDictionary()->htmlDict($calledDevice);
 
-        return $this->convert($this->text, $search, $htmlDict);
+        return strtr($this->text, $dictionary);
     }
 
     /**
@@ -223,11 +222,11 @@ abstract class AbstractDevice
     }
 
     /**
-     * Returns the called devices.
+     * Returns the device Identifier.
      *
      * @return string
      */
-    protected function getCalledDevices()
+    protected function getDeviceIdentifier()
     {
         return $this->deviceIdentifier;
     }
@@ -239,7 +238,7 @@ abstract class AbstractDevice
      */
     protected function getUnicodeDict()
     {
-        $calledDevice = $this->getCalledDevices();
+        $calledDevice = $this->getDeviceIdentifier();
 
         return $this->getDictionary()->unicodeDict($calledDevice);
     }
