@@ -42,6 +42,13 @@ abstract class AbstractDevice
     protected $shorthand = 'shorthand';
 
     /**
+     * Unique device Identifier.
+     *
+     * @var string
+     */
+    protected $deviceIdentifier;
+
+    /**
      * AbstractUnicode construct.
      *
      * @param string $text
@@ -222,9 +229,7 @@ abstract class AbstractDevice
      */
     protected function getCalledDevices()
     {
-        $classArr = explode('\\', get_class($this));
-
-        return strtolower(array_pop($classArr));
+        return $this->deviceIdentifier;
     }
 
     /**

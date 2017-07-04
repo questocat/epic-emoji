@@ -14,4 +14,11 @@ namespace Emanci\EpicEmoji\Devices;
 class Google extends AbstractDevice
 {
     use DocomoTrait, KddiTrait, SoftbankTrait, UnifiedTrait;
+
+    /**
+     * Unique device Identifier.
+     *
+     * @var string
+     */
+    protected $deviceIdentifier = 'google';
 }
