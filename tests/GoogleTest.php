@@ -66,10 +66,9 @@ class UnknowDict extends SoftbankDevice
 {
     public function html()
     {
-        $htmlDict = $this->getDictionary()->htmlDict('unknow_dict');
-        $search = array_keys($htmlDict);
+        $dictionary = $this->getDictionary()->htmlDict('unknow_dict');
 
-        return $this->convert($this->text, $search, $htmlDict);
+        return strtr($this->text, $dictionary);
     }
 }
 
