@@ -31,9 +31,9 @@ class EpicEmoji
     protected $initialUnicode = [
         'unified' => 'Unified',
         'softbank' => 'Softbank',
-        'kddi' => 'KDDI',
+        'kddi' => 'Kddi',
         'google' => 'Google',
-        'docomo' => 'DoCoMo',
+        'docomo' => 'Docomo',
     ];
 
     /**
