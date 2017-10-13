@@ -12,8 +12,8 @@ The emoji epic conversion library
 
 Using [Composer](https://getcomposer.org) to add the package to your project's dependencies:
 
-```php
-composer require emanci/epic-emoji
+```bash
+$ composer require emanci/epic-emoji
 ```
 
 ## Usage
