@@ -1,9 +1,9 @@
 <?php
 
 /*
- * This file is part of Epic Emoji.
+ * This file is part of questocat/epic-emoji package.
  *
- * (c) emanci <zhengchaopu@gmail.com>
+ * (c) questocat <zhengchaopu@gmail.com>
  *
  * This source file is subject to the MIT license that is bundled
  * with this source code in the file LICENSE.
@@ -11,10 +11,10 @@
 
 namespace Tests;
 
-use Emanci\EpicEmoji\Devices\Google;
-use Emanci\EpicEmoji\Devices\Softbank as SoftbankDevice;
-use Emanci\EpicEmoji\Devices\Unified;
-use Emanci\EpicEmoji\EpicEmoji;
+use Questocat\EpicEmoji\Devices\Google;
+use Questocat\EpicEmoji\Devices\Softbank as SoftbankDevice;
+use Questocat\EpicEmoji\Devices\Unified;
+use Questocat\EpicEmoji\EpicEmoji;
 
 class GoogleTest extends TestCase
 {
@@ -45,7 +45,7 @@ class GoogleTest extends TestCase
     }
 
     /**
-     * @expectedException        \Emanci\EpicEmoji\FileNotFoundException
+     * @expectedException        \Questocat\EpicEmoji\FileNotFoundException
      * @expectedExceptionMessage does not exist
      */
     public function testUnknowDictException()
