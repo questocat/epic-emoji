@@ -6,6 +6,7 @@ The emoji epic conversion library
 [![Build Status](https://travis-ci.org/questocat/epic-emoji.svg?branch=master)](https://travis-ci.org/questocat/epic-emoji)
 [![Code Coverage](https://scrutinizer-ci.com/g/questocat/epic-emoji/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/questocat/epic-emoji/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/questocat/epic-emoji/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/questocat/epic-emoji/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/questocat/epic-emoji/badges/build.png?b=master)](https://scrutinizer-ci.com/g/questocat/epic-emoji/build-status/master)
 [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://packagist.org/packages/questocat/epic-emoji)
 
 ## Installation
