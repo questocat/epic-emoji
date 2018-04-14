@@ -3,17 +3,17 @@
 The emoji epic conversion library
 
 [![StyleCI](https://styleci.io/repos/95678703/shield?branch=master)](https://styleci.io/repos/95678703)
-[![Build Status](https://travis-ci.org/emanci/epic-emoji.svg?branch=master)](https://travis-ci.org/emanci/epic-emoji)
-[![Code Coverage](https://scrutinizer-ci.com/g/emanci/epic-emoji/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/emanci/epic-emoji/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/emanci/epic-emoji/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/emanci/epic-emoji/?branch=master)
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://packagist.org/packages/emanci/epic-emoji)
+[![Build Status](https://travis-ci.org/questocat/epic-emoji.svg?branch=master)](https://travis-ci.org/questocat/epic-emoji)
+[![Code Coverage](https://scrutinizer-ci.com/g/questocat/epic-emoji/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/questocat/epic-emoji/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/questocat/epic-emoji/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/questocat/epic-emoji/?branch=master)
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://packagist.org/packages/questocat/epic-emoji)
 
 ## Installation
 
 Using [Composer](https://getcomposer.org) to add the package to your project's dependencies:
 
 ```bash
-$ composer require emanci/epic-emoji
+$ composer require questocat/epic-emoji
 ```
 
 ## Usage
@@ -67,4 +67,4 @@ $google->htmlEntity();    // output htmlEntity
 
 ## License
 
-Licensed under the [MIT license](https://github.com/emanci/epic-emoji/blob/master/LICENSE).
+Licensed under the [MIT license](https://github.com/questocat/epic-emoji/blob/master/LICENSE).

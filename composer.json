@@ -1,11 +1,11 @@
 {
-    "name": "emanci/epic-emoji",
+    "name": "questocat/epic-emoji",
     "description": "The emoji epic conversion library",
     "keywords": ["emoji", "php-emoji"],
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [{
-        "name": "emanci",
+        "name": "questocat",
         "email": "zhengchaopu@gmail.com"
     }],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Emanci\\EpicEmoji\\": "src/"
+            "Questocat\\EpicEmoji\\": "src/"
         },
         "files": [
             "src/helpers.php"
